@@ -1,0 +1,1249 @@
+1	Coś poszło nie tak. Postęp jest zapisany — szczegóły w Ustawieniach
+2	Błąd
+3	Las
+4	Płomień
+5	Słońce
+6	Fala
+7	Anioły
+8	Demony
+9	Wojownik
+10	Mag
+11	Łucznik
+12	Zabójca
+13	Uzdrowiciel
+14	Potężny cios w cel, ogłuszenie i tarcza dla siebie
+15	Obrażenia wszystkim wrogom
+16	Ogromne obrażenia najbardziej rannemu wrogowi
+17	Dwa pewne trafienia krytyczne w tylny rząd
+18	Leczy całą drużynę i daje tarczę
+19	leczy się o 10%
+20	podpala cele na 2 tury
+21	obrażenia umiejętności +20%
+22	spowalnia cele
+23	tarcza dla sojuszników
+24	wampiryzm 30% obrażeń
+25	Strażnik Tronu
+26	Trzyma linię frontu: dużo zdrowia i obrony, ogłusza wrogów.
+27	Niebiański rozłam
+28	Gwiaździarz
+29	Sprowadza gwiazdy na wszystkich wrogów naraz.
+30	Deszcz gwiazd
+31	Księżycowa tropicielka
+32	Dobija rannych wrogów celnymi strzałami.
+33	Księżycowa strzała
+34	Ostrze zaćmienia
+35	Przebija się do tylnego rzędu i zadaje krytyki.
+36	Taniec cieni
+37	Liana
+38	Strażniczka korzeni
+39	Rozkwit życia
+40	Silvan
+41	Leśny tropiciel
+42	Liściasta nawałnica
+43	Omszały Gron
+44	Kamienny wartownik
+45	Cios głazu
+46	Elwira
+47	Szept gałęzi
+48	Burza zarodników
+49	Cierń
+50	Kolczasty cień
+51	Ciernisty wir
+52	Pani Wierzba
+53	Serce Pradawnego lasu
+54	Gniew tysiąca korzeni
+55	Iskra
+56	Uczeń ognia
+57	Kula ognia
+58	Brandt
+59	Kowal wojny
+60	Rozżarzony młot
+61	Popielna Kira
+62	Zabójczyni z popiołów
+63	Popielne cięcie
+64	Ognistowłosa Rin
+65	Strzała zachodu
+66	Płonąca salwa
+67	Feniks Arden
+68	Odrodzony
+69	Skrzydło feniksa
+70	Cesarz Ragnar
+71	Władca płomieni
+72	Erupcja
+73	Tim
+74	Słoneczny łucznik
+75	Odblask
+76	Saja
+77	Śpiewaczka świtu
+78	Hymn do słońca
+79	Złoty lew Ato
+80	Tarcza pustyni
+81	Ryk lwa
+82	Kapłanka Ra
+83	Oko zenitu
+84	Słoneczna włócznia
+85	Iren
+86	Ostrze świtu
+87	Tnący promień
+88	Amaria
+89	Słonecznolica
+90	Południowy cud
+91	Kropla
+92	Cicha fala
+93	Plusk
+94	Najada Mira
+95	Panna źródła
+96	Żywa woda
+97	Ulf
+98	Burzowy łucznik
+99	Uderzenie gromu
+100	Undyna
+101	Morska wiedźma
+102	Wir
+103	Korr
+104	Strażnik przypływu
+105	Dziewiąta fala
+106	Neria
+107	Księżniczka Lewiatana
+108	Zew głębin
+109	Lil
+110	Cherubin
+111	Pióro nadziei
+112	Serafina
+113	Łuczniczka niebios
+114	Strzała światła
+115	Archont Wal
+116	Miecz prawa
+117	Wyrok
+118	Michaela
+119	Płonący miecz
+120	Niebiańska kara
+121	Gabriel
+122	Głos niebios
+123	Trąba wezwania
+124	Lumina
+125	Tron światła
+126	Sanktuarium
+127	Skwar
+128	Psotny diablik
+129	Podstępne ukąszenie
+130	Lilith
+131	Królowa nocy
+132	Urok otchłani
+133	Mortis
+134	Kat podziemi
+135	Łańcuchy męki
+136	Beliala
+137	Łowczyni dusz
+138	Strzała skażenia
+139	Azael
+140	Upadły anioł
+141	Zaćmienie
+142	Malfas
+143	Władca Otchłani
+144	Koniec świata
+145	Gaja
+146	Matka wszystkiego, co żyje
+147	Serce świata
+148	Surtur
+149	Ostatni ogień
+150	Ragnarök
+151	Helios
+152	Słońce nad Tronem
+153	Rydwan Słońca
+154	Okeana
+155	Pramatka wód
+156	Wielki potop
+157	Metatron
+158	Głos Tronu
+159	Niebiański Tron
+160	Nyks
+161	Pierwsza noc
+162	Wieczna noc
+163	Wędrowiec niebios
+164	Morski wilk
+165	Rycerz róży
+166	Sakura
+167	Dyniowy żniwiarz
+168	Zimowe święto
+169	Lodowy książę
+170	Cyber-samuraj
+171	Nefrytowy cesarz
+172	Gwiezdny wędrowiec
+173	Demon pustki
+174	Anioł świtu
+175	Szlam
+176	Księżycowy wilk
+177	Goblin
+178	Drzewiec
+179	Diablik
+180	Golem
+181	Szkielet
+182	Upiór
+183	Wąż
+184	Smok
+185	Nefrytowa dolina
+186	Król szlamów
+187	Gąszcz zmierzchu
+188	Drzewiec pustelnik
+189	Popielne pustkowia
+190	Popielny golem
+191	Lazurowe groty
+192	Morski wąż Irr
+193	Świątynia Słońca
+194	Strażnik-obelisk
+195	Mroźna przełęcz
+196	Szronowy smok
+197	Miasto cieni
+198	Cień-regent
+199	Ogrody aniołów
+200	Biały wąż Eir
+201	Rozłam Otchłani
+202	Pożeracz gwiazd
+203	Niebiański Tron
+204	Upadły cesarz
+205	Migotliwe bagna
+206	Pani bagien
+207	Ogniste kuźnie
+208	Kowal Surtura
+209	Niebiański archipelag
+210	Strażnik wiatrów
+211	Piaski zapomnienia
+212	Faraon piasków
+213	Kryształowe jaskinie
+214	Kryształowy smok
+215	Las duchów
+216	Drzewo Gai
+217	Szkarłatna cytadela
+218	Szkarłatny lord
+219	Gwiezdne obserwatorium
+220	Gwiaździarz Otchłani
+221	Sale Nocy
+222	Cień Nyks
+223	Brama Pierwotnych
+224	Serce Otchłani
+225	Przyzwanie Gwiazd
+226	Zwykłe zwoje przyzwania. Szansa na SSR — 5%.
+227	Niebiańskie przyzwanie
+228	Jedyne przyzwanie z bohaterami USR. Pewny USR w ciągu 90 przyzwań.
+229	Kupony Losu
+230	Tylko UR i wyżej. Jedyne źródło bohaterów SSR+. Pewny SSR+ w ciągu 40 przyzwań.
+231	80 tys. srebra
+232	2 zwoje
+233	40 tys. doświadczenia
+234	120 złota
+235	2 żetony
+236	Kupon
+237	Odłamki SSR
+238	Skórka
+239	Bohater SSR
+240	Bohater USR
+241	Wygraj 3 bitwy
+242	Przyzwij 2 razy
+243	Zakręć Kołem Niebios
+244	Awansuj bohaterów 5 razy
+245	Zbierz łupy
+246	Stocz walkę na arenie
+247	Aelita
+248	Wejlin
+249	Ragnir
+250	Xiao Long
+251	Tiamat
+252	Mirosław
+253	Eira
+254	Kai
+255	Welena
+256	Loren
+257	Hayato
+258	Ingvar
+259	Celesta
+260	Darion
+261	Yuna
+262	Oberin
+263	Złata
+264	Ares
+265	Nika
+266	Targon
+267	Zakon Świtu
+268	Niebiańskie Ostrze
+269	Dzieci Otchłani
+270	Księżycowy Dwór
+271	Straż Tronu
+272	Popielny Legion
+273	Gwiezdna Ścieżka
+274	Siedem Wiatrów
+275	Klan Kruka
+276	Klan Nefrytu
+277	Klan Gromu
+278	Klan Popiołu
+279	Klan Sakury
+280	Klan Lodu
+281	Klan Słońca
+282	Klan Cieni
+290	Pierwsze kroki
+291	Ukończ etap 1-10
+292	Zdobywca doliny
+293	Ukończ rozdział 1
+294	Głos pustkowi
+295	Ukończ rozdział 3
+296	Światło świątyni
+297	Ukończ rozdział 5
+298	Ukończ rozdział 10
+299	Pełny oddział
+300	Zbierz 5 bohaterów
+301	Kolekcjoner
+302	Zbierz 12 bohaterów
+303	Kronikarz
+304	Zbierz 24 bohaterów
+305	Wybraniec niebios
+306	Zdobądź bohatera USR
+307	Zew gwiazd
+308	Przyzwij 50 razy
+309	Władca przyzwań
+310	Przyzwij 200 razy
+311	Zahartowany
+312	Poziom głównego bohatera 50
+313	Legenda
+314	Poziom głównego bohatera 100
+315	Cztery gwiazdki
+316	Podnieś bohatera do 4★
+317	Granica mocy
+318	Podnieś bohatera do 6★
+319	Gladiator
+320	10 zwycięstw na arenie
+321	Złota liga
+322	Osiągnij ranking 1400
+323	Ramię w ramię
+324	Dołącz do sojuszu
+325	Postrach Otchłani
+326	Ukończ 30 poziomów wydarzenia
+327	Miażdżyciel
+328	Zadaj 100 000 obrażeń jednym ciosem
+329	Niezłomny oddział
+330	Moc oddziału 500 000
+331	Wierność
+332	Loguj się przez 7 dni
+333	Czerwona gwiazda
+334	Podnieś bohatera do 11★
+335	Fuzja
+336	Podnieś bohatera do 21★
+337	Przebudzenie legendy
+338	Zdobądź bohatera LR
+339	Jeździec
+340	Zdobądź zwierzaka
+341	Na skrzydłach
+342	Zdobądź skrzydła
+343	Wyniesienie
+344	Wynieś bohatera do R1
+345	Zenit
+346	Osiągnij Zenit
+347	Kronikarz Tronu
+348	Przeczytaj 10 rozdziałów fabuły
+349	Kowal
+350	Ulepsz ekwipunek do jakości Rzadki
+351	Przyzwij bohatera
+352	Przyzwanie → Gwiazdy → ×10
+353	Wygraj etap 1-1
+354	Naciśnij «Walka»
+355	Awansuj bohatera
+356	Bohaterowie → wybierz bohatera → Poziom
+357	Skrzynia w prawym dolnym rogu
+358	Ukończ etap 1-5
+359	Im dalszy etap, tym większe łupy
+360	Sojusz odblokowuje Tytana i wojnę klanów
+361	Witaj przy Tronie
+362	Wędrowcze, Niebiosa czekały na ciebie. Przyjmij te dary na drogę i zbierz oddział godny Tronu.
+363	Aktualizacja 2.1
+364	W grze pojawiły się osiągnięcia, poczta, samouczek, autoprzechodzenie i dziesiątki innych ulepszeń. Dziękujemy, że grasz!
+365	Aktualizacja 2.2: Era Legend
+366	Gwiazdki do 21, Wyniesienie R1 i Zenit, bohaterowie LR, zwierzaki, skrzydła, artefakty, ekwipunek, fabuła i 10 nowych rozdziałów. Otwórz «Kronikę» na ekranie kampanii — fabuła odblokowuje nowe systemy.
+367	Złote
+368	Różowe
+369	Czerwone
+370	Fioletowe
+371	Zwykły
+372	Rzadki
+373	Epicki
+374	Legendarny
+375	Mityczny
+376	Niebiański
+377	Broń
+378	Zbroja
+379	Hełm
+380	Amulet
+381	Boskie ostrze
+382	Boska egida
+383	Pradawna relikwia
+384	Pradawna korona
+385	Luna, księżycowy wilk
+386	Nefrytowy wilk
+387	Niebiański wąż
+388	Ognisty smoczek
+389	Lodowy smok
+390	Gwiezdny smok
+391	Skrzydła świtu
+392	Skrzydła otchłani
+393	Skrzydła feniksa
+394	Lodowe skrzydła
+395	Nefrytowe skrzydła
+396	Gwiezdne skrzydła
+397	Skrzydła Tronu
+398	Łza Lewiatana
+399	zdrowie i obrona
+400	Kieł Otchłani
+401	atak
+402	Serce feniksa
+403	zdrowie
+404	Księżycowe lustro
+405	obrona
+406	Oko Tronu
+407	szansa na krytyk
+408	Klepsydra
+409	szybkość
+410	Korona świtu
+411	atak i zdrowie
+412	Graal Legend
+413	atak, zdrowie, krytyk
+414	Zwierzaki
+415	Skrzydła
+416	Artefakty
+417	Boski ekwipunek
+418	Pradawny ekwipunek
+419	Wygrane bitwy
+420	Przyzwania bohaterów
+421	Awanse
+422	Zbieranie łupów
+423	Walki na arenie
+424	Obroty Ruletki Legend
+425	Płytki Niebiańskiej układanki
+426	Pakiet Legendy
+427	Pakiet Wyniesienia
+428	Pakiet Jeźdźca
+429	Pióra i Pył
+430	Skrzydła Tronu (LR)
+431	Graal Legend (LR)
+432	Gwiezdny smok (LR)
+433	Zwiastun Otchłani
+434	Luna
+435	Przebudzenie
+436	{name}, słyszysz mnie? Tron stoi pusty od stu lat — a dziś Otchłań wzniosła się pod same chmury.
+437	Gdzie ja jestem?.. Pamiętam tylko światło i głos, który wołał mnie po imieniu.
+438	Jesteś ostatnim, kogo dotknęło światło Tronu. Póki żyjesz, Niebiosa mają obrońcę.
+439	Kolejny bohater? Otchłań pochłaniała lepszych. Dolina padnie pierwsza.
+440	Nie słuchaj go. Zbierz oddział — razem przywrócimy Tronowi światło.
+441	Król szlamów to tylko mój pierwszy sługa. Zobaczymy, jak sobie z nim poradzisz.
+442	Księżycowy trop
+443	Gąszcz choruje. Korzenie szepczą o ciemności, która pije ich soki.
+444	Znajdziemy źródło, pani.
+445	Więc weź go ze sobą. Księżycowy wilk stracił watahę — teraz ty jesteś jego watahą.
+446	Auuuu!
+447	Zwierzak będzie przy tobie w każdej walce. Karm go — a urośnie w siłę razem z oddziałem.
+448	Pustkowia płoną, a moje kuźnie wystygły. Otchłań ukradła ogień samemu płomieniowi!
+449	Więc go odzyskamy, cesarzu.
+450	Hm. W gruzach kuźni leżą skrzydła wykute dla bohatera Tronu. Na mnie za małe — bierz.
+451	Skrzydła świtu! Pamiętają pierwszego obrońcę Niebios. Pióra uczynią je silniejszymi.
+452	Ciii... Groty słuchają. Morski wąż Irr oszalał od szeptów Otchłani.
+453	Uwolnimy go, księżniczko.
+454	Weź tę łzę. Lewiatan uronił ją, gdy upadł Tron. Pradawne rzeczy kryją moc całych epok.
+455	To artefakt. Niech oddział nosi artefakty — a każdy wojownik stanie się wytrzymalszy.
+456	Siedem kluczy
+457	Przybywasz w samą porę, strażniku. Świątynia skrywa tajemnicę: Tron jest zamknięty na siedem kluczy.
+458	I Otchłań ich szuka?
+459	Znalazła już trzy. Strażnik-obelisk chroni czwarty — nie pozwól mu upaść.
+460	Klucze same do mnie przyjdą. Tak jak twoja dusza, bohaterze.
+461	Kuźnia bogów
+462	Tu, w lodzie, śpi kuźnia bogów. Z niej wyszedł boski ekwipunek pierwszych strażników.
+463	Strzeże jej Szronowy smok?
+464	On jest jej płomieniem. Pokonaj go — a kuźnia się obudzi. Bohaterowie od 150 poziomu będą mogli nosić boskie ostrza i egidy.
+465	Układ z cieniem
+466	Cóż za gość... Bohater Tronu w moim mieście. Chcesz sojuszu? Ja też nie przepadam za Otchłanią.
+467	Dlaczego mam ufać Królowej nocy?
+468	Bo Cień-regent jest wrogiem nas obojga. A potem... zobaczymy.
+469	Uważaj. Lilith zawsze ma dwie twarze.
+470	Zwątpienie Gabriela
+471	Ogrody więdną. Może Niebiosa zasłużyły na upadek, skoro nie uchroniły Tronu?
+472	Niebiosa to nie tron. To ci, którzy powstają, gdy tron jest pusty.
+473	...Mówisz jak pierwszy strażnik. Więc znów wezmę trąbę i zwołam anioły.
+474	Rozłam
+475	Dotarłeś na skraj, bracie w świetle. Ja też tu kiedyś stałem — i zrobiłem krok w dół.
+476	Azaelu... Służysz Otchłani?
+477	Służę prawdzie. Pożeracz gwiazd trzyma klucze. Pokonaj go — a dowiesz się, kto naprawdę zasiadał na Tronie.
+478	Przyszedłeś zająć moje miejsce, strażniku?
+479	Twoje? Oddałeś Tron Otchłani!
+480	Strzegłem go tysiąc lat, aż zrozumiałem: Otchłań to głód samych Niebios. Na tego, kto to przyjmie, czeka pradawny ekwipunek pierwszych epok.
+481	Nie słuchaj! Ale w jednym ma rację: pradawne zbroje się obudziły. Przyjmą tylko bohaterów od 300 poziomu.
+482	Pokaż, ile jest warta twoja wiara!
+483	Era Legend
+484	Tron zadrżał i przebudzili się Pierwotni — legendy starsze niż Niebiosa i Otchłań.
+485	Dziecię Tronu. Ziemia pamięta twoje kroki. Pomóż jej — a ja pomogę tobie.
+486	Kim jesteś?
+487	Gaja. Matka wszystkiego, co rośnie. Bagna gniją — znajdź ich Panią i przywróć im sen.
+488	Ogień Surtura
+489	Mój ogień skończy ten świat, gdy przyjdzie czas. Ale nie dziś — i nie z woli Otchłani.
+490	Surtur... nawet ja chylę głowę przed Ostatnim ogniem.
+491	Więc walcz razem z nami.
+492	Pokonaj mojego kowala — a się zastanowię.
+493	Wiatr nad morzem
+494	Wyspy jedna po drugiej spadają do morza. Otchłań ciągnie je na dno.
+495	Okeano... pramatko wszystkich wód!
+496	Silne fale rodzą się w głębinie, dziecię. Strażnik wiatrów oszalał — uspokój go.
+497	Słońce ostatni raz zajdzie nad piaskami, jeśli faraon obudzi swoje wojsko.
+498	Heliosie! Myśleliśmy, że zgasłeś.
+499	Światło nie gaśnie — ono czeka. Niech strzały bohatera staną się moimi promieniami.
+500	Pieśń kryształu
+501	Jaskinie śpiewają. Każdy kryształ to zastygłe wspomnienie Tronu.
+502	Słyszę głos... To byłem ja?
+503	To był pierwszy strażnik. Twoja dusza jest starsza, niż myślisz.
+504	Moje drzewo jest porażone. Jeśli upadnie, świat zapomni, jak rosnąć.
+505	Pani, las odda ci wszystkie swoje korzenie!
+506	Uratujemy je.
+507	Pamiętasz nasz układ, bohaterze? Czas zapłacić. Szkarłatny lord to mój stary dług.
+508	A jeśli odmówię?
+509	Wtedy sam po ciebie przyjdzie. Wybór to iluzja, kochanie.
+510	Jestem Głosem Tronu. Zapisuję każde słowo Niebios.
+511	Więc powiedz: kto powinien zasiąść na Tronie?
+512	Ten, kto potrafi z niego zrezygnować. Gwiaździarz Otchłani zna odpowiedź — ukradł moje zwoje.
+513	Przed światłem była noc. Przed Tronem byłam ja.
+514	Nyks... matka ciemności. Nawet Otchłań się jej boi.
+515	Otchłań to moje nieposłuszne dziecko. Mój cień zgubił się w salach. Sprowadź go — a noc będzie po twojej stronie.
+516	Zebrałeś legendy, bohaterze. Ale Serce Otchłani bije przy samej Bramie!
+517	To ostatnia bitwa epoki. Za nią — Tron.
+518	Więc chodźmy. Wszyscy razem.
+519	Serca Otchłani nie da się zatrzymać!
+520	Echo doliny
+521	Serce Otchłani jest rozbite, ale echo jego uderzeń wróciło na dawne ziemie.
+522	Więc przejdziemy je znowu. Tylko teraz jesteśmy silniejsi.
+523	Cienie w gąszczu
+524	Ciemność wróciła do gąszczu — bardziej przebiegła niż wcześniej. Ukrywa się w korzeniach.
+525	Grrrr!
+526	Luna ją czuje. Prowadź!
+527	Popiół i stal
+528	Kuźnie znów płoną! Surtur oddał nam ogień — czas wykuć broń na ostatnią wojnę.
+529	Kuj, cesarzu. Popatrzę.
+530	Głębiny
+531	Irr wrócił z głębin... ale to już nie on. Otchłań nosi jego postać.
+532	Uwolnij go, dziecię. Morze ci się odwdzięczy.
+533	Fałszywy świt
+534	Słońce wzeszło na zachodzie. To podstęp Otchłani — podrobiła świt!
+535	Mojego światła nie da się podrobić. Strzelaj, bohaterze, poprowadzę strzałę.
+536	Zastygłe serce
+537	Kuźnia bogów zamarza. Bez niej boski ekwipunek zgaśnie.
+538	Więc rozpalimy ją na nowo.
+539	Zdrada
+540	Wybacz, bohaterze. Otchłań zaoferowała mi więcej.
+541	Ostrzegałam: królowa ma dwie twarze.
+542	Więc będę miał oczy szeroko otwarte.
+543	Niebiański chór
+544	Anioły znów śpiewają! Twoja droga oddała im głos.
+545	Tron czeka, strażniku. Ale najpierw — Biały wąż, ostatni strażnik ogrodów.
+546	Podszewka świata
+547	Na dole jest podszewka świata. To tam Otchłań ukrywa siódmy klucz.
+548	Pójdę pierwszy. Już raz tam spadłem.
+549	Tron
+550	Przeszedłeś całą drogę. Teraz zasiądź — albo odmów, jak mówił Metatron.
+551	Nie zasiądę na Tronie. Stanę obok — i będę jego tarczą.
+552	Na tę odpowiedź czekałem tysiąc lat. Od dziś jesteś Zenitem Niebios.
+553	{name}... Niebiosa znów lśnią.
+554	Ostatnia lekcja, strażniku!
+555	EU · Europa
+556	Serwer 1
+557	NA · Ameryka
+558	Wkrótce
+559	ASIA · Azja
+560	Srebro
+561	Złoto
+562	Zwój przyzwania
+563	Kupon Losu
+564	Żeton Koła
+565	Doświadczenie bohaterów
+566	Monety Sojuszu
+567	Znaki areny
+568	Punkty talentów
+569	Odłamki USR
+570	Ruda
+571	Boska esencja
+572	Pradawne odłamki
+573	Odłamki Legendy
+574	Gwiezdna esencja
+575	Jajo zwierzaka
+576	Karma dla zwierzaków
+577	Pióra
+578	Pył artefaktów
+579	Kamienie wyniesienia
+580	Bohater
+581	Główny zapis jest uszkodzony lub zmieniony — postęp przywrócono z kopii zapasowej
+582	Poz.
+583	Nowy bohater:
+584	+10 odłamków:
+585	Skórka:
+586	200 złota (masz już wszystkie skórki)
+587	Odłamki bohatera
+588	Brąz
+589	Platyna
+590	Diament
+591	Niebianin
+592	Rozdział
+593	Starszy
+594	Członek
+595	Najazd Otchłani
+596	Zwiastun Otchłani ·
+597	Walka!
+598	Ogłuszony
+599	Ogłuszenie
+600	Boss!
+601	Umiejętność
+602	Pauza
+603	Naciśnij ▶, aby kontynuować
+604	Umiejętność:
+605	Najsilniejszy cios:
+606	· tur
+607	Zwycięstwo
+608	Koniec czasu
+609	Porażka
+610	<p class="mute" style="font-size:12.5px">Walka trwała zbyt długo. Brakuje obrażeń: awansuj atakujących bohaterów.</p>
+611	Następny etap za
+612	s
+613	Stop
+614	Wyjdź
+615	Autoprzechodzenie etapów
+616	Brakuje złota: potrzeba
+617	, masz
+618	. Otworzyć sklep?
+619	Do sklepu
+620	Brakuje:
+621	za
+622	złota?
+623	Potwierdź
+624	Zamknij
+625	Anuluj
+626	Tak
+627	21★ — fuzja
+628	FUZJA
+629	BOHATER
+630	Można podnieść gwiazdkę
+631	<span class="mute">Nie zdobyto</span>
+632	Bohaterowie
+633	Postać
+634	Kampania
+635	Przyzwanie
+636	Sojusz
+637	Sklep
+638	Wydarzenia
+639	Arena
+640	Kup złoto
+641	Bitwa
+642	Świat
+643	przyzwał(a)
+644	ukończył(a) rozdział «
+645	Tytan Sojuszu słabnie, wszyscy do ataku!
+646	System
+647	Wydarzenie «
+648	» trwa cały tydzień
+649	szuka sojuszu, moc
+650	Ustawienia
+651	Poczta
+652	Poziom
+653	/30 · zostało:
+654	dn.
+655	Ruletka · układanka · bohaterowie LR
+656	[Fabuła]
+657	Etap
+658	Ukończ rozdział «
+659	z
+660	godz.
+661	Walka
+662	Rezonans «
+663	Logowanie
+664	Dzienne
+665	Osiągnięcia
+666	Przyzwij bohatera
+667	Koło Niebios
+668	· boss
+669	[Kronika]
+670	Odblokowuje:
+671	Przeczytaj — nagroda za rozdział
+672	[Dzienne]
+673	Wszystkie zadania wykonane
+674	Odbierz skrzynie
+675	[Sojusz]
+676	Tytan, wojna klanów, sklep
+677	Zamelduj się w sojuszu
+678	+150 Monet Sojuszu
+679	Magazyn pełny
+680	Łupy
+681	Szybkie łupy
+682	Szybko · 60
+683	Łupy:
+684	Brakuje złota
+685	Szybkie łupy:
+686	srebra
+687	Kolekcja
+688	Oddział
+689	Zebrano
+690	Sortuj:
+691	Wszyscy
+692	Dowolna rzadkość
+693	moc
+694	rzadkość
+695	poziom
+696	frakcja
+697	Ukryj brakujących
+698	Pokaż wszystkich
+699	Pusto
+700	Szyk bojowy
+701	Moc
+702	Przedni rząd
+703	Tylny rząd
+704	Auto
+705	Ulepsz cały oddział
+706	Doświadczenie i srebro dzielone są po równo: najsłabszy bohater rośnie pierwszy.
+707	Przewaga frakcji · +25% obrażeń
+708	Wojownicy wychodzą naprzód i przyjmują ciosy. Zabójcy przebijają się do tylnego rzędu wroga. Tylny rząd jest chroniony, póki żyje przedni.
+709	% do zdrowia i ataku
+710	Rezonans: 3 bohaterów jednej frakcji daje +8%, 4 bohaterów — +15%
+711	Oddział zebrany według mocy
+712	Brakuje doświadczenia lub srebra albo wszyscy bohaterowie są na limicie poziomu
+713	Oddział ulepszony: +
+714	poz., moc +
+715	Pozycja
+716	rząd
+717	Wybierz bohatera. Jeśli jest już w oddziale, bohaterowie zamienią się miejscami.
+718	przedni
+719	tylny
+720	Usuń
+721	Główny bohater jest zawsze w oddziale
+722	Ołtarz Legend — za Odłamki Legendy z płatnych wydarzeń
+723	Niebiańskie przyzwanie, Koło Niebios i Sklep Sojuszu
+724	dowolne przyzwanie i Koło Niebios
+725	Umiejętność «
+726	Gdzie zdobyć:
+727	Poprzedni bohater
+728	Następny bohater
+729	Moc:
+730	Moc frakcji
+731	Talenty
+732	Zdrowie
+733	Atak
+734	Obrona
+735	Szybkość · krytyk
+736	Do oddziału
+737	Przegląd
+738	Ekwipunek
+739	Gwiazdki
+740	. Moc frakcji «
+741	Poziomy Zenitu wymagają Kamieni wyniesienia
+742	Brakuje doświadczenia lub srebra
+743	poz. · moc +
+744	Oddział jest pełny: zamień bohatera w zakładce «Oddział»
+745	BAZA
+746	<span class="tag">ZAŁOŻONO</span>
+747	% do wszystkiego
+748	Brak premii
+749	<span class="g">Zdobyto</span>
+750	Wydarzenie tygodnia
+751	Potęga Tronu
+752	+1,5% ataku
+753	Niebiańskie ciało
+754	+1,5% zdrowia
+755	Oko jastrzębia
+756	+0,2% krytyka
+757	Skórki
+758	. Co 25 poziomów — nowa gwiazdka, przy R1 — fuzja (21★). Limit poziomu rośnie z rozdziałami.
+759	Klasa
+760	Wygląd
+761	Skórka całkowicie zmienia wygląd i daje premię do wszystkich statystyk: R +1%, UR +1,5%, SSR +2%, SSR+ +3%, USR +5%.
+762	pkt
+763	Punkty talentów dostajesz za każdy ukończony etap.
+764	Zmiana:
+765	Pierwsza zmiana za darmo
+766	za poziom
+767	Wzrost
+768	Talent +
+769	Potrzebny punkt talentu i srebro
+770	Nowa klasa:
+771	Zmienić klasę na «
+772	Poziom, skórki i talenty zostaną zachowane.
+773	Koszt: 500 złota.
+774	Pierwsza zmiana jest darmowa.
+775	Zmień
+776	Skórka «
+777	» założona
+778	Ta skórka wypada z Koła Niebios
+779	Ta skórka to główna nagroda wydarzenia «
+780	Kupić skórkę «
+781	» za
+782	Skórka zdobyta i założona
+783	Kup
+784	Wł.
+785	Wył.
+786	Language · Język
+787	Imię bohatera
+788	Zapisz
+789	Grafika
+790	Statystyki
+791	Walk
+792	Zwycięstw w kampanii
+793	Przyzwań
+794	Bohaterów USR
+795	Najsilniejszy cios
+796	Dni w grze
+797	Zapis
+798	Postęp zapisuje się na urządzeniu automatycznie: co 15 sekund i przy minimalizacji. Kod poniżej przenosi go na inne urządzenie.
+799	Wklej kod zapisu
+800	Pokaż mój kod
+801	Kopiuj
+802	Wczytaj kod
+803	Co nowego
+804	Prywatność
+805	Warunki
+806	Zmień postać
+807	Usuń postać
+808	Niebiański Tron · wersja
+809	Efekty dźwiękowe
+810	Muzyka
+811	Wibracje
+812	Wysoka
+813	Oszczędzanie baterii
+814	Dziennik błędów (
+815	Jakość grafiki zmieni się po ponownym uruchomieniu. Uruchomić ponownie teraz?
+816	Uruchom ponownie
+817	Wpisz imię
+818	Kod skopiowany
+819	Zaznacz i skopiuj kod ręcznie
+820	Zapis wczytany
+821	Kod nie zadziałał: upewnij się, że został skopiowany w całości
+822	Usunąć tę postać i cały jej postęp? Tego nie da się cofnąć.
+823	Usuń
+824	Kroniki niebian
+825	Tron jest pusty, a Otchłań wznosi się ku gwiazdom. Wybierz ścieżkę swojego bohatera.
+826	Umiejętność: «
+827	Na przykład Aelita
+828	Rozpocznij podróż
+829	Do postaci
+830	Wędrowiec
+831	Witaj,
+832	W twoim oddziale jest już trzech bohaterów. Masz 10 zwojów: pierwsze przyzwanie ×10 gwarantuje bohatera SSR.
+833	Do przyzwania
+834	dziś
+835	wczoraj
+836	dn. temu
+837	Wybierz postać
+838	Na tym serwerze nie ma jeszcze postaci
+839	Nowa postać
+840	Wolne miejsca:
+841	Wejdź do gry
+842	Zapis został zmieniony ręcznie i nie przeszedł weryfikacji autentyczności. Przywróć postęp kodem zapisu
+843	Nie udało się wczytać postaci
+844	Wszystkie miejsca zajęte
+845	Usunąć postać «
+846	» na zawsze? Postępu nie da się przywrócić.
+847	Postać usunięta
+848	Serwer
+849	Obecnie gra działa offline: postacie są przechowywane na tym urządzeniu. Inne regiony otworzą się razem z trybem online.
+850	Language · Język
+851	Wrogowie
+852	· oddział
+853	Za rozdział
+854	Autoprzechodzenie
+855	Próby
+856	· Boss
+857	Wrogowie:
+858	· silni przeciw nim:
+859	Kronika
+860	Dostępny rozdział:
+861	Czytaj
+862	rozdziałów
+863	· ranking
+864	· biletów
+865	/30 · próby
+866	/5 · główna nagroda — skórka USR
+867	Tytan Sojuszu
+868	Poziom
+869	· próby
+870	Dołącz do sojuszu, aby odblokować Tytana i wojnę klanów
+871	Wszystkie rozdziały ukończone. Nowe rozdziały pojawią się w aktualizacji
+872	Zbierz oddział
+873	ukończony!
+874	Nagroda
+875	Następny etap
+876	Wzmocnij oddział: podnieś poziomy i gwiazdki bohaterów albo przyzwij nowych. Kolejność w oddziale też ma znaczenie.
+877	Jeszcze raz
+878	Ulepsz oddział
+879	Autoprzechodzenie włączone: następny etap rozpocznie się sam
+880	Autoprzechodzenie wyłączone
+881	Liga
+882	zwycięstw ·
+883	porażek
+884	Bilety:
+885	+1 bilet
+886	Dzienna nagroda ligi
+887	Sklep areny
+888	Odebrano
+889	Odbierz
+890	Ranking
+891	· moc
+892	Walka
+893	Kup bilet
+894	Nagroda ligi «
+895	» odebrana
+896	Bilety się skończyły: nowe będą jutro
+897	Arena ·
+898	Do areny
+899	Ranking −8 →
+900	Wszystkie wydarzenia
+901	Aktywności
+902	30 poziomów demonów Otchłani · skórka USR
+903	Zostało:
+904	Płatne wydarzenia: ruletka, układanka, ścieżka
+905	Odłamki Legendy:
+906	· bohater LR —
+907	Tydzień
+908	Bohater tygodnia:
+909	Gwarancja USR:
+910	Główna nagroda — bohater USR
+911	Dostępny darmowy obrót
+912	Żetony:
+913	Walki z oddziałami rywali
+914	Wspólny boss sojuszu
+915	Odblokuje się po dołączeniu do sojuszu
+916	Wojna klanów
+917	Tygodniowa walka o ranking
+918	Miejsce
+919	Pn–Nd
+920	Nagrody za logowanie
+921	Loguj się codziennie: siódmego dnia — pakiet Kuponów Losu.
+922	Dzień
+923	<span style="color:var(--good);font-size:12px">Odebrano</span>
+924	Odbierz nagrodę dnia
+925	Wróć jutro
+926	Nagroda za logowanie odebrana
+927	Zadania dnia
+928	/120 pkt
+929	Skrzynia otwarta
+930	Skórka «Demon pustki» USR
+931	Demony Otchłani szturmują Tron. Ukończ 30 poziomów przed końcem tygodnia. Każdy poziom jest silniejszy od poprzedniego; postęp resetuje się w poniedziałek.
+932	Prób dziś:
+933	Nagrody za poziomy
+934	Nagroda za poziom
+935	Walka ·
+936	<b style="color:var(--good)">Wszystkie poziomy ukończone w tym tygodniu</b>
+937	· poziom
+938	<p>Zdobywasz skórkę USR «Demon pustki»! Załóż ją na ekranie bohatera.</p>
+939	Następny poziom
+940	Do wydarzenia
+941	<p class="mute">Próba zużyta. Wzmocnij oddział i wróć.</p>
+942	Dołącz do sojuszu, aby walczyć z Tytanem Sojuszu, rywalizować z innymi klanami i kupować rzadkie towary w Sklepie Sojuszu.
+943	Własny sojusz
+944	Nazwa sojuszu
+945	/40 członków
+946	Dołącz
+947	Sojusz · poziom
+948	Doświadczenie sojuszu
+949	· obrażenia liczą się całemu sojuszowi
+950	· biletów
+951	Atakuj obrońców wrogich klanów. Pierwsze zwycięstwo nad klanem daje premię 100 punktów. Nagrody na koniec tygodnia.
+952	Członkowie
+953	(ty)
+954	Sklep Sojuszu
+955	Opuść
+956	Zameldowano
+957	Zamelduj się
+958	Wyniki wojny klanów
+959	w zeszłym tygodniu
+960	Dołączasz do sojuszu «
+961	Wpisz nazwę
+962	Sojusz «
+963	» założony
+964	Meldunek: +150
+965	Opuścić sojusz? Postęp wojny klanów i Tytana przepadnie.
+966	Tytan Sojuszu · poz.
+967	Tytan pokonany! +
+968	złota dla wszystkich członków
+969	Tytan pokonany
+970	Atak zakończony
+971	Zadane obrażenia:
+972	Do sojuszu
+973	Wojna klanów ·
+974	Punkty klanu:
+975	· miejsce
+976	<p class="mute">Obrońcy się utrzymali. Spróbuj słabszego klanu.</p>
+977	Niebiańskie
+978	Kupony
+979	Koło
+980	Masz:
+981	Historia przyzwań
+982	Tylko UR, SSR i SSR+
+983	Zwykłe przyzwanie
+984	Gwarancja
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">Pierwsze przyzwanie ×10 gwarantuje bohatera SSR.</p>
+986	Za darmo
+987	Ołtarz
+988	Ostatnich
+989	bohaterów. Szanse każdego przyzwania są podane na jego banerze.
+990	<p class="mute">Na razie pusto.</p>
+991	Gotowe
+992	Jeszcze ×
+993	NOWY
+994	ZŁOTO
+995	+10 ODŁAMKÓW
+997	<button class="btn sec" data-act="sumAll">Pokaż wszystkich</button>
+998	Obrót ·
+999	Główna nagroda — bohater USR. Gwarancja w ciągu 100 obrotów.
+1000	Do gwarancji:
+1001	Szanse
+1002	NIEBO
+1003	Potrzebne żetony lub złoto
+1004	Koło Niebios ×
+1005	Świetnie
+1006	10 obrotów (żetonów
+1007	, reszta złotem)
+1008	Obrót
+1009	Potrzebny żeton lub 150 złota
+1010	Zakupy złota pojawią się w przyszłej aktualizacji. Na razie złoto dają etapy kampanii, łupy, logowanie, zadania dzienne, osiągnięcia, poczta i dzienny prezent w zakładce «Towary».
+1011	Tryb testowy
+1012	Płatności nie są podłączone: przyciski dają złoto za darmo, pieniądze nie są pobierane. Przed wydaniem w Google Play i App Store podłącza się tu ich zakupy w aplikacji.
+1013	Własna kwota
+1014	Od 10 do 100 000 000 złota. Im więcej, tym lepszy kurs.
+1015	Dzienny prezent
+1016	Jutro
+1017	<p class="mute">Sklep otwiera się po dołączeniu do sojuszu.</p>
+1018	Towary
+1019	10 odłamków bohatera USR
+1020	Zostało w tym tygodniu:
+1021	Wymagany sojusz
+1022	Kupić «
+1023	odłamki USR
+1024	Zakup zrealizowany
+1025	Dzienny prezent odebrany
+1026	Dostawca płatności nie jest podłączony
+1027	Tryb testowy: +
+1028	złota bez płatności
+1029	Od 10 do 100 000 000
+1030	Odblokuje się po rozdziale
+1031	» w Kronice.
+1032	Rozdział jest już dostępny — przeczytaj go.
+1033	Najpierw dojdź do rozdziału
+1034	kampanii.
+1035	Czytaj
+1036	Osiągnięto najwyższy limit: Zenit 100
+1037	R1 · 300 — odblokowuje się Zenit
+1038	Limit poziomu rośnie wraz z ukończonymi rozdziałami kampanii
+1039	Limit poziomu
+1040	Limit
+1041	poz. Następna gwiazdka podniesie go do
+1042	Maks.
+1043	Poziom:
+1044	Odłamki
+1045	Wynieś do
+1046	Awansuj
+1047	moc
+1048	Fuzja →
+1049	Wymagane:
+1050	. Kamienie wyniesienia — w płatnych wydarzeniach, Sklepie Sojuszu, Ścieżce Legendy i od bossów po etapie 300
+1051	Wynieść do
+1052	? Poziomy będą kontynuowane na nowym stopniu, statystyki wzrosną.
+1053	Wyniesienie:
+1054	Wynieś
+1055	FUZJA! Bohater lśni mocą 21 gwiazdek
+1056	Nowa ranga gwiazdek:
+1057	Gwiazdka
+1058	★ · limit poziomu
+1059	Maksimum: 21★
+1060	Brakuje odłamków: potrzeba
+1061	. Duplikat bohatera daje 10, Gwiezdna esencja zastępuje brakujące
+1062	21★ · blask bohatera, statystyki ×1,3, krytyk +5%, szybkość +5
+1063	Moc gwiazdek
+1064	Każdy duplikat bohatera z przyzwania to 10 odłamków. Gwiezdna esencja zastępuje brakujące odłamki (Ruletka Legend, Niebiańska układanka, Ścieżka Legendy).
+1065	Następna gwiazdka
+1066	Fuzja kosztuje
+1067	odł.
+1068	Odłamki bohaterów LR — na Ołtarzu Legend.
+1069	krytyk
+1070	Jakość ↑
+1071	<span class="g" style="font-size:12px">Maksimum</span>
+1072	Odblokowuje się od poziomu bohatera
+1073	(R1 i Zenit liczą się jako powyżej 500).
+1074	Wymagany rozdział
+1075	» w Kronice i poziom bohatera
+1076	.
+1077	Główny ekwipunek
+1078	Ulepsz cały główny ekwipunek
+1079	Brakuje rudy lub srebra. Ruda pochodzi z etapów kampanii i łupów
+1080	Brakuje rudy lub srebra albo wszystko jest na limicie jakości
+1081	Ekwipunek: +
+1082	Wymaga Boskiej esencji i srebra
+1083	Wymaga Pradawnych odłamków i srebra
+1084	Założone
+1085	Każdy poziom dowolnych posiadanych skrzydeł daje całemu oddziałowi +0,05% ataku i zdrowia.
+1086	Brak
+1087	Główny bohater: atak, zdrowie, obrona +
+1088	<span class="tag">ZAŁOŻONE</span>
+1089	<span style="color:#ff9a7a">Płatne wydarzenia</span>
+1090	Założone:
+1091	Te skrzydła są w pakietach płatnych wydarzeń
+1092	Wymaga
+1093	piór. Pióra — w Ruletce Legend, Układance, wydarzeniu Otchłani i w sklepie
+1094	Stworzyć «
+1095	piór?
+1096	Skrzydła stworzone i założone
+1097	Stwórz
+1098	Brakuje piór
+1099	Wierzchowiec
+1100	Pozostałe zwierzaki dają oddziałowi 30% swojej premii.
+1101	Wykluj
+1102	Nie wybrano
+1103	Oddział: atak i zdrowie +
+1104	, szybkość +3
+1105	<span class="tag">WIERZCHOWIEC</span>
+1106	Z jaja
+1107	Zwierzak wybrany
+1108	Gwiezdny smok jest w pakietach płatnych wydarzeń
+1109	Wykluwaj jaja: są w Kronice, Ruletce Legend, Ścieżce Legendy i w sklepie
+1110	Brakuje karmy. Karma — w łupach, Ruletce i w sklepie
+1111	Brak jaj
+1112	Wykluł się z jaja
+1113	Nowy zwierzak!
+1114	Już masz — otrzymano 200 karmy
+1115	Sloty oddziału ·
+1116	Teraz oddział: atak +
+1117	, zdrowie +
+1118	, obrona +
+1119	, krytyk +
+1120	(ze zwierzakami i skrzydłami)
+1121	, szybkość +
+1122	· poz.
+1123	Zdejmij
+1124	Załóż
+1125	<span style="color:#ff9a7a;font-size:12px">Płatne wydarzenia</span>
+1126	Wszystkie 4 sloty zajęte: najpierw zdejmij artefakt
+1127	Brakuje pyłu artefaktów
+1128	pyłu. Pył — od bossów, z areny i Ruletki Legend
+1129	pyłu?
+1130	Artefakt stworzony
+1131	Ruletka
+1132	Układanka
+1133	Ścieżka Legendy
+1134	Pakiety
+1135	Płatne wydarzenia · za złoto
+1136	Odłamki Legendy są tylko tutaj.
+1137	odłamków — bohater LR na Ołtarzu. Złoto:
+1138	Odłamki Legendy
+1139	Esencja
+1140	Pióra
+1141	Karma
+1142	Pył
+1143	Bosk. es.
+1144	Prad. odł.
+1145	Jajo
+1146	Kam. wyn.
+1147	Złoto
+1148	Ruletka Legend
+1149	Gwarancja: 50 Odłamków Legendy za
+1150	obrotów
+1151	Zakręć
+1152	LEG.
+1153	ES.
+1154	PIÓ.
+1155	KARMA
+1156	PYŁ
+1157	BOSK.
+1158	PRAD.
+1159	JAJO
+1160	WYN.
+1161	Ruletka Legend ×
+1162	Nagrody
+1163	Niebiańska układanka nr
+1164	Obraz:
+1165	(LR). Płytka —
+1166	i nagroda. Rząd lub kolumna —
+1167	Cały obraz —
+1168	Obraz ułożony!
+1169	Następna układanka to nowy bohater LR.
+1170	Następna układanka
+1171	Odkryj płytkę
+1172	Płytka:
+1173	· linie ×
+1174	· OBRAZ UŁOŻONY!
+1175	zostało:
+1176	Punkty ścieżki:
+1177	Zwykła
+1178	Legendarna
+1179	Zadania tygodnia
+1180	<span class="sp g">Legendarna ścieżka odblokowana</span>
+1181	Odblokuj
+1182	Odblokuj Legendarną ścieżkę
+1183	Legendarna ścieżka odblokowana
+1184	Nagroda ścieżki odebrana
+1185	Już masz
+1186	Pakiet otrzymany
+1187	Pierwotni to bohaterowie LR, najsilniejsi w grze. Odblokuj bohatera:
+1188	. Gdy masz już bohatera, Odłamki Legendy zamieniają się w jego odłamki 1:1 — do fuzji gwiazdek.
+1189	+10 odł.
+1190	Odblokować bohatera «
+1191	Odłamków Legendy?
+1192	dołącza do oddziału legend!
+1193	+10 odłamków bohatera
+1194	Pomiń
+1195	· naciśnij, aby kontynuować
+1196	przed walką
+1197	przeczytany
+1198	Dalej
+1199	Odblokowano:
+1200	Rozdział pominięty. Możesz go przeczytać w Kronice — za czytanie jest nagroda, a fabuła odblokowuje nowe systemy
+1201	Fabułę można pomijać, ale każdy przeczytany rozdział daje nagrodę, a rozdziały 2, 3, 4, 6 i 10 odblokowują zwierzaki, skrzydła, artefakty, boski i pradawny ekwipunek.
+1202	· odblokowuje:
+1203	Przeczytaj ponownie
+1204	Płatne wydarzenia
+1205	[Samouczek
+1206	Gotowe! Naciśnij, aby odebrać nagrodę
+1207	Samouczek: «
+1208	<span class="mute" style="font-size:12px">W toku</span>
+1209	Osiągnięcie «
+1210	» zdobyte
+1211	Listy od Tronu: prezenty, rekompensaty i wiadomości o aktualizacjach.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Odbierz wszystko</button>
+1213	<p class="mute">Brak listów.</p>
+1214	Prezent z listu odebrany
+1215	Odebrano listów:
+1216	Podczas twojej nieobecności
+1217	min
+1218	Twój oddział walczył na etapie
+1219	. Magazyn jest pełny — loguj się częściej, aby nic nie stracić
+1220	Weekend: srebro i doświadczenie ×1,5.
+1221	Wersja
+1222	Pełna lista zmian znajduje się w pliku CHANGELOG projektu.
+1223	Rozumiem
+1224	<button class="btn jade" data-act="mail">Otwórz pocztę</button>
+1225	«Niebiański Tron» nie zbiera, nie udostępnia i nie sprzedaje danych osobowych. Konto nie jest potrzebne.
+1226	Co jest przechowywane.
+1227	Postęp gry (bohaterowie, zasoby, ustawienia) oraz imię bohatera wpisane przez ciebie są przechowywane tylko na twoim urządzeniu — w lokalnej pamięci aplikacji. Kod zapisu powstaje tylko na twoje polecenie i jest kopiowany ręcznie.
+1228	Sieć.
+1229	Gra działa offline. Nie ma analityki, reklam ani zewnętrznych trackerów.
+1230	Zakupy.
+1231	W obecnej wersji zakupy złota działają w trybie testowym, pieniądze nie są pobierane. Jeśli później pojawią się prawdziwe zakupy, będą je obsługiwać Google Play lub App Store według własnych zasad; dane kart nie trafiają do gry.
+1232	Dzieci.
+1233	Gra nie jest przeznaczona do zbierania danych dzieci i ich nie zbiera.
+1234	Usuwanie danych.
+1236	Kontakt do twórcy jest podany na stronie aplikacji w sklepie.
+1237	Gra jest udostępniana «tak jak jest» dla rozrywki. Zasoby w grze, bohaterowie i skórki nie mają wartości pieniężnej i nie podlegają wymianie na pieniądze.
+1238	Przyzwanie.
+1239	Bohaterowie w przyzwaniach wypadają losowo. Szanse według rzadkości są podane na każdym banerze i w Kole Niebios; gwarancje śledzą liczniki na tych samych ekranach. Historia ostatnich 100 bohaterów jest w sekcji «Przyzwanie».
+1240	Rywale.
+1241	W tej wersji arena, sojusze i wojny klanów toczą się przeciwko komputerowym przeciwnikom.
+1242	Zapis.
+1243	Postęp jest przechowywany na urządzeniu. Przed zmianą telefonu zrób kopię kodem zapisu.
+1244	Dziennik błędów
+1245	Jeśli gra zachowywała się dziwnie, wyślij ten tekst twórcy.
+1246	Wyjść z gry? Postęp jest zapisany.
+1247	Pomiń
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Bohaterowie z 21★ nie zbierają już odłamków: duplikaty zamieniają się w złoto.</p>
+1249	Ustawienia → «Usuń postać» lub odinstalowanie aplikacji usuwa wszystkie dane.
+1250	Lider
+1251	Ten kod jest starszy niż postęp tej postaci na urządzeniu — cofanie postępu jest niedozwolone
+1252	Logowanie na serwery: wybór postaci przy uruchomieniu, do 4 postaci na serwerze EU · Europa, Serwer 1
+1253	Autozapis każdej postaci osobno, kopia zapasowa i przenoszenie kodem
+1254	20 języków: domyślnie angielski, ukraiński, polski, rosyjski i 16 innych
+1255	Ochrona: szyfrowane i podpisane zapisy, zakaz cofania postępu starym kodem, ochrona przed zmianą zegara
+1256	Poprawki interfejsu dla długich nazw w różnych językach
+1257	Aktualizacja 2.3: Serwery i języki
+1258	Teraz przy uruchomieniu można wybrać serwer i postać, a gra mówi w 20 językach — język zmienisz w Ustawieniach. Zapisy są pewniejsze i chronione przed podrobieniem. Dziękujemy, że grasz!

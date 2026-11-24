@@ -1,0 +1,1045 @@
+1	Něco se pokazilo. Postup je uložen; podrobnosti v Nastavení
+2	Chyba
+3	Les
+4	Plamen
+5	Slunce
+6	Vlna
+7	Andělé
+8	Démoni
+9	Válečník
+10	Mág
+11	Lučištník
+12	Zabiják
+13	Léčitel
+14	Mocný úder do cíle, omráčení a štít pro sebe
+15	Poškození všem nepřátelům
+16	Obrovské poškození nejvíce zraněnému nepříteli
+17	Dva zaručené kritické zásahy na zadní řadu
+18	Léčí celý tým a dává štít
+19	léčí se o 10 %
+20	zapálí cíle na 2 kola
+21	poškození schopnosti +20 %
+22	zpomaluje cíle
+23	štít pro spojence
+24	vysávání života 30 % poškození
+25	Strážce Trůnu
+26	Drží přední linii: hodně zdraví a obrany, omračuje nepřátele.
+27	Nebeská trhlina
+28	Hvězdopravec
+29	Sesílá hvězdy na všechny nepřátele naráz.
+30	Hvězdný déšť
+31	Měsíční hraničářka
+32	Dorazí zraněné nepřátele přesnými výstřely.
+33	Měsíční šíp
+34	Čepel zatmění
+35	Proráží k zadní řadě a zasahuje kriticky.
+36	Tanec stínů
+38	Strážkyně kořenů
+39	Rozkvět života
+41	Lesní stopař
+42	Listová vichřice
+44	Kamenný hlídač
+45	Úder balvanu
+47	Šepot větví
+48	Bouře výtrusů
+50	Trnitý stín
+51	Trnový vír
+52	Paní Vrba
+53	Srdce Pradávného lesa
+54	Hněv tisíce kořenů
+56	Učeň ohně
+57	Ohnivá koule
+59	Válečný kovář
+60	Rozžhavené kladivo
+62	Vražedkyně z popela
+63	Popelavý tah
+65	Šíp soumraku
+66	Planoucí salva
+68	Znovuzrozený
+69	Fénixí křídlo
+70	Císař Ragnar
+71	Pán plamene
+72	Erupce
+74	Sluneční lučištník
+75	Záblesk
+77	Pěvkyně úsvitu
+78	Hymnus slunci
+80	Štít pouště
+81	Řev lva
+83	Oko zenitu
+84	Sluneční kopí
+86	Čepel úsvitu
+87	Sečný paprsek
+88	Amaria
+89	Sluncetvářná
+90	Polední zázrak
+92	Tichá vlna
+93	Šplouchnutí
+95	Panna pramene
+96	Živá voda
+98	Bouřný lučištník
+99	Úder hromu
+101	Mořská čarodějnice
+102	Vír
+104	Strážce přílivu
+105	Devátá vlna
+106	Neria
+107	Princezna Leviatana
+108	Volání hlubin
+110	Cherubín
+111	Pero naděje
+112	Serafína
+113	Lučištnice nebes
+114	Šíp světla
+116	Meč zákona
+117	Rozsudek
+119	Plamenný meč
+120	Nebeská poprava
+121	Gabriel
+122	Hlas nebes
+123	Volání polnice
+124	Lumina
+125	Trůn světla
+126	Svatyně
+128	Šibalský čertík
+129	Zákeřné kousnutí
+130	Lilith
+131	Královna noci
+132	Kouzlo propasti
+134	Kat podsvětí
+135	Řetězy muk
+137	Lovkyně duší
+138	Šíp zkázy
+139	Azael
+140	Padlý anděl
+141	Zatmění
+143	Pán Propasti
+144	Konec světa
+145	Gaia
+146	Matka všeho živého
+147	Srdce světa
+148	Surtur
+149	Poslední oheň
+150	Ragnarök
+151	Hélios
+152	Slunce nad Trůnem
+153	Sluneční vůz
+154	Okeana
+155	Pramáti vod
+156	Velká potopa
+157	Metatron
+158	Hlas Trůnu
+159	Nebeský Trůn
+160	Nyx
+161	První noc
+162	Věčná noc
+163	Nebeský poutník
+164	Mořský vlk
+165	Rytíř růže
+166	Sakura
+167	Dýňový žnec
+168	Zimní slavnost
+169	Ledový princ
+170	Kyber-samuraj
+171	Nefritový císař
+172	Hvězdný poutník
+173	Démon prázdnoty
+174	Anděl úsvitu
+175	Sliz
+176	Měsíční vlk
+177	Goblin
+178	Ent
+179	Čertík
+180	Golem
+181	Kostlivec
+182	Přízrak
+183	Had
+184	Drak
+185	Nefritové údolí
+186	Slizový král
+187	Soumračná houština
+188	Ent poustevník
+189	Popelavé pustiny
+190	Popelavý golem
+191	Azurové jeskyně
+192	Mořský had Irr
+193	Chrám Slunce
+194	Strážný obelisk
+195	Zamrzlý průsmyk
+196	Jinovatkový drak
+197	Město stínů
+198	Stínový regent
+199	Zahrady andělů
+200	Bílý had Eir
+201	Trhlina Propasti
+202	Požírač hvězd
+203	Nebeský Trůn
+204	Padlý císař
+205	Třpytivé bažiny
+206	Paní bažin
+207	Ohnivé kovárny
+208	Surturův kovář
+209	Nebeské souostroví
+210	Strážce větrů
+211	Písky zapomnění
+212	Faraon písků
+213	Křišťálové jeskyně
+214	Křišťálový drak
+215	Les duchů
+216	Strom Gaii
+217	Karmínová citadela
+218	Karmínový lord
+219	Hvězdná observatoř
+220	Hvězdopravec Propasti
+221	Síně Noci
+222	Stín Nyx
+223	Brány Prvotních
+224	Srdce Propasti
+225	Hvězdné vyvolání
+226	Běžné svitky vyvolání. Šance na SSR: 5 %.
+227	Nebeské vyvolání
+228	Jediné vyvolání s hrdiny USR. USR zaručen do 90 vyvolání.
+229	Kupóny osudu
+230	Pouze UR a výš. Jediný zdroj hrdinů SSR+. SSR+ zaručen do 40 vyvolání.
+231	80 tis. stříbra
+232	2 svitky
+233	40 tis. ZK
+234	120 zlata
+235	2 žetony
+236	Kupón
+237	Úlomky SSR
+238	Vzhled
+239	Hrdina SSR
+240	Hrdina USR
+241	Vyhraj 3 bitvy
+242	Vyvolej 2krát
+243	Roztoč Kolo nebes
+244	Zvyš úroveň hrdinů 5krát
+245	Seber kořist
+246	Bojuj v aréně
+290	První kroky
+291	Dokonči etapu 1-10
+292	Dobyvatel údolí
+293	Dokonči kapitolu 1
+294	Hlas pustin
+295	Dokonči kapitolu 3
+296	Světlo chrámu
+297	Dokonči kapitolu 5
+298	Dokonči kapitolu 10
+299	Plná družina
+300	Získej 5 hrdinů
+301	Sběratel
+302	Získej 12 hrdinů
+303	Kronikář
+304	Získej 24 hrdinů
+305	Vyvolený nebes
+306	Získej hrdinu USR
+307	Volání hvězd
+308	Vyvolej 50krát
+309	Pán vyvolávání
+310	Vyvolej 200krát
+311	Ostřílený
+312	Hlavní hrdina úroveň 50
+313	Legenda
+314	Hlavní hrdina úroveň 100
+315	Čtyři hvězdy
+316	Zvyš hrdinu na 4★
+317	Hranice síly
+318	Zvyš hrdinu na 6★
+319	Gladiátor
+320	10 výher v aréně
+321	Zlatá liga
+322	Dosáhni hodnocení 1400
+323	Bok po boku
+324	Vstup do aliance
+325	Metla Propasti
+326	Dokonči 30 stupňů události
+327	Drtič
+328	Způsob 100 000 poškození jedním úderem
+329	Nezlomná družina
+330	Síla družiny 500 000
+331	Věrnost
+332	Přihlas se 7 dní
+333	Rudá hvězda
+334	Zvyš hrdinu na 11★
+335	Sloučení
+336	Zvyš hrdinu na 21★
+337	Legenda se probouzí
+338	Získej hrdinu LR
+339	Jezdec
+340	Získej mazlíčka
+341	Na křídlech
+342	Získej křídla
+343	Povznesení
+344	Povznes hrdinu na R1
+345	Zenit
+346	Dosáhni Zenitu
+347	Kronikář Trůnu
+348	Přečti 10 kapitol příběhu
+349	Kovář
+350	Vylepši výbavu na kvalitu Vzácná
+351	Vyvolej hrdinu
+352	Vyvolání → Hvězdy → ×10
+353	Vyhraj etapu 1-1
+354	Klepni na «Bojovat»
+355	Zvyš úroveň hrdiny
+356	Hrdinové → vyber hrdinu → Úroveň
+357	Truhla vpravo dole
+358	Dokonči etapu 1-5
+359	Čím dál etapa, tím větší kořist
+360	Aliance odemyká Titána a Válku klanů
+361	Vítej u Trůnu
+363	Aktualizace 2.1
+365	Aktualizace 2.2: Věk legend
+367	Zlaté
+368	Růžové
+369	Rudé
+370	Fialové
+371	Běžná
+372	Vzácná
+373	Epická
+374	Legendární
+375	Mýtická
+376	Nebeská
+377	Zbraň
+378	Zbroj
+379	Přilba
+380	Amulet
+381	Božská čepel
+382	Božská egida
+383	Pradávná relikvie
+384	Pradávná koruna
+385	Luna, měsíční vlčice
+386	Nefritový vlk
+387	Nebeský had
+388	Ohnivé dráče
+389	Ledový drak
+390	Hvězdný drak
+391	Křídla úsvitu
+392	Křídla propasti
+393	Fénixí křídla
+394	Ledová křídla
+395	Nefritová křídla
+396	Hvězdná křídla
+397	Křídla Trůnu
+398	Slza Leviatana
+399	zdraví a obrana
+400	Tesák Propasti
+401	útok
+402	Fénixí srdce
+403	zdraví
+404	Měsíční zrcadlo
+405	obrana
+406	Oko Trůnu
+407	šance na kritický zásah
+408	Přesýpací hodiny
+409	rychlost
+410	Koruna úsvitu
+411	útok a zdraví
+412	Grál legend
+413	útok, zdraví, kritický zásah
+414	Mazlíčci
+415	Křídla
+416	Artefakty
+417	Božská výbava
+418	Pradávná výbava
+419	Vyhrané bitvy
+420	Vyvolání hrdinů
+421	Zvýšení úrovně
+422	Sběr kořisti
+423	Souboje v aréně
+424	Otočení Rulety legend
+425	Dílky Nebeské skládačky
+426	Balíček Legendy
+427	Balíček Povznesení
+428	Balíček Jezdce
+429	Peří a Prach
+430	Křídla Trůnu (LR)
+431	Grál legend (LR)
+432	Hvězdný drak (LR)
+433	Hlasatel Propasti
+434	Luna
+483	Věk legend
+549	Trůn
+555	EU · Evropa
+556	Server 1
+557	NA · Amerika
+558	Brzy
+559	ASIA · Asie
+560	Stříbro
+561	Zlato
+562	Svitek vyvolání
+563	Kupón osudu
+564	Žeton kola
+565	ZK hrdinů
+566	Mince aliance
+567	Známky arény
+568	Body talentů
+569	Úlomky USR
+570	Ruda
+571	Božská esence
+572	Pradávné střepy
+573	Úlomky legendy
+574	Hvězdná esence
+575	Vejce mazlíčka
+576	Krmivo pro mazlíčky
+577	Peří
+578	Prach artefaktů
+579	Kameny povznesení
+580	Hrdina
+581	Hlavní uložená hra je poškozená nebo změněná; postup obnoven ze zálohy
+582	Úr.
+583	Nový hrdina:
+584	+10 úlomků:
+585	Vzhled:
+586	200 zlata (už máš všechny vzhledy)
+587	Úlomky hrdiny
+588	Bronz
+589	Platina
+590	Diamant
+591	Nebešťan
+592	Kapitola
+593	Stařešina
+594	Člen
+595	Vpád Propasti
+596	Hlasatel Propasti ·
+597	Boj!
+598	Omráčen
+599	Omráčení
+600	Boss!
+601	Schopnost
+602	Pauza
+603	Klepni na ▶ pro pokračování
+604	Schopnost:
+605	Nejsilnější úder:
+606	· kol
+607	Vítězství
+608	Čas vypršel
+609	Porážka
+610	<p class="mute" style="font-size:12.5px">Boj trval příliš dlouho. Chybí poškození: zvyš úroveň útočných hrdinů.</p>
+611	Další etapa za
+612	s
+613	Stop
+614	Odejít
+615	Automatický postup etapami
+616	Málo zlata: potřeba
+617	, máš
+618	. Otevřít obchod?
+619	Do obchodu
+620	Nedostatek:
+621	za
+622	zlata?
+623	Potvrdit
+624	Zavřít
+625	Zrušit
+626	Ano
+627	21★: sloučení
+628	SLOUČENÍ
+629	HRDINA
+630	Lze zvýšit hvězdu
+631	<span class="mute">Nezískáno</span>
+632	Hrdinové
+633	Postava
+634	Kampaň
+635	Vyvolání
+636	Aliance
+637	Obchod
+638	Události
+639	Aréna
+640	Koupit zlato
+641	Bitva
+642	Svět
+643	vyvolal(a)
+644	dokončil(a) kapitolu «
+645	Titán aliance slábne, všichni do útoku!
+646	Systém
+647	Událost «
+648	» trvá celý týden
+649	hledá alianci, síla
+650	Nastavení
+651	Pošta
+652	Stupeň
+653	/30 · zbývá:
+654	d.
+655	Ruleta · skládačka · hrdinové LR
+656	[Příběh]
+657	Etapa
+658	Dokonči kapitolu «
+659	z
+660	h
+661	Bojovat
+662	Rezonance «
+663	Přihlášení
+664	Denní
+665	Úspěchy
+666	Vyvolat hrdinu
+667	Kolo nebes
+668	· boss
+669	[Kronika]
+670	Odemyká:
+671	Přečti si ji: odměna za kapitolu
+672	[Denní]
+673	Všechny úkoly splněny
+674	Vyzvedni truhly
+675	[Aliance]
+676	Titán, válka klanů, obchod
+677	Ohlas se v alianci
+678	+150 Mincí aliance
+679	Sklad plný
+680	Kořist
+681	Rychlá kořist
+682	Rychle · 60
+683	Kořist:
+684	Málo zlata
+685	Rychlá kořist:
+686	stříbra
+687	Sbírka
+688	Družina
+689	Získáno
+690	Řadit:
+691	Vše
+692	Jakákoli vzácnost
+693	síla
+694	vzácnost
+695	úroveň
+696	frakce
+697	Skrýt chybějící
+698	Zobrazit vše
+699	Prázdné
+700	Bojové rozestavení
+701	Síla
+702	Přední řada
+703	Zadní řada
+704	Auto
+705	Vylepšit celou družinu
+706	ZK a stříbro se dělí rovným dílem: nejslabší hrdina roste první.
+707	Výhoda frakce · +25 % poškození
+708	Válečníci vystupují vpřed a schytávají rány. Zabijáci pronikají k zadní řadě nepřítele. Zadní řada je chráněna, dokud přední žije.
+709	% ke zdraví a útoku
+710	Rezonance: 3 hrdinové jedné frakce dávají +8 %, 4 hrdinové +15 %
+711	Družina sestavena podle síly
+712	Málo ZK nebo stříbra, nebo jsou všichni hrdinové na limitu úrovně
+713	Družina vylepšena: +
+714	úr., síla +
+715	Pozice
+716	řada
+717	Vyber hrdinu. Pokud už je v družině, hrdinové si vymění místa.
+718	přední
+719	zadní
+720	Odebrat
+721	Hlavní hrdina je vždy v družině
+722	Oltář legend: za Úlomky legendy z placených událostí
+723	Nebeské vyvolání, Kolo nebes a Obchod aliance
+724	jakékoli vyvolání a Kolo nebes
+725	Schopnost «
+726	Kde získat:
+727	Předchozí hrdina
+728	Další hrdina
+729	Síla:
+730	Síla frakce
+731	Talenty
+732	Zdraví
+733	Útok
+734	Obrana
+735	Rychlost · krit.
+736	Do družiny
+737	Přehled
+738	Výbava
+739	Hvězdy
+740	. Síla frakce «
+741	Úrovně Zenitu vyžadují Kameny povznesení
+742	Málo ZK nebo stříbra
+743	úr. · síla +
+744	Družina je plná: vyměň hrdinu na kartě «Družina»
+745	ZÁKLAD
+746	<span class="tag">NASAZENO</span>
+747	% ke všemu
+748	Bez bonusu
+749	<span class="g">Získáno</span>
+750	Událost týdne
+751	Moc Trůnu
+752	+1,5 % útoku
+753	Nebeské tělo
+754	+1,5 % zdraví
+755	Jestřábí oko
+756	+0,2 % krit.
+757	Vzhledy
+758	. Každých 25 úrovní nová hvězda, na R1 sloučení (21★). Limit úrovně roste s kapitolami.
+759	Třída
+760	Vzhledy
+761	Vzhled zcela mění podobu a dává bonus ke všem statistikám: R +1 %, UR +1,5 %, SSR +2 %, SSR+ +3 %, USR +5 %.
+762	bodů
+763	Body talentů dostáváš za každou dokončenou etapu.
+764	Změna:
+765	První změna zdarma
+766	za úroveň
+767	Růst
+768	Talent +
+769	Potřebuješ bod talentu a stříbro
+770	Nová třída:
+771	Změnit třídu na «
+772	Úroveň, vzhledy a talenty zůstanou.
+773	Cena: 500 zlata.
+774	První změna je zdarma.
+775	Změnit
+776	Vzhled «
+777	» nasazen
+778	Tento vzhled padá z Kola nebes
+779	Tento vzhled je hlavní cenou události «
+780	Koupit vzhled «
+781	» za
+782	Vzhled získán a nasazen
+783	Koupit
+784	Zap.
+785	Vyp.
+786	Language · Jazyk
+787	Jméno hrdiny
+788	Uložit
+789	Grafika
+790	Statistiky
+791	Bitev
+792	Výher v kampani
+793	Vyvolání
+794	Hrdinů USR
+795	Nejsilnější úder
+796	Dní ve hře
+797	Uložená hra
+798	Postup se ukládá do zařízení automaticky: každých 15 sekund a při minimalizaci. Kód níže ho přenese na jiné zařízení.
+799	Vlož kód uložené hry
+800	Ukázat můj kód
+801	Kopírovat
+802	Načíst kód
+803	Co je nového
+804	Soukromí
+805	Podmínky
+806	Změnit postavu
+807	Smazat postavu
+808	Nebeský Trůn · verze
+809	Zvukové efekty
+810	Hudba
+811	Vibrace
+812	Vysoká
+813	Úspora baterie
+814	Protokol chyb (
+815	Kvalita grafiky se změní po restartu. Restartovat nyní?
+816	Restartovat
+817	Zadej jméno
+818	Kód zkopírován
+819	Označ a zkopíruj kód ručně
+820	Uložená hra načtena
+821	Kód nefungoval: ověř, že je zkopírovaný celý
+822	Smazat tuto postavu a celý její postup? Nelze vrátit.
+823	Smazat
+824	Kroniky nebešťanů
+825	Trůn je prázdný a Propast stoupá ke hvězdám. Zvol cestu svého hrdiny.
+826	Schopnost: «
+827	Například Aelita
+828	Vydat se na cestu
+829	K postavám
+830	Poutník
+831	Vítej,
+832	Ve tvé družině už jsou tři hrdinové. Máš 10 svitků: první vyvolání ×10 zaručuje hrdinu SSR.
+833	K vyvolání
+834	dnes
+835	včera
+836	dní zpět
+837	Vyber postavu
+838	Na tomto serveru zatím nejsou žádné postavy
+839	Nová postava
+840	Volná místa:
+841	Vstoupit do hry
+842	Uložená hra byla ručně upravena a neprošla kontrolou pravosti. Obnov postup kódem uložené hry
+843	Postavu se nepodařilo načíst
+844	Všechna místa jsou obsazena
+845	Smazat postavu «
+846	» navždy? Postup nepůjde obnovit.
+847	Postava smazána
+848	Server
+849	Hra teď funguje offline: postavy se ukládají v tomto zařízení. Další regiony se otevřou spolu s online režimem.
+850	Language · Jazyk
+851	Nepřátelé
+852	· družina
+853	Za kapitolu
+854	Auto postup
+855	Zkoušky
+856	· Boss
+857	Nepřátelé:
+858	· silní proti nim:
+859	Kronika
+860	Dostupná kapitola:
+861	Číst
+862	kapitol
+863	· hodnocení
+864	· vstupenek
+865	/30 · pokusů
+866	/5 · hlavní cena: vzhled USR
+867	Titán aliance
+868	Úroveň
+869	· pokusů
+870	Vstup do aliance a odemkni Titána a Válku klanů
+871	Všechny kapitoly dokončeny. Nové přijdou s aktualizací
+872	Sestav družinu
+873	dokončena!
+874	Odměna
+875	Další etapa
+876	Posil družinu: zvyš hrdinům úrovně a hvězdy nebo vyvolej nové. Záleží i na pořadí v družině.
+877	Znovu
+878	Vylepšit družinu
+879	Auto postup zapnut: další etapa začne sama
+880	Auto postup vypnut
+881	Liga
+882	výher ·
+883	proher
+884	Vstupenky:
+885	+1 vstupenka
+886	Denní odměna ligy
+887	Obchod arény
+888	Vyzvednuto
+889	Vyzvednout
+890	Hodnocení
+891	· síla
+892	Bojovat
+893	Koupit vstupenku
+894	Odměna ligy «
+895	» vyzvednuta
+896	Vstupenky došly: nové budou zítra
+897	Aréna ·
+898	Do arény
+899	Hodnocení −8 →
+900	Všechny události
+901	Aktivity
+902	30 stupňů démonů Propasti · vzhled USR
+903	Zbývá:
+904	Placené události: ruleta, skládačka, cesta
+905	Úlomky legendy:
+906	· hrdina LR:
+907	Týden
+908	Hrdina týdne:
+909	Záruka USR:
+910	Hlavní cena: hrdina USR
+911	K dispozici otočení zdarma
+912	Žetony:
+913	Souboje s družinami soupeřů
+914	Společný boss aliance
+915	Odemkne se po vstupu do aliance
+916	Válka klanů
+917	Týdenní boj o hodnocení
+918	Místo
+919	Po–Ne
+920	Odměny za přihlášení
+921	Přihlas se každý den: sedmý den dostaneš balíček Kupónů osudu.
+922	Den
+923	<span style="color:var(--good);font-size:12px">Vyzvednuto</span>
+924	Vyzvednout odměnu dne
+925	Vrať se zítra
+926	Odměna za přihlášení vyzvednuta
+927	Úkoly dne
+928	/120 bodů
+929	Truhla otevřena
+930	Vzhled «Démon prázdnoty» USR
+931	Démoni Propasti útočí na Trůn. Dokonči 30 stupňů do konce týdne. Každý stupeň je silnější než předchozí; postup se nuluje v pondělí.
+932	Pokusy dnes:
+933	Odměny za stupně
+934	Odměna za stupeň
+935	Bojovat ·
+936	<b style="color:var(--good)">Všechny stupně tento týden dokončeny</b>
+937	· stupeň
+938	<p>Získal(a) jsi vzhled USR «Démon prázdnoty»! Nasaď ho na obrazovce hrdiny.</p>
+939	Další stupeň
+940	K události
+941	<p class="mute">Pokus využit. Posil družinu a vrať se.</p>
+942	Vstup do aliance, abys mohl(a) bojovat s Titánem aliance, utkat se s jinými klany a kupovat vzácné zboží v Obchodě aliance.
+943	Vlastní aliance
+944	Název aliance
+945	/40 členů
+946	Vstoupit
+947	Aliance · úroveň
+948	ZK aliance
+949	· poškození se počítá celé alianci
+950	· vstupenek
+951	Útoč na obránce nepřátelských klanů. První výhra nad klanem dává bonus 100 bodů. Odměny na konci týdne.
+952	Členové
+953	(ty)
+954	Obchod aliance
+955	Odejít
+956	Ohlášeno
+957	Ohlásit se
+958	Výsledky Války klanů
+959	minulý týden
+960	Vstoupil(a) jsi do aliance «
+961	Zadej název
+962	Aliance «
+963	» založena
+964	Ohlášení: +150
+965	Opustit alianci? Postup ve Válce klanů a u Titána bude ztracen.
+966	Titán aliance · úr.
+967	Titán poražen! +
+968	zlata všem členům
+969	Titán poražen
+970	Útok dokončen
+971	Způsobené poškození:
+972	K alianci
+973	Válka klanů ·
+974	Body klanu:
+975	· místo
+976	<p class="mute">Obránci vydrželi. Zkus slabší klan.</p>
+977	Nebeské
+978	Kupóny
+979	Kolo
+980	Máš:
+981	Historie vyvolání
+982	Pouze UR, SSR a SSR+
+983	Běžné vyvolání
+984	Záruka
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">První vyvolání ×10 zaručuje hrdinu SSR.</p>
+986	Zdarma
+987	Oltář
+988	Posledních
+989	hrdinů. Šance každého vyvolání jsou uvedeny na jeho banneru.
+990	<p class="mute">Zatím prázdné.</p>
+991	Hotovo
+992	Znovu ×
+993	NOVÝ
+994	ZLATO
+995	+10 ÚLOMKŮ
+997	<button class="btn sec" data-act="sumAll">Zobrazit vše</button>
+998	Otočení ·
+999	Hlavní cena: hrdina USR. Zaručeno do 100 otočení.
+1000	Do záruky:
+1001	Šance
+1002	NEBE
+1003	Potřebuješ žetony nebo zlato
+1004	Kolo nebes ×
+1005	Skvělé
+1006	10 otočení (žetonů
+1007	, zbytek za zlato)
+1008	Otočení
+1009	Potřebuješ žeton nebo 150 zlata
+1010	Nákup zlata přijde v příští aktualizaci. Zatím zlato dávají etapy kampaně, kořist, přihlášení, denní úkoly, úspěchy, pošta a denní dárek na kartě «Zboží».
+1011	Testovací režim
+1012	Platby nejsou připojeny: tlačítka dávají zlato zdarma, peníze se nestrhávají. Před vydáním na Google Play a v App Store se sem připojí jejich nákupy v aplikaci.
+1013	Vlastní částka
+1014	Od 10 do 100 000 000 zlata. Čím víc, tím lepší kurz.
+1015	Denní dárek
+1016	Zítra
+1017	<p class="mute">Obchod se otevře po vstupu do aliance.</p>
+1018	Zboží
+1019	10 úlomků hrdiny USR
+1020	Zbývá tento týden:
+1021	Je potřeba aliance
+1022	Koupit «
+1023	úlomky USR
+1024	Nákup dokončen
+1025	Denní dárek vyzvednut
+1026	Poskytovatel plateb není připojen
+1027	Testovací režim: +
+1028	zlata bez platby
+1029	Od 10 do 100 000 000
+1030	Odemkne se po kapitole
+1031	» v Kronice.
+1032	Kapitola je už dostupná: přečti si ji.
+1033	Nejdřív dojdi ke kapitole
+1034	kampaně.
+1035	Číst
+1036	Dosažen nejvyšší limit: Zenit 100
+1037	R1 · 300: odemyká se Zenit
+1038	Limit úrovně roste s dokončenými kapitolami kampaně
+1039	Limit úrovně
+1040	Limit
+1041	úr. Další hvězda ho zvýší na
+1042	Max.
+1043	Úroveň:
+1044	Úlomky
+1045	Povznést na
+1046	Zvýšit úroveň
+1047	síla
+1048	Sloučení →
+1049	Potřeba:
+1050	. Kameny povznesení: v placených událostech, Obchodě aliance, na Cestě legendy a od bossů po etapě 300
+1051	Povznést na
+1052	? Úrovně budou pokračovat na novém stupni, statistiky porostou.
+1053	Povznesení:
+1054	Povznést
+1055	SLOUČENÍ! Hrdina září silou 21 hvězd
+1056	Nová hodnost hvězd:
+1057	Hvězda
+1058	★ · limit úrovně
+1059	Maximum: 21★
+1060	Málo úlomků: potřeba
+1061	. Duplikát hrdiny dává 10, Hvězdná esence nahrazuje chybějící
+1062	21★ · záře hrdiny, statistiky ×1,3, krit. +5 %, rychlost +5
+1063	Síla hvězd
+1064	Každý duplikát hrdiny z vyvolání je 10 úlomků. Hvězdná esence nahrazuje chybějící úlomky (Ruleta legend, Nebeská skládačka, Cesta legendy).
+1065	Další hvězda
+1066	Sloučení stojí
+1067	úl.
+1068	Úlomky hrdinů LR: na Oltáři legend.
+1069	krit.
+1070	Kvalita ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Odemyká se od úrovně hrdiny
+1073	(R1 a Zenit se počítají jako nad 500).
+1074	Vyžaduje kapitolu
+1075	» v Kronice a úroveň hrdiny
+1076	.
+1077	Hlavní výbava
+1078	Vylepšit celou hlavní výbavu
+1079	Málo rudy nebo stříbra. Ruda je z etap kampaně a z kořisti
+1080	Málo rudy nebo stříbra, nebo je vše na limitu kvality
+1081	Výbava: +
+1082	Vyžaduje Božskou esenci a stříbro
+1083	Vyžaduje Pradávné střepy a stříbro
+1084	Nasazeno
+1085	Každá úroveň jakýchkoli tvých křídel dává celé družině +0,05 % útoku a zdraví.
+1086	Žádná
+1087	Hlavní hrdina: útok, zdraví, obrana +
+1088	<span class="tag">NASAZENO</span>
+1089	<span style="color:#ff9a7a">Placené události</span>
+1090	Nasazeno:
+1091	Tato křídla jsou v balíčcích placených událostí
+1092	Potřeba
+1093	peří. Peří: v Ruletě legend, Skládačce, události Propasti a v obchodě
+1094	Vytvořit «
+1095	peří?
+1096	Křídla vytvořena a nasazena
+1097	Vytvořit
+1098	Málo peří
+1099	Jezdecké zvíře
+1100	Ostatní mazlíčci dávají družině 30 % svého bonusu.
+1101	Vylíhnout
+1102	Nevybráno
+1103	Družina: útok a zdraví +
+1104	, rychlost +3
+1105	<span class="tag">V SEDLE</span>
+1106	Z vejce
+1107	Mazlíček vybrán
+1108	Hvězdný drak je v balíčcích placených událostí
+1109	Líhni vejce: najdeš je v Kronice, Ruletě legend, na Cestě legendy a v obchodě
+1110	Málo krmiva. Krmivo: v kořisti, Ruletě a obchodě
+1111	Žádná vejce
+1112	Vylíhl se z vejce
+1113	Nový mazlíček!
+1114	Už ho máš: získáno 200 krmiva
+1115	Sloty družiny ·
+1116	Družina teď: útok +
+1117	, zdraví +
+1118	, obrana +
+1119	, krit. +
+1120	(s mazlíčky a křídly)
+1121	, rychlost +
+1122	· úr.
+1123	Sundat
+1124	Nasadit
+1125	<span style="color:#ff9a7a;font-size:12px">Placené události</span>
+1126	Všechny 4 sloty jsou obsazené: nejdřív sundej artefakt
+1127	Málo prachu artefaktů
+1128	prachu. Prach: z bossů, arény a Rulety legend
+1129	prachu?
+1130	Artefakt vytvořen
+1131	Ruleta
+1132	Skládačka
+1133	Cesta legendy
+1134	Balíčky
+1135	Placené události · za zlato
+1136	Úlomky legendy jsou jen tady.
+1137	úlomků: hrdina LR na Oltáři. Zlato:
+1138	Úlomky legendy
+1139	Esence
+1140	Peří
+1141	Krmivo
+1142	Prach
+1143	Bož. es.
+1144	Prad. stř.
+1145	Vejce
+1146	Kam. pov.
+1147	Zlato
+1148	Ruleta legend
+1149	Záruka: 50 Úlomků legendy za
+1150	otočení
+1151	Točit
+1152	LEG.
+1153	ES.
+1154	PEŘÍ
+1155	KRMIVO
+1156	PRACH
+1157	BOŽ.
+1158	PRAD.
+1159	VEJCE
+1160	POV.
+1161	Ruleta legend ×
+1162	Odměny
+1163	Nebeská skládačka č.
+1164	Obraz:
+1165	(LR). Dílek:
+1166	a odměna. Řádek nebo sloupec:
+1167	Celý obraz:
+1168	Obraz složen!
+1169	Další skládačka je nový hrdina LR.
+1170	Další skládačka
+1171	Otevřít dílek
+1172	Dílek:
+1173	· řady ×
+1174	· OBRAZ SLOŽEN!
+1175	zbývá:
+1176	Body cesty:
+1177	Běžná
+1178	Legendární
+1179	Týdenní úkoly
+1180	<span class="sp g">Legendární cesta odemčena</span>
+1181	Odemknout
+1182	Odemknout Legendární cestu
+1183	Legendární cesta odemčena
+1184	Odměna cesty vyzvednuta
+1185	Už máš
+1186	Balíček získán
+1187	Prvotní jsou hrdinové LR, nejsilnější ve hře. Odemkni hrdinu:
+1188	. Když hrdinu máš, Úlomky legendy se mění na jeho úlomky 1:1, pro slučování hvězd.
+1189	+10 úl.
+1190	Odemknout hrdinu «
+1191	Úlomků legendy?
+1192	se připojuje k družině legend!
+1193	+10 úlomků hrdiny
+1194	Přeskočit
+1195	· klepni pro pokračování
+1196	před bitvou
+1197	přečtena
+1198	Dál
+1199	Odemčeno:
+1200	Kapitola přeskočena. Můžeš si ji přečíst v Kronice: čtení dává odměnu a příběh odemyká nové systémy
+1201	Příběh lze přeskočit, ale každá přečtená kapitola dává odměnu a kapitoly 2, 3, 4, 6 a 10 odemykají mazlíčky, křídla, artefakty, božskou a pradávnou výbavu.
+1202	· odemyká:
+1203	Přečíst znovu
+1204	Placené události
+1205	[Výuka
+1206	Hotovo! Klepni pro vyzvednutí odměny
+1207	Výuka: «
+1208	<span class="mute" style="font-size:12px">Probíhá</span>
+1209	Úspěch «
+1210	» odemčen
+1211	Dopisy od Trůnu: dárky, kompenzace a novinky o aktualizacích.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Vyzvednout vše</button>
+1213	<p class="mute">Žádné dopisy.</p>
+1214	Dárek z dopisu vyzvednut
+1215	Vyzvednuto dopisů:
+1216	Zatímco jsi byl(a) pryč
+1217	min
+1218	Tvá družina bojovala v etapě
+1219	. Sklad je plný: přihlašuj se častěji, ať nic nepropadne
+1220	Víkend: stříbro a ZK ×1,5.
+1221	Verze
+1222	Úplný seznam změn je v souboru CHANGELOG projektu.
+1223	Rozumím
+1224	<button class="btn jade" data-act="mail">Otevřít poštu</button>
+1244	Protokol chyb
+1245	Pokud se hra chovala divně, pošli tento text vývojáři.
+1246	Ukončit hru? Postup je uložen.
+1247	Přeskočit
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Hrdinové s 21★ už nesbírají úlomky: duplikáty se mění ve zlato.</p>
+1250	Vůdce
+1251	Tento kód je starší než postup postavy v tomto zařízení; vracení postupu není povoleno
+1252	Přihlášení podle serverů: výběr postavy při spuštění, až 4 postavy na EU · Evropa, Server 1
+1253	Automatické ukládání každé postavy zvlášť, záloha a přenos kódem
+1254	20 jazyků: výchozí angličtina, ukrajinština, polština, ruština a dalších 16
+1255	Ochrana: šifrované a podepsané uložené hry, zákaz vracení postupu starým kódem, ochrana proti změně času
+1256	Opravy rozhraní pro dlouhé názvy v různých jazycích
+1257	Aktualizace 2.3: Servery a jazyky

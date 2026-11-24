@@ -1,0 +1,1045 @@
+1	Bir şeyler ters gitti. İlerleme kaydedildi; ayrıntılar Ayarlar'da
+2	Hata
+3	Orman
+4	Alev
+5	Güneş
+6	Dalga
+7	Melekler
+8	Şeytanlar
+9	Savaşçı
+10	Büyücü
+11	Okçu
+12	Suikastçı
+13	Şifacı
+14	Hedefe güçlü darbe, sersemletme ve kendine kalkan
+15	Tüm düşmanlara hasar
+16	En yaralı düşmana devasa hasar
+17	Arka sıraya iki garanti kritik
+18	Tüm takımı iyileştirir ve kalkan verir
+19	kendini %10 iyileştirir
+20	hedefleri 2 tur yakar
+21	yetenek hasarı +%20
+22	hedefleri yavaşlatır
+23	müttefiklere kalkan
+24	hasarın %30'u kadar can çalma
+25	Taht Muhafızı
+26	Ön hattı tutar: bol can ve savunma, düşmanları sersemletir.
+27	Göksel Yarık
+28	Yıldız Gözcüsü
+29	Yıldızları aynı anda tüm düşmanların üstüne yağdırır.
+30	Yıldız Yağmuru
+31	Ay İzcisi
+32	Yaralı düşmanları isabetli atışlarla bitirir.
+33	Ay Oku
+34	Tutulma Bıçağı
+35	Arka sıraya dalar ve kritik vuruşlar yapar.
+36	Gölge Dansı
+38	Köklerin Bekçisi
+39	Yaşamın Çiçeklenişi
+41	Orman İzcisi
+42	Yaprak Fırtınası
+44	Taş Nöbetçi
+45	Kaya Darbesi
+47	Dalların Fısıltısı
+48	Spor Fırtınası
+50	Dikenli Gölge
+51	Diken Kasırgası
+52	Söğüt Hanım
+53	Kadim Ormanın Kalbi
+54	Bin Kökün Öfkesi
+56	Ateş Çırağı
+57	Ateş Topu
+59	Savaş Demircisi
+60	Kızgın Çekiç
+62	Küllerden Gelen Katil
+63	Kül Çizgisi
+65	Gün Batımı Oku
+66	Alevli Yaylım
+68	Yeniden Doğan
+69	Anka Kanadı
+70	İmparator Ragnar
+71	Alevin Efendisi
+72	Patlama
+74	Güneş Okçusu
+75	Parıltı
+77	Şafağın Şarkıcısı
+78	Güneşe İlahi
+80	Çölün Kalkanı
+81	Aslan Kükremesi
+83	Zirvenin Gözü
+84	Güneş Mızrağı
+86	Şafak Bıçağı
+87	Kesen Işın
+88	Amaria
+89	Güneş Yüzlü
+90	Öğle Mucizesi
+92	Sakin Dalga
+93	Sıçrama
+95	Pınarın Kızı
+96	Hayat Suyu
+98	Fırtına Okçusu
+99	Gök Gürültüsü
+101	Deniz Cadısı
+102	Girdap
+104	Gelgit Bekçisi
+105	Dokuzuncu Dalga
+106	Neria
+107	Leviathan Prensesi
+108	Derinlerin Çağrısı
+110	Kerubim
+111	Umut Tüyü
+112	Serafina
+113	Göklerin Okçusu
+114	Işık Oku
+116	Yasanın Kılıcı
+117	Hüküm
+119	Alevli Kılıç
+120	Göksel İnfaz
+121	Cebrail
+122	Göklerin Sesi
+123	Boru Çağrısı
+124	Lumina
+125	Işık Tahtı
+126	Sığınak
+128	Yaramaz İfrit
+129	Sinsi Isırık
+130	Lilith
+131	Gecenin Kraliçesi
+132	Uçurumun Büyüsü
+134	Yeraltı Celladı
+135	Azap Zincirleri
+137	Ruh Avcısı
+138	Bozulma Oku
+139	Azael
+140	Düşmüş Melek
+141	Tutulma
+143	Uçurumun Efendisi
+144	Dünyanın Sonu
+145	Gaia
+146	Tüm Canlıların Annesi
+147	Dünyanın Kalbi
+148	Surtur
+149	Son Ateş
+150	Ragnarök
+151	Helios
+152	Tahtın Üstündeki Güneş
+153	Güneş Arabası
+154	Okeana
+155	Suların Ana Tanrıçası
+156	Büyük Tufan
+157	Metatron
+158	Tahtın Sesi
+159	Göksel Taht
+160	Nyx
+161	İlk Gece
+162	Sonsuz Gece
+163	Gök Gezgini
+164	Deniz Kurdu
+165	Gül Şövalyesi
+166	Sakura
+167	Balkabağı Orakçısı
+168	Kış Bayramı
+169	Buz Prensi
+170	Siber Samuray
+171	Yeşim İmparator
+172	Yıldız Gezgini
+173	Boşluk Şeytanı
+174	Şafak Meleği
+175	Balçık
+176	Ay Kurdu
+177	Goblin
+178	Ent
+179	İfrit
+180	Golem
+181	İskelet
+182	Hortlak
+183	Yılan
+184	Ejderha
+185	Yeşim Vadisi
+186	Balçık Kral
+187	Alacakaranlık Çalılığı
+188	Münzevi Ent
+189	Kül Çorakları
+190	Kül Golemi
+191	Gök Mavisi Mağaralar
+192	Deniz Yılanı Irr
+193	Güneş Tapınağı
+194	Dikilitaş Muhafızı
+195	Donmuş Geçit
+196	Kırağı Ejderhası
+197	Gölgeler Şehri
+198	Gölge Naibi
+199	Meleklerin Bahçeleri
+200	Beyaz Yılan Eir
+201	Uçurum Yarığı
+202	Yıldız Yutucu
+203	Göksel Taht
+204	Düşmüş İmparator
+205	Işıldayan Bataklıklar
+206	Bataklığın Hanımı
+207	Ateş Demirhaneleri
+208	Surtur'un Demircisi
+209	Gök Takımadaları
+210	Rüzgârların Bekçisi
+211	Unutuluş Kumları
+212	Kumların Firavunu
+213	Kristal Mağaralar
+214	Kristal Ejderha
+215	Ruhlar Ormanı
+216	Gaia'nın Ağacı
+217	Kızıl Kale
+218	Kızıl Lord
+219	Yıldız Gözlemevi
+220	Uçurumun Yıldız Gözcüsü
+221	Gece Salonları
+222	Nyx'in Gölgesi
+223	İlkellerin Kapıları
+224	Uçurumun Kalbi
+225	Yıldız Çağırma
+226	Normal çağırma parşömenleri. SSR şansı: %5.
+227	Göksel Çağırma
+228	USR kahramanlı tek çağırma. 90 çağırma içinde USR garanti.
+229	Kader Kuponları
+230	Yalnızca UR ve üstü. SSR+ kahramanların tek kaynağı. 40 çağırma içinde SSR+ garanti.
+231	80 bin gümüş
+232	2 parşömen
+233	40 bin TP
+234	120 altın
+235	2 jeton
+236	Kupon
+237	SSR parçaları
+238	Kostüm
+239	SSR kahraman
+240	USR kahraman
+241	3 savaş kazan
+242	2 kez çağır
+243	Göklerin Çarkını çevir
+244	Kahramanların seviyesini 5 kez yükselt
+245	Ganimeti topla
+246	Arenada savaş
+290	İlk Adımlar
+291	1-10 aşamasını geç
+292	Vadinin Fatihi
+293	1. bölümü geç
+294	Çorakların Sesi
+295	3. bölümü geç
+296	Tapınağın Işığı
+297	5. bölümü geç
+298	10. bölümü geç
+299	Tam Kadro
+300	5 kahraman topla
+301	Koleksiyoncu
+302	12 kahraman topla
+303	Tarihçi
+304	24 kahraman topla
+305	Göklerin Seçilmişi
+306	Bir USR kahraman kazan
+307	Yıldızların Çağrısı
+308	50 kez çağır
+309	Çağırma Ustası
+310	200 kez çağır
+311	Kurt
+312	Ana kahraman seviye 50
+313	Efsane
+314	Ana kahraman seviye 100
+315	Dört Yıldız
+316	Bir kahramanı 4★'a çıkar
+317	Gücün Sınırı
+318	Bir kahramanı 6★'a çıkar
+319	Gladyatör
+320	Arenada 10 galibiyet
+321	Altın Lig
+322	1400 puana ulaş
+323	Omuz Omuza
+324	Bir ittifaka katıl
+325	Uçurumun Belası
+326	Etkinliğin 30 kademesini geç
+327	Ezici
+328	Tek vuruşta 100.000 hasar ver
+329	Yıkılmaz Kadro
+330	Kadro gücü 500.000
+331	Sadakat
+332	7 gün giriş yap
+333	Kızıl Yıldız
+334	Bir kahramanı 11★'a çıkar
+335	Birleşme
+336	Bir kahramanı 21★'a çıkar
+337	Bir Efsane Uyanıyor
+338	Bir LR kahraman kazan
+339	Binici
+340	Bir evcil hayvan kazan
+341	Kanatlarla
+342	Kanat kazan
+343	Yükseliş
+344	Bir kahramanı R1'e yükselt
+345	Zirve
+346	Zirve'ye ulaş
+347	Tahtın Tarihçisi
+348	Hikâyenin 10 bölümünü oku
+349	Demirci
+350	Ekipmanı Nadir kaliteye yükselt
+351	Kahraman çağır
+352	Çağırma → Yıldızlar → ×10
+353	1-1 aşamasını kazan
+354	«Savaş»a dokun
+355	Bir kahramanın seviyesini yükselt
+356	Kahramanlar → kahraman seç → Seviye
+357	Sağ alttaki sandık
+358	1-5 aşamasını geç
+359	Aşama ne kadar ileriyse ganimet o kadar büyük
+360	İttifak, Titan'ı ve Klan Savaşı'nı açar
+361	Taht'a hoş geldin
+363	Güncelleme 2.1
+365	Güncelleme 2.2: Efsaneler Çağı
+367	Altın
+368	Pembe
+369	Kırmızı
+370	Mor
+371	Sıradan
+372	Nadir
+373	Destansı
+374	Efsanevi
+375	Mitik
+376	Göksel
+377	Silah
+378	Zırh
+379	Miğfer
+380	Muska
+381	İlahi Bıçak
+382	İlahi Kalkan
+383	Kadim Emanet
+384	Kadim Taç
+385	Luna, Ay Kurdu
+386	Yeşim Kurt
+387	Gök Yılanı
+388	Ateş Ejderciği
+389	Buz Ejderhası
+390	Yıldız Ejderhası
+391	Şafak Kanatları
+392	Uçurum Kanatları
+393	Anka Kanatları
+394	Buz Kanatları
+395	Yeşim Kanatlar
+396	Yıldız Kanatları
+397	Taht Kanatları
+398	Leviathan'ın Gözyaşı
+399	can ve savunma
+400	Uçurumun Dişi
+401	saldırı
+402	Anka Kalbi
+403	can
+404	Ay Aynası
+405	savunma
+406	Tahtın Gözü
+407	kritik şansı
+408	Kum Saati
+409	hız
+410	Şafak Tacı
+411	saldırı ve can
+412	Efsaneler Kâsesi
+413	saldırı, can, kritik
+414	Evcil hayvanlar
+415	Kanatlar
+416	Eserler
+417	İlahi ekipman
+418	Kadim ekipman
+419	Savaş galibiyetleri
+420	Kahraman çağırmaları
+421	Seviye atlamalar
+422	Ganimet toplama
+423	Arena savaşları
+424	Efsane Ruleti çevirmeleri
+425	Göksel Yapboz parçaları
+426	Efsane Paketi
+427	Yükseliş Paketi
+428	Binici Paketi
+429	Tüy ve Toz
+430	Taht Kanatları (LR)
+431	Efsaneler Kâsesi (LR)
+432	Yıldız Ejderhası (LR)
+433	Uçurumun Habercisi
+434	Luna
+483	Efsaneler Çağı
+549	Taht
+555	EU · Avrupa
+556	Sunucu 1
+557	NA · Amerika
+558	Yakında
+559	ASIA · Asya
+560	Gümüş
+561	Altın
+562	Çağırma Parşömeni
+563	Kader Kuponu
+564	Çark Jetonu
+565	Kahraman TP
+566	İttifak Paraları
+567	Arena İşaretleri
+568	Yetenek Puanları
+569	USR Parçaları
+570	Cevher
+571	İlahi Öz
+572	Kadim Kırıntılar
+573	Efsane Parçaları
+574	Yıldız Özü
+575	Evcil Hayvan Yumurtası
+576	Evcil Hayvan Yemi
+577	Tüyler
+578	Eser Tozu
+579	Yükseliş Taşları
+580	Kahraman
+581	Ana kayıt bozuk veya değiştirilmiş; ilerleme yedekten geri yüklendi
+582	Sv.
+583	Yeni kahraman:
+584	+10 parça:
+585	Kostüm:
+586	200 altın (tüm kostümlere zaten sahipsin)
+587	Kahraman parçaları
+588	Bronz
+589	Platin
+590	Elmas
+591	Göksel
+592	Bölüm
+593	Kıdemli
+594	Üye
+595	Uçurum İstilası
+596	Uçurumun Habercisi ·
+597	Savaş!
+598	Sersemledi
+599	Sersemletme
+600	Patron!
+601	Yetenek
+602	Duraklat
+603	Devam etmek için ▶'ye dokun
+604	Yetenek:
+605	En güçlü vuruş:
+606	· tur
+607	Zafer
+608	Süre doldu
+609	Yenilgi
+610	<p class="mute" style="font-size:12.5px">Savaş çok uzun sürdü. Daha fazla hasar lazım: saldırı kahramanlarının seviyesini yükselt.</p>
+611	Sonraki aşamaya
+612	sn
+613	Dur
+614	Çık
+615	Aşamaları otomatik geç
+616	Yetersiz altın: gereken
+617	, sende
+618	. Mağaza açılsın mı?
+619	Mağazaya
+620	Yetersiz:
+621	karşılığı
+622	altın?
+623	Onayla
+624	Kapat
+625	İptal
+626	Evet
+627	21★: birleşme
+628	BİRLEŞME
+629	KAHRAMAN
+630	Bir yıldız yükseltilebilir
+631	<span class="mute">Elde edilmedi</span>
+632	Kahramanlar
+633	Karakter
+634	Sefer
+635	Çağırma
+636	İttifak
+637	Mağaza
+638	Etkinlikler
+639	Arena
+640	Altın satın al
+641	Savaş
+642	Dünya
+643	çağırdı
+644	bölümü geçti: «
+645	İttifak Titanı zayıflıyor, herkes saldırıya!
+646	Sistem
+647	«
+648	» etkinliği tüm hafta sürüyor
+649	ittifak arıyor, güç
+650	Ayarlar
+651	Posta
+652	Kademe
+653	/30 · kalan:
+654	g.
+655	Rulet · yapboz · LR kahramanlar
+656	[Hikâye]
+657	Aşama
+658	Bölümü geç: «
+659	/
+660	sa
+661	Savaş
+662	Rezonans «
+663	Giriş
+664	Günlük
+665	Başarımlar
+666	Kahraman çağır
+667	Göklerin Çarkı
+668	· patron
+669	[Kronik]
+670	Açar:
+671	Oku: bölüm ödülü
+672	[Günlük]
+673	Tüm görevler tamam
+674	Sandıkları al
+675	[İttifak]
+676	Titan, klan savaşı, dükkân
+677	İttifakta yoklama ver
+678	+150 İttifak Parası
+679	Depo dolu
+680	Ganimet
+681	Hızlı ganimet
+682	Hızlı · 60
+683	Ganimet:
+684	Yetersiz altın
+685	Hızlı ganimet:
+686	gümüş
+687	Koleksiyon
+688	Kadro
+689	Toplanan
+690	Sırala:
+691	Tümü
+692	Her nadirlik
+693	güç
+694	nadirlik
+695	seviye
+696	grup
+697	Eksikleri gizle
+698	Tümünü göster
+699	Boş
+700	Savaş düzeni
+701	Güç
+702	Ön sıra
+703	Arka sıra
+704	Otomatik
+705	Tüm kadroyu güçlendir
+706	TP ve gümüş eşit paylaştırılır: önce en zayıf kahraman gelişir.
+707	Grup üstünlüğü · +%25 hasar
+708	Savaşçılar öne çıkar ve darbeleri karşılar. Suikastçılar düşmanın arka sırasına dalar. Ön sıra yaşadıkça arka sıra korunur.
+709	% can ve saldırıya
+710	Rezonans: aynı gruptan 3 kahraman +%8, 4 kahraman +%15 verir
+711	Kadro güce göre kuruldu
+712	TP veya gümüş yetersiz ya da tüm kahramanlar seviye sınırında
+713	Kadro güçlendirildi: +
+714	sv., güç +
+715	Konum
+716	sıra
+717	Bir kahraman seç. Zaten kadrodaysa kahramanlar yer değiştirir.
+718	ön
+719	arka
+720	Çıkar
+721	Ana kahraman her zaman kadrodadır
+722	Efsaneler Sunağı: ücretli etkinliklerden Efsane Parçaları ile
+723	Göksel Çağırma, Göklerin Çarkı ve İttifak Dükkânı
+724	her çağırma ve Göklerin Çarkı
+725	Yetenek «
+726	Nerede bulunur:
+727	Önceki kahraman
+728	Sonraki kahraman
+729	Güç:
+730	Grup gücü
+731	Yetenekler
+732	Can
+733	Saldırı
+734	Savunma
+735	Hız · kritik
+736	Kadroya
+737	Genel bakış
+738	Ekipman
+739	Yıldızlar
+740	. Grup gücü «
+741	Zirve seviyeleri Yükseliş Taşları gerektirir
+742	TP veya gümüş yetersiz
+743	sv. · güç +
+744	Kadro dolu: «Kadro» sekmesinde bir kahramanı değiştir
+745	TEMEL
+746	<span class="tag">KUŞANILDI</span>
+747	% her şeye
+748	Bonus yok
+749	<span class="g">Elde edildi</span>
+750	Haftanın etkinliği
+751	Tahtın Gücü
+752	+%1,5 saldırı
+753	Göksel Beden
+754	+%1,5 can
+755	Şahin Gözü
+756	+%0,2 kritik
+757	Kostümler
+758	. Her 25 seviyede yeni bir yıldız, R1'de birleşme (21★). Seviye sınırı bölümlerle artar.
+759	Sınıf
+760	Görünümler
+761	Kostüm görünümü tamamen değiştirir ve tüm özelliklere bonus verir: R +%1, UR +%1,5, SSR +%2, SSR+ +%3, USR +%5.
+762	puan
+763	Her geçilen aşama için yetenek puanı verilir.
+764	Değişim:
+765	İlk değişim ücretsiz
+766	seviye başına
+767	Gelişim
+768	Yetenek +
+769	Bir yetenek puanı ve gümüş gerekir
+770	Yeni sınıf:
+771	Sınıf şuna değişsin mi: «
+772	Seviye, kostümler ve yetenekler korunur.
+773	Bedel: 500 altın.
+774	İlk değişim ücretsizdir.
+775	Değiştir
+776	Kostüm «
+777	» kuşanıldı
+778	Bu kostüm Göklerin Çarkından çıkar
+779	Bu kostüm şu etkinliğin büyük ödülü: «
+780	Kostüm satın alınsın mı: «
+781	» karşılığı
+782	Kostüm alındı ve kuşanıldı
+783	Satın al
+784	Açık
+785	Kapalı
+786	Language · Dil
+787	Kahraman adı
+788	Kaydet
+789	Grafik
+790	İstatistikler
+791	Savaşlar
+792	Sefer galibiyetleri
+793	Çağırmalar
+794	USR kahramanlar
+795	En güçlü vuruş
+796	Oyundaki günler
+797	Kayıt
+798	İlerleme cihazda otomatik kaydedilir: her 15 saniyede ve küçültüldüğünde. Aşağıdaki kod onu başka bir cihaza taşır.
+799	Kayıt kodunu yapıştır
+800	Kodumu göster
+801	Kopyala
+802	Kodu yükle
+803	Yenilikler
+804	Gizlilik
+805	Koşullar
+806	Karakter değiştir
+807	Karakteri sil
+808	Göksel Taht · sürüm
+809	Ses efektleri
+810	Müzik
+811	Titreşim
+812	Yüksek
+813	Pil tasarrufu
+814	Hata günlüğü (
+815	Grafik kalitesi yeniden başlatınca değişir. Şimdi yeniden başlatılsın mı?
+816	Yeniden başlat
+817	Bir ad gir
+818	Kod kopyalandı
+819	Kodu seçip elle kopyala
+820	Kayıt yüklendi
+821	Kod çalışmadı: tamamen kopyalandığından emin ol
+822	Bu karakter ve tüm ilerlemesi silinsin mi? Geri alınamaz.
+823	Sil
+824	Göksellerin Kronikleri
+825	Taht boş ve Uçurum yıldızlara yükseliyor. Kahramanının yolunu seç.
+826	Yetenek: «
+827	Örneğin Aelita
+828	Yolculuğa başla
+829	Karakterlere
+830	Gezgin
+831	Hoş geldin,
+832	Kadronda zaten üç kahraman var. 10 parşömenin var: ilk ×10 çağırma bir SSR kahraman garantiler.
+833	Çağırmaya
+834	bugün
+835	dün
+836	gün önce
+837	Bir karakter seç
+838	Bu sunucuda henüz karakter yok
+839	Yeni karakter
+840	Boş yerler:
+841	Oyuna gir
+842	Kayıt elle değiştirilmiş ve doğruluk kontrolünden geçemedi. İlerlemeni bir kayıt koduyla geri yükle
+843	Karakter yüklenemedi
+844	Tüm yerler dolu
+845	Karakter kalıcı olarak silinsin mi: «
+846	»? İlerleme geri getirilemez.
+847	Karakter silindi
+848	Sunucu
+849	Oyun şu an çevrimdışı çalışıyor: karakterler bu cihazda saklanır. Diğer bölgeler çevrimiçi modla birlikte açılacak.
+850	Language · Dil
+851	Düşmanlar
+852	· kadro
+853	Bölüm başına
+854	Otomatik geçiş
+855	Sınavlar
+856	· Patron
+857	Düşmanlar:
+858	· onlara karşı güçlü:
+859	Kronik
+860	Bölüm mevcut:
+861	Oku
+862	bölüm
+863	· puan
+864	· bilet
+865	/30 · deneme
+866	/5 · büyük ödül: USR kostüm
+867	İttifak Titanı
+868	Seviye
+869	· deneme
+870	Titan'ı ve Klan Savaşı'nı açmak için bir ittifaka katıl
+871	Tüm bölümler geçildi. Yeni bölümler bir güncellemeyle gelecek
+872	Bir kadro kur
+873	geçildi!
+874	Ödül
+875	Sonraki aşama
+876	Kadronu güçlendir: kahramanların seviyesini ve yıldızını yükselt ya da yenilerini çağır. Kadro sırası da önemli.
+877	Tekrar
+878	Kadroyu güçlendir
+879	Otomatik geçiş açık: sonraki aşama kendiliğinden başlayacak
+880	Otomatik geçiş kapalı
+881	Lig
+882	galibiyet ·
+883	yenilgi
+884	Biletler:
+885	+1 bilet
+886	Günlük lig ödülü
+887	Arena Dükkânı
+888	Alındı
+889	Al
+890	Puan
+891	· güç
+892	Savaş
+893	Bilet satın al
+894	Lig ödülü «
+895	» alındı
+896	Bilet kalmadı: yenileri yarın
+897	Arena ·
+898	Arenaya
+899	Puan −8 →
+900	Tüm etkinlikler
+901	Etkinlikler
+902	Uçurum şeytanlarının 30 kademesi · USR kostüm
+903	Kalan:
+904	Ücretli etkinlikler: rulet, yapboz, yol
+905	Efsane Parçaları:
+906	· LR kahraman:
+907	Hafta
+908	Haftanın kahramanı:
+909	USR garantisi:
+910	Büyük ödül: bir USR kahraman
+911	Ücretsiz çevirme hazır
+912	Jetonlar:
+913	Rakip kadrolara karşı savaşlar
+914	Ortak ittifak patronu
+915	Bir ittifaka katıldıktan sonra açılır
+916	Klan Savaşı
+917	Puan için haftalık savaş
+918	Sıra
+919	Pzt–Paz
+920	Giriş ödülleri
+921	Her gün giriş yap: yedinci gün bir paket Kader Kuponu.
+922	Gün
+923	<span style="color:var(--good);font-size:12px">Alındı</span>
+924	Günün ödülünü al
+925	Yarın tekrar gel
+926	Giriş ödülü alındı
+927	Günün görevleri
+928	/120 puan
+929	Sandık açıldı
+930	«Boşluk Şeytanı» kostümü USR
+931	Uçurum şeytanları Taht'a saldırıyor. Hafta bitmeden 30 kademeyi geç. Her kademe bir öncekinden güçlüdür; ilerleme pazartesi sıfırlanır.
+932	Bugünkü denemeler:
+933	Kademe ödülleri
+934	Kademe ödülü
+935	Savaş ·
+936	<b style="color:var(--good)">Bu hafta tüm kademeler geçildi</b>
+937	· kademe
+938	<p>«Boşluk Şeytanı» USR kostümünü kazandın! Kahraman ekranında kuşan.</p>
+939	Sonraki kademe
+940	Etkinliğe
+941	<p class="mute">Deneme harcandı. Kadronu güçlendir ve geri dön.</p>
+942	İttifak Titanı ile savaşmak, diğer klanlarla çarpışmak ve İttifak Dükkânından nadir eşyalar almak için bir ittifaka katıl.
+943	Kendi ittifakın
+944	İttifak adı
+945	/40 üye
+946	Katıl
+947	İttifak · seviye
+948	İttifak TP
+949	· hasar tüm ittifaka sayılır
+950	· bilet
+951	Düşman klanların savunucularına saldır. Bir klana karşı ilk zafer 100 bonus puan verir. Ödüller hafta sonunda.
+952	Üyeler
+953	(sen)
+954	İttifak Dükkânı
+955	Ayrıl
+956	Yoklama verildi
+957	Yoklama ver
+958	Klan Savaşı sonuçları
+959	geçen hafta
+960	İttifaka katıldın: «
+961	Bir ad gir
+962	İttifak «
+963	» kuruldu
+964	Yoklama: +150
+965	İttifaktan ayrılınsın mı? Klan Savaşı ve Titan ilerlemesi kaybolur.
+966	İttifak Titanı · sv.
+967	Titan yenildi! +
+968	altın tüm üyelere
+969	Titan yenildi
+970	Saldırı bitti
+971	Verilen hasar:
+972	İttifaka
+973	Klan Savaşı ·
+974	Klan puanı:
+975	· sıra
+976	<p class="mute">Savunucular dayandı. Daha zayıf bir klan dene.</p>
+977	Göksel
+978	Kuponlar
+979	Çark
+980	Sende:
+981	Çağırma geçmişi
+982	Yalnızca UR, SSR ve SSR+
+983	Normal çağırma
+984	Garanti
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">İlk ×10 çağırma bir SSR kahraman garantiler.</p>
+986	Ücretsiz
+987	Sunak
+988	Son
+989	kahraman. Her çağırmanın şansları kendi afişinde yazar.
+990	<p class="mute">Henüz boş.</p>
+991	Tamam
+992	Tekrar ×
+993	YENİ
+994	ALTIN
+995	+10 PARÇA
+997	<button class="btn sec" data-act="sumAll">Tümünü göster</button>
+998	Çevir ·
+999	Büyük ödül: bir USR kahraman. 100 çevirme içinde garanti.
+1000	Garantiye:
+1001	Şanslar
+1002	GÖK
+1003	Jeton veya altın gerekli
+1004	Göklerin Çarkı ×
+1005	Harika
+1006	10 çevirme (jeton
+1007	, kalanı altınla)
+1008	Çevirme
+1009	Bir jeton veya 150 altın gerekir
+1010	Altın satın alma gelecek bir güncellemeyle gelecek. Şimdilik altın; sefer aşamalarından, ganimetten, girişlerden, günlük görevlerden, başarımlardan, postadan ve «Ürünler» sekmesindeki günlük hediyeden gelir.
+1011	Test modu
+1012	Ödemeler bağlı değil: düğmeler ücretsiz altın verir, para çekilmez. Google Play ve App Store yayınından önce uygulama içi satın almalar buraya bağlanacak.
+1013	Özel miktar
+1014	10 ile 100.000.000 altın arası. Ne kadar çok, o kadar iyi kur.
+1015	Günlük hediye
+1016	Yarın
+1017	<p class="mute">Dükkân bir ittifaka katıldıktan sonra açılır.</p>
+1018	Ürünler
+1019	10 USR kahraman parçası
+1020	Bu hafta kalan:
+1021	İttifak gerekli
+1022	Satın alınsın mı: «
+1023	USR parçaları
+1024	Satın alma tamamlandı
+1025	Günlük hediye alındı
+1026	Ödeme sağlayıcısı bağlı değil
+1027	Test modu: +
+1028	altın ödemesiz
+1029	10 ile 100.000.000 arası
+1030	Şu bölümden sonra açılır:
+1031	», Kronik'te.
+1032	Bölüm zaten açık: oku.
+1033	Önce şu bölüme ulaş:
+1034	(sefer).
+1035	Oku
+1036	En yüksek sınıra ulaşıldı: Zirve 100
+1037	R1 · 300: Zirve açılır
+1038	Seviye sınırı sefer bölümlerini geçtikçe artar
+1039	Seviye sınırı
+1040	Sınır
+1041	sv. Sonraki yıldız onu şuna çıkarır:
+1042	Maks.
+1043	Seviye:
+1044	Parçalar
+1045	Yükselt:
+1046	Seviye atla
+1047	güç
+1048	Birleşme →
+1049	Gerekli:
+1050	. Yükseliş Taşları: ücretli etkinliklerde, İttifak Dükkânında, Efsane Yolunda ve 300. aşamadan sonra patronlardan
+1051	Şuna yükseltilsin mi:
+1052	? Seviyeler yeni basamakta sürer, özellikler artar.
+1053	Yükseliş:
+1054	Yükselt
+1055	BİRLEŞME! Kahraman 21 yıldızın gücüyle parlıyor
+1056	Yeni yıldız rütbesi:
+1057	Yıldız
+1058	★ · seviye sınırı
+1059	En fazla: 21★
+1060	Yetersiz parça: gereken
+1061	. Kopya kahraman 10 verir, Yıldız Özü eksikleri tamamlar
+1062	21★ · kahraman parıltısı, özellikler ×1,3, kritik +%5, hız +5
+1063	Yıldız gücü
+1064	Çağırmadan gelen her kopya kahraman 10 parçadır. Yıldız Özü eksik parçaların yerini tutar (Efsane Ruleti, Göksel Yapboz, Efsane Yolu).
+1065	Sonraki yıldız
+1066	Birleşme bedeli
+1067	pr.
+1068	LR kahraman parçaları: Efsaneler Sunağında.
+1069	kritik
+1070	Kalite ↑
+1071	<span class="g" style="font-size:12px">Maksimum</span>
+1072	Şu kahraman seviyesinden açılır:
+1073	(R1 ve Zirve 500'ün üstü sayılır).
+1074	Gerekli bölüm:
+1075	», Kronik'te ve kahraman seviyesi
+1076	.
+1077	Ana ekipman
+1078	Tüm ana ekipmanı güçlendir
+1079	Cevher veya gümüş yetersiz. Cevher sefer aşamalarından ve ganimetten gelir
+1080	Cevher veya gümüş yetersiz ya da her şey kalite sınırında
+1081	Ekipman: +
+1082	İlahi Öz ve gümüş gerekir
+1083	Kadim Kırıntılar ve gümüş gerekir
+1084	Kuşanıldı
+1085	Sahip olduğun her kanadın her seviyesi tüm kadroya +%0,05 saldırı ve can verir.
+1086	Yok
+1087	Ana kahraman: saldırı, can, savunma +
+1088	<span class="tag">KUŞANILDI</span>
+1089	<span style="color:#ff9a7a">Ücretli etkinlikler</span>
+1090	Kuşanılan:
+1091	Bu kanatlar ücretli etkinlik paketlerinde
+1092	Gerekli
+1093	tüy. Tüyler: Efsane Ruleti, Yapboz, Uçurum etkinliği ve mağazada
+1094	Oluşturulsun mu: «
+1095	tüy?
+1096	Kanatlar oluşturuldu ve kuşanıldı
+1097	Oluştur
+1098	Yetersiz tüy
+1099	Binek
+1100	Diğer evcil hayvanlar kadroya bonuslarının %30'unu verir.
+1101	Yumurtadan çıkar
+1102	Seçilmedi
+1103	Kadro: saldırı ve can +
+1104	, hız +3
+1105	<span class="tag">BİNEK</span>
+1106	Yumurtadan
+1107	Evcil hayvan seçildi
+1108	Yıldız Ejderhası ücretli etkinlik paketlerinde
+1109	Yumurtaları çıkar: Kronik, Efsane Ruleti, Efsane Yolu ve mağazada bulunur
+1110	Yetersiz yem. Yem: ganimette, Rulette ve mağazada
+1111	Yumurta yok
+1112	Yumurtadan çıktı
+1113	Yeni evcil hayvan!
+1114	Zaten var: 200 yem alındı
+1115	Kadro yuvaları ·
+1116	Kadro şimdi: saldırı +
+1117	, can +
+1118	, savunma +
+1119	, kritik +
+1120	(evcil hayvanlar ve kanatlarla)
+1121	, hız +
+1122	· sv.
+1123	Çıkar
+1124	Kuşan
+1125	<span style="color:#ff9a7a;font-size:12px">Ücretli etkinlikler</span>
+1126	4 yuvanın hepsi dolu: önce bir eser çıkar
+1127	Yetersiz eser tozu
+1128	toz. Toz: patronlardan, arenadan ve Efsane Ruletinden
+1129	toz?
+1130	Eser oluşturuldu
+1131	Rulet
+1132	Yapboz
+1133	Efsane Yolu
+1134	Paketler
+1135	Ücretli etkinlikler · altınla
+1136	Efsane Parçaları yalnızca burada.
+1137	parça: Sunakta bir LR kahraman. Altın:
+1138	Efsane Parçaları
+1139	Öz
+1140	Tüy
+1141	Yem
+1142	Toz
+1143	İlahi öz
+1144	Kadim kır.
+1145	Yumurta
+1146	Yük. taşı
+1147	Altın
+1148	Efsane Ruleti
+1149	Garanti: 50 Efsane Parçası,
+1150	çevirmede
+1151	Çevir
+1152	EFS.
+1153	ÖZ
+1154	TÜY
+1155	YEM
+1156	TOZ
+1157	İLAHİ
+1158	KADİM
+1159	YUMURTA
+1160	YÜK.
+1161	Efsane Ruleti ×
+1162	Ödüller
+1163	Göksel Yapboz #
+1164	Resim:
+1165	(LR). Parça:
+1166	ve bir ödül. Satır veya sütun:
+1167	Tüm resim:
+1168	Resim tamamlandı!
+1169	Sonraki yapboz yeni bir LR kahraman.
+1170	Sonraki yapboz
+1171	Parça aç
+1172	Parça:
+1173	· çizgi ×
+1174	· RESİM TAMAMLANDI!
+1175	kalan:
+1176	Yol puanı:
+1177	Normal
+1178	Efsanevi
+1179	Haftalık görevler
+1180	<span class="sp g">Efsanevi yol açıldı</span>
+1181	Aç
+1182	Efsanevi yolu aç
+1183	Efsanevi yol açıldı
+1184	Yol ödülü alındı
+1185	Zaten var
+1186	Paket alındı
+1187	İlkeller, oyunun en güçlüsü olan LR kahramanlardır. Bir kahramanın kilidini aç:
+1188	. Kahramana sahip olduğunda Efsane Parçaları 1:1 onun parçalarına dönüşür; yıldız birleşmesi için.
+1189	+10 pr.
+1190	Kahraman açılsın mı: «
+1191	Efsane Parçası?
+1192	efsaneler kadrosuna katılıyor!
+1193	+10 kahraman parçası
+1194	Atla
+1195	· devam etmek için dokun
+1196	savaştan önce
+1197	okundu
+1198	İleri
+1199	Açıldı:
+1200	Bölüm atlandı. Onu Kronik'te okuyabilirsin: okumak ödül verir ve hikâye yeni sistemleri açar
+1201	Hikâye atlanabilir, ama okunan her bölüm ödül verir; 2, 3, 4, 6 ve 10. bölümler evcil hayvanları, kanatları, eserleri, ilahi ve kadim ekipmanı açar.
+1202	· açar:
+1203	Tekrar oku
+1204	Ücretli etkinlikler
+1205	[Eğitim
+1206	Tamam! Ödülü almak için dokun
+1207	Eğitim: «
+1208	<span class="mute" style="font-size:12px">Sürüyor</span>
+1209	Başarım «
+1210	» açıldı
+1211	Taht'tan mektuplar: hediyeler, telafiler ve güncelleme haberleri.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Hepsini al</button>
+1213	<p class="mute">Mektup yok.</p>
+1214	Mektuptaki hediye alındı
+1215	Alınan mektuplar:
+1216	Sen yokken
+1217	dk
+1218	Kadron şu aşamada savaştı:
+1219	. Depo dolu: hiçbir şey kaybetmemek için daha sık gir
+1220	Hafta sonu: gümüş ve TP ×1,5.
+1221	Sürüm
+1222	Değişikliklerin tam listesi projenin CHANGELOG dosyasında.
+1223	Anladım
+1224	<button class="btn jade" data-act="mail">Postayı aç</button>
+1244	Hata günlüğü
+1245	Oyun garip davrandıysa bu metni geliştiriciye gönder.
+1246	Oyundan çıkılsın mı? İlerleme kaydedildi.
+1247	Atla
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">21★ kahramanlar artık parça biriktirmez: kopyalar altına dönüşür.</p>
+1250	Lider
+1251	Bu kod, karakterin bu cihazdaki ilerlemesinden eski; ilerlemeyi geri almak yasak
+1252	Sunucu girişi: açılışta karakter seçimi, EU · Avrupa, Sunucu 1'de en fazla 4 karakter
+1253	Her karakter için ayrı otomatik kayıt, yedek ve kodla taşıma
+1254	20 dil: varsayılan İngilizce, Ukraynaca, Lehçe, Rusça ve 16 dil daha
+1255	Koruma: şifreli ve imzalı kayıtlar, eski kodla ilerlemeyi geri alma yasağı, saat değiştirmeye karşı koruma
+1256	Farklı dillerde uzun adlar için arayüz düzeltmeleri
+1257	Güncelleme 2.3: Sunucular ve diller

@@ -1,0 +1,1045 @@
+1	Ceva n-a mers bine. Progresul este salvat; detalii în Setări
+2	Eroare
+3	Pădure
+4	Flacără
+5	Soare
+6	Val
+7	Îngeri
+8	Demoni
+9	Războinic
+10	Mag
+11	Arcaș
+12	Asasin
+13	Vindecător
+14	Lovitură puternică asupra țintei, amețire și scut pentru sine
+15	Daune tuturor inamicilor
+16	Daune uriașe celui mai rănit inamic
+17	Două lovituri critice garantate pe rândul din spate
+18	Vindecă toată echipa și oferă un scut
+19	se vindecă cu 10%
+20	arde țintele 2 ture
+21	daune abilitate +20%
+22	încetinește țintele
+23	scut pentru aliați
+24	furt de viață 30% din daune
+25	Gardianul Tronului
+26	Ține linia întâi: multă viață și apărare, amețește inamicii.
+27	Ruptura cerească
+28	Astrologul
+29	Aduce stelele peste toți inamicii deodată.
+30	Ploaie de stele
+31	Pădureanca lunară
+32	Termină inamicii răniți cu trageri precise.
+33	Săgeata lunară
+34	Lama eclipsei
+35	Pătrunde până la rândul din spate și lovește critic.
+36	Dansul umbrelor
+38	Păzitoarea rădăcinilor
+39	Înflorirea vieții
+41	Iscoada pădurii
+42	Vârtej de frunze
+44	Străjerul de piatră
+45	Lovitura bolovanului
+47	Șoapta ramurilor
+48	Furtună de spori
+50	Umbra spinoasă
+51	Vârtej de spini
+52	Doamna Salcie
+53	Inima Pădurii străvechi
+54	Mânia celor o mie de rădăcini
+56	Ucenicul focului
+57	Minge de foc
+59	Fierarul războiului
+60	Ciocanul încins
+62	Ucigașa din cenușă
+63	Trăsătura de cenușă
+65	Săgeata asfințitului
+66	Salvă arzătoare
+68	Cel renăscut
+69	Aripa de fenix
+70	Împăratul Ragnar
+71	Stăpânul flăcării
+72	Erupție
+74	Arcașul solar
+75	Licărire
+77	Cântăreața zorilor
+78	Imn soarelui
+80	Scutul deșertului
+81	Răgetul leului
+83	Ochiul zenitului
+84	Sulița solară
+86	Lama zorilor
+87	Raza tăioasă
+88	Amaria
+89	Chip de soare
+90	Minunea amiezii
+92	Val liniștit
+93	Stropire
+95	Fecioara izvorului
+96	Apa vie
+98	Arcașul furtunii
+99	Tunet
+101	Vrăjitoarea mării
+102	Vârtej
+104	Paznicul mareei
+105	Al nouălea val
+106	Neria
+107	Prințesa Leviatanului
+108	Chemarea adâncurilor
+110	Heruvim
+111	Pana speranței
+112	Serafina
+113	Arcașa cerului
+114	Săgeata luminii
+116	Sabia legii
+117	Verdict
+119	Sabia de foc
+120	Pedeapsa cerească
+121	Gabriel
+122	Glasul cerului
+123	Chemarea trâmbiței
+124	Lumina
+125	Tronul luminii
+126	Sanctuar
+128	Drăcușor poznaș
+129	Mușcătură vicleană
+130	Lilith
+131	Regina nopții
+132	Farmecul abisului
+134	Călăul lumii de dedesubt
+135	Lanțurile chinului
+137	Vânătoarea de suflete
+138	Săgeata pângăririi
+139	Azael
+140	Înger căzut
+141	Eclipsă
+143	Stăpânul Abisului
+144	Sfârșitul lumii
+145	Gaia
+146	Mama a tot ce e viu
+147	Inima lumii
+148	Surtur
+149	Ultimul foc
+150	Ragnarök
+151	Helios
+152	Soarele de deasupra Tronului
+153	Carul Soarelui
+154	Okeana
+155	Străbuna apelor
+156	Marele potop
+157	Metatron
+158	Glasul Tronului
+159	Tronul Ceresc
+160	Nyx
+161	Prima noapte
+162	Noaptea veșnică
+163	Rătăcitorul cerului
+164	Lup de mare
+165	Cavalerul trandafirului
+166	Sakura
+167	Secerătorul dovleac
+168	Sărbătoarea iernii
+169	Prințul de gheață
+170	Cyber-samurai
+171	Împăratul de jad
+172	Călătorul stelar
+173	Demonul vidului
+174	Îngerul zorilor
+175	Mâzgă
+176	Lup lunar
+177	Goblin
+178	Ent
+179	Drăcușor
+180	Golem
+181	Schelet
+182	Strigoi
+183	Șarpe
+184	Dragon
+185	Valea de Jad
+186	Regele Mâzgă
+187	Desișul amurgului
+188	Entul pustnic
+189	Pustiurile de cenușă
+190	Golemul de cenușă
+191	Grotele azurii
+192	Șarpele de mare Irr
+193	Templul Soarelui
+194	Gardianul obelisc
+195	Trecătoarea înghețată
+196	Dragonul de brumă
+197	Orașul umbrelor
+198	Regentul umbrei
+199	Grădinile îngerilor
+200	Șarpele alb Eir
+201	Ruptura Abisului
+202	Devoratorul de stele
+203	Tronul Ceresc
+204	Împăratul căzut
+205	Mlaștinile sclipitoare
+206	Stăpâna mlaștinii
+207	Forjele de foc
+208	Fierarul lui Surtur
+209	Arhipelagul ceresc
+210	Paznicul vânturilor
+211	Nisipurile uitării
+212	Faraonul nisipurilor
+213	Peșterile de cristal
+214	Dragonul de cristal
+215	Pădurea spiritelor
+216	Arborele Gaiei
+217	Citadela purpurie
+218	Lordul purpuriu
+219	Observatorul stelar
+220	Astrologul Abisului
+221	Sălile Nopții
+222	Umbra lui Nyx
+223	Porțile Primordialilor
+224	Inima Abisului
+225	Invocare stelară
+226	Suluri de invocare obișnuite. Șansă SSR: 5%.
+227	Invocare cerească
+228	Singura invocare cu eroi USR. USR garantat în 90 de invocări.
+229	Cupoane ale Destinului
+230	Doar UR și peste. Singura sursă de eroi SSR+. SSR+ garantat în 40 de invocări.
+231	80K argint
+232	2 suluri
+233	40K EXP
+234	120 aur
+235	2 jetoane
+236	Cupon
+237	Fragmente SSR
+238	Aspect
+239	Erou SSR
+240	Erou USR
+241	Câștigă 3 lupte
+242	Invocă de 2 ori
+243	Învârte Roata Cerului
+244	Crește nivelul eroilor de 5 ori
+245	Adună prada
+246	Luptă în arenă
+290	Primii pași
+291	Termină etapa 1-10
+292	Cuceritorul văii
+293	Termină capitolul 1
+294	Glasul pustiurilor
+295	Termină capitolul 3
+296	Lumina templului
+297	Termină capitolul 5
+298	Termină capitolul 10
+299	Echipă completă
+300	Adună 5 eroi
+301	Colecționar
+302	Adună 12 eroi
+303	Cronicar
+304	Adună 24 de eroi
+305	Alesul cerului
+306	Obține un erou USR
+307	Chemarea stelelor
+308	Invocă de 50 de ori
+309	Stăpânul invocării
+310	Invocă de 200 de ori
+311	Călit în luptă
+312	Eroul principal nivel 50
+313	Legendă
+314	Eroul principal nivel 100
+315	Patru stele
+316	Ridică un erou la 4★
+317	Limita puterii
+318	Ridică un erou la 6★
+319	Gladiator
+320	10 victorii în arenă
+321	Liga de aur
+322	Atinge un punctaj de 1400
+323	Umăr la umăr
+324	Intră într-o alianță
+325	Flagelul Abisului
+326	Termină 30 de trepte ale evenimentului
+327	Zdrobitor
+328	Provoacă 100.000 de daune dintr-o lovitură
+329	Echipă de neînfrânt
+330	Puterea echipei 500.000
+331	Loialitate
+332	Intră în joc 7 zile
+333	Steaua roșie
+334	Ridică un erou la 11★
+335	Contopire
+336	Ridică un erou la 21★
+337	O legendă se trezește
+338	Obține un erou LR
+339	Călăreț
+340	Obține un animal
+341	Pe aripi
+342	Obține aripi
+343	Înălțare
+344	Înalță un erou la R1
+345	Zenit
+346	Atinge Zenitul
+347	Cronicarul Tronului
+348	Citește 10 capitole din poveste
+349	Fierar
+350	Îmbunătățește echipamentul la calitatea Rar
+351	Invocă un erou
+352	Invocare → Stele → ×10
+353	Câștigă etapa 1-1
+354	Apasă «Luptă»
+355	Crește nivelul unui erou
+356	Eroi → alege un erou → Nivel
+357	Cufărul din dreapta jos
+358	Termină etapa 1-5
+359	Cu cât etapa e mai departe, cu atât prada e mai mare
+360	Alianța deblochează Titanul și Războiul clanurilor
+361	Bine ai venit la Tron
+363	Actualizarea 2.1
+365	Actualizarea 2.2: Era Legendelor
+367	Aurii
+368	Roz
+369	Roșii
+370	Violete
+371	Comun
+372	Rar
+373	Epic
+374	Legendar
+375	Mitic
+376	Ceresc
+377	Armă
+378	Armură
+379	Coif
+380	Amuletă
+381	Lamă divină
+382	Egidă divină
+383	Relicvă străveche
+384	Coroană străveche
+385	Luna, lupoaica lunară
+386	Lup de jad
+387	Șarpe ceresc
+388	Dragonaș de foc
+389	Dragon de gheață
+390	Dragon stelar
+391	Aripile zorilor
+392	Aripile abisului
+393	Aripi de fenix
+394	Aripi de gheață
+395	Aripi de jad
+396	Aripi stelare
+397	Aripile Tronului
+398	Lacrima Leviatanului
+399	viață și apărare
+400	Colțul Abisului
+401	atac
+402	Inimă de fenix
+403	viață
+404	Oglinda lunară
+405	apărare
+406	Ochiul Tronului
+407	șansă critică
+408	Clepsidră
+409	viteză
+410	Coroana zorilor
+411	atac și viață
+412	Graalul Legendelor
+413	atac, viață, critic
+414	Animale
+415	Aripi
+416	Artefacte
+417	Echipament divin
+418	Echipament străvechi
+419	Victorii în luptă
+420	Invocări de eroi
+421	Creșteri de nivel
+422	Strângere de pradă
+423	Lupte în arenă
+424	Învârtiri la Ruleta Legendelor
+425	Piese din Puzzle-ul ceresc
+426	Pachetul Legendei
+427	Pachetul Înălțării
+428	Pachetul Călărețului
+429	Pene și Praf
+430	Aripile Tronului (LR)
+431	Graalul Legendelor (LR)
+432	Dragon stelar (LR)
+433	Vestitorul Abisului
+434	Luna
+483	Era Legendelor
+549	Tron
+555	EU · Europa
+556	Serverul 1
+557	NA · America
+558	În curând
+559	ASIA · Asia
+560	Argint
+561	Aur
+562	Sul de invocare
+563	Cupon al Destinului
+564	Jeton de Roată
+565	EXP eroi
+566	Monede de Alianță
+567	Însemne de arenă
+568	Puncte de talent
+569	Fragmente USR
+570	Minereu
+571	Esență divină
+572	Cioburi străvechi
+573	Fragmente de Legendă
+574	Esență stelară
+575	Ou de animal
+576	Hrană pentru animale
+577	Pene
+578	Praf de artefact
+579	Pietre de înălțare
+580	Erou
+581	Salvarea principală e deteriorată sau modificată; progres restaurat din copia de rezervă
+582	Nv.
+583	Erou nou:
+584	+10 fragmente:
+585	Aspect:
+586	200 aur (ai deja toate aspectele)
+587	Fragmente de erou
+588	Bronz
+589	Platină
+590	Diamant
+591	Ceresc
+592	Capitol
+593	Bătrân
+594	Membru
+595	Invazia Abisului
+596	Vestitorul Abisului ·
+597	Luptă!
+598	Amețit
+599	Amețire
+600	Boss!
+601	Abilitate
+602	Pauză
+603	Apasă ▶ pentru a continua
+604	Abilitate:
+605	Cea mai puternică lovitură:
+606	· ture
+607	Victorie
+608	Timpul a expirat
+609	Înfrângere
+610	<p class="mute" style="font-size:12.5px">Lupta a durat prea mult. Îți trebuie mai multe daune: crește nivelul eroilor de atac.</p>
+611	Etapa următoare în
+612	s
+613	Stop
+614	Ieșire
+615	Trecere automată prin etape
+616	Aur insuficient: trebuie
+617	, ai
+618	. Deschizi magazinul?
+619	La magazin
+620	Insuficient:
+621	pentru
+622	aur?
+623	Confirmă
+624	Închide
+625	Anulează
+626	Da
+627	21★: contopire
+628	CONTOPIRE
+629	EROU
+630	Se poate ridica o stea
+631	<span class="mute">Neobținut</span>
+632	Eroi
+633	Personaj
+634	Campanie
+635	Invocare
+636	Alianță
+637	Magazin
+638	Evenimente
+639	Arenă
+640	Cumpără aur
+641	Bătălie
+642	Lume
+643	a invocat
+644	a terminat capitolul «
+645	Titanul Alianței slăbește, toți la atac!
+646	Sistem
+647	Evenimentul «
+648	» ține toată săptămâna
+649	caută o alianță, putere
+650	Setări
+651	Poștă
+652	Treaptă
+653	/30 · rămas:
+654	z
+655	Ruletă · puzzle · eroi LR
+656	[Poveste]
+657	Etapa
+658	Termină capitolul «
+659	din
+660	h
+661	Luptă
+662	Rezonanță «
+663	Conectare
+664	Zilnic
+665	Realizări
+666	Invocă erou
+667	Roata Cerului
+668	· boss
+669	[Cronică]
+670	Deblochează:
+671	Citește-l: recompensa capitolului
+672	[Zilnic]
+673	Toate sarcinile sunt gata
+674	Ia cuferele
+675	[Alianță]
+676	Titan, războiul clanurilor, magazin
+677	Fă prezența în alianță
+678	+150 Monede de Alianță
+679	Depozit plin
+680	Pradă
+681	Pradă rapidă
+682	Rapid · 60
+683	Pradă:
+684	Aur insuficient
+685	Pradă rapidă:
+686	argint
+687	Colecție
+688	Echipă
+689	Adunați
+690	Sortare:
+691	Toți
+692	Orice raritate
+693	putere
+694	raritate
+695	nivel
+696	facțiune
+697	Ascunde lipsă
+698	Arată toți
+699	Gol
+700	Formație de luptă
+701	Putere
+702	Rândul din față
+703	Rândul din spate
+704	Auto
+705	Îmbunătățește toată echipa
+706	EXP și argintul se împart egal: cel mai slab erou crește primul.
+707	Avantaj de facțiune · +25% daune
+708	Războinicii ies în față și primesc loviturile. Asasinii pătrund până la rândul din spate al inamicului. Rândul din spate e protejat cât timp cel din față trăiește.
+709	% la viață și atac
+710	Rezonanță: 3 eroi dintr-o facțiune dau +8%, 4 eroi +15%
+711	Echipă formată după putere
+712	EXP sau argint insuficient, ori toți eroii sunt la limita de nivel
+713	Echipă îmbunătățită: +
+714	nv., putere +
+715	Poziție
+716	rând
+717	Alege un erou. Dacă e deja în echipă, eroii își vor schimba locurile.
+718	față
+719	spate
+720	Scoate
+721	Eroul principal e mereu în echipă
+722	Altarul Legendelor: pentru Fragmente de Legendă din evenimentele plătite
+723	Invocare cerească, Roata Cerului și Magazinul Alianței
+724	orice invocare și Roata Cerului
+725	Abilitate «
+726	Unde se găsește:
+727	Eroul anterior
+728	Eroul următor
+729	Putere:
+730	Puterea facțiunii
+731	Talente
+732	Viață
+733	Atac
+734	Apărare
+735	Viteză · critic
+736	În echipă
+737	Prezentare
+738	Echipament
+739	Stele
+740	. Puterea facțiunii «
+741	Nivelurile Zenit cer Pietre de înălțare
+742	EXP sau argint insuficient
+743	nv. · putere +
+744	Echipa e plină: înlocuiește un erou în fila «Echipă»
+745	BAZĂ
+746	<span class="tag">ECHIPAT</span>
+747	% la tot
+748	Fără bonus
+749	<span class="g">Obținut</span>
+750	Evenimentul săptămânii
+751	Puterea Tronului
+752	+1,5% atac
+753	Carne cerească
+754	+1,5% viață
+755	Ochi de șoim
+756	+0,2% critic
+757	Aspecte
+758	. La fiecare 25 de niveluri o stea nouă, la R1 contopirea (21★). Limita de nivel crește cu capitolele.
+759	Clasă
+760	Înfățișări
+761	Un aspect schimbă complet înfățișarea și dă un bonus la toate statisticile: R +1%, UR +1,5%, SSR +2%, SSR+ +3%, USR +5%.
+762	puncte
+763	Punctele de talent se primesc pentru fiecare etapă terminată.
+764	Schimbare:
+765	Prima schimbare e gratuită
+766	pe nivel
+767	Creștere
+768	Talent +
+769	Trebuie un punct de talent și argint
+770	Clasă nouă:
+771	Schimbi clasa în «
+772	Nivelul, aspectele și talentele se păstrează.
+773	Cost: 500 aur.
+774	Prima schimbare e gratuită.
+775	Schimbă
+776	Aspectul «
+777	» echipat
+778	Acest aspect cade din Roata Cerului
+779	Acest aspect e marele premiu al evenimentului «
+780	Cumperi aspectul «
+781	» pentru
+782	Aspect obținut și echipat
+783	Cumpără
+784	Pornit
+785	Oprit
+786	Language · Limbă
+787	Numele eroului
+788	Salvează
+789	Grafică
+790	Statistici
+791	Lupte
+792	Victorii în campanie
+793	Invocări
+794	Eroi USR
+795	Cea mai puternică lovitură
+796	Zile în joc
+797	Salvare
+798	Progresul se salvează automat pe dispozitiv: la fiecare 15 secunde și la minimizare. Codul de mai jos îl mută pe alt dispozitiv.
+799	Lipește un cod de salvare
+800	Arată codul meu
+801	Copiază
+802	Încarcă codul
+803	Noutăți
+804	Confidențialitate
+805	Termeni
+806	Schimbă personajul
+807	Șterge personajul
+808	Tronul Ceresc · versiunea
+809	Efecte sonore
+810	Muzică
+811	Vibrații
+812	Ridicată
+813	Economie baterie
+814	Jurnal de erori (
+815	Calitatea graficii se schimbă după repornire. Repornești acum?
+816	Repornește
+817	Introdu un nume
+818	Cod copiat
+819	Selectează și copiază codul manual
+820	Salvare încărcată
+821	Codul n-a mers: verifică dacă a fost copiat complet
+822	Ștergi acest personaj și tot progresul lui? Nu se poate anula.
+823	Șterge
+824	Cronicile Cerești
+825	Tronul e gol, iar Abisul se înalță până la stele. Alege calea eroului tău.
+826	Abilitate: «
+827	De exemplu, Aelita
+828	Începe drumul
+829	La personaje
+830	Rătăcitor
+831	Bine ai venit,
+832	În echipa ta sunt deja trei eroi. Ai 10 suluri: prima invocare ×10 garantează un erou SSR.
+833	La invocare
+834	azi
+835	ieri
+836	zile în urmă
+837	Alege un personaj
+838	Pe acest server nu există încă personaje
+839	Personaj nou
+840	Locuri libere:
+841	Intră în joc
+842	Salvarea a fost modificată manual și n-a trecut verificarea de autenticitate. Restaurează progresul cu un cod de salvare
+843	Personajul nu a putut fi încărcat
+844	Toate locurile sunt ocupate
+845	Ștergi personajul «
+846	» pentru totdeauna? Progresul nu va mai putea fi recuperat.
+847	Personaj șters
+848	Server
+849	Deocamdată jocul funcționează offline: personajele sunt păstrate pe acest dispozitiv. Alte regiuni se vor deschide odată cu modul online.
+850	Language · Limbă
+851	Inamici
+852	· echipă
+853	Pe capitol
+854	Trecere automată
+855	Încercări
+856	· Boss
+857	Inamici:
+858	· puternici împotriva lor:
+859	Cronică
+860	Capitol disponibil:
+861	Citește
+862	capitole
+863	· punctaj
+864	· bilete
+865	/30 · încercări
+866	/5 · marele premiu: aspect USR
+867	Titanul Alianței
+868	Nivel
+869	· încercări
+870	Intră într-o alianță ca să deblochezi Titanul și Războiul clanurilor
+871	Toate capitolele sunt terminate. Capitole noi vor veni într-o actualizare
+872	Formează o echipă
+873	terminat!
+874	Recompensă
+875	Etapa următoare
+876	Întărește-ți echipa: crește nivelurile și stelele eroilor sau invocă alții noi. Contează și ordinea echipei.
+877	Din nou
+878	Îmbunătățește echipa
+879	Trecere automată pornită: etapa următoare va începe singură
+880	Trecere automată oprită
+881	Liga
+882	victorii ·
+883	înfrângeri
+884	Bilete:
+885	+1 bilet
+886	Recompensa zilnică a ligii
+887	Magazinul arenei
+888	Primit
+889	Ia
+890	Punctaj
+891	· putere
+892	Luptă
+893	Cumpără bilet
+894	Recompensa ligii «
+895	» primită
+896	Nu mai sunt bilete: altele noi mâine
+897	Arenă ·
+898	La arenă
+899	Punctaj −8 →
+900	Toate evenimentele
+901	Activități
+902	30 de trepte de demoni ai Abisului · aspect USR
+903	Rămas:
+904	Evenimente plătite: ruletă, puzzle, cale
+905	Fragmente de Legendă:
+906	· erou LR:
+907	Săptămâna
+908	Eroul săptămânii:
+909	Garanție USR:
+910	Marele premiu: un erou USR
+911	Învârtire gratuită disponibilă
+912	Jetoane:
+913	Lupte împotriva echipelor rivale
+914	Boss comun al alianței
+915	Se deblochează după intrarea într-o alianță
+916	Războiul clanurilor
+917	Luptă săptămânală pentru punctaj
+918	Loc
+919	Lun–Dum
+920	Recompense de conectare
+921	Intră zilnic: în a șaptea zi primești un pachet de Cupoane ale Destinului.
+922	Ziua
+923	<span style="color:var(--good);font-size:12px">Primit</span>
+924	Ia recompensa zilei
+925	Revino mâine
+926	Recompensa de conectare primită
+927	Sarcinile zilei
+928	/120 puncte
+929	Cufăr deschis
+930	Aspectul «Demonul vidului» USR
+931	Demonii Abisului asaltează Tronul. Termină 30 de trepte până la sfârșitul săptămânii. Fiecare treaptă e mai puternică decât cea dinainte; progresul se resetează luni.
+932	Încercări azi:
+933	Recompense pe trepte
+934	Recompensa treptei
+935	Luptă ·
+936	<b style="color:var(--good)">Toate treptele terminate săptămâna aceasta</b>
+937	· treapta
+938	<p>Ai obținut aspectul USR «Demonul vidului»! Echipează-l pe ecranul eroului.</p>
+939	Treapta următoare
+940	La eveniment
+941	<p class="mute">Încercare consumată. Întărește echipa și revino.</p>
+942	Intră într-o alianță ca să lupți cu Titanul Alianței, să te înfrunți cu alte clanuri și să cumperi bunuri rare din Magazinul Alianței.
+943	Alianța ta
+944	Numele alianței
+945	/40 membri
+946	Intră
+947	Alianță · nivel
+948	EXP alianță
+949	· daunele contează pentru toată alianța
+950	· bilete
+951	Atacă apărătorii clanurilor inamice. Prima victorie asupra unui clan dă un bonus de 100 de puncte. Recompense la sfârșitul săptămânii.
+952	Membri
+953	(tu)
+954	Magazinul Alianței
+955	Ieși
+956	Prezență făcută
+957	Fă prezența
+958	Rezultatele Războiului clanurilor
+959	săptămâna trecută
+960	Ai intrat în alianța «
+961	Introdu un nume
+962	Alianța «
+963	» a fost fondată
+964	Prezență: +150
+965	Ieși din alianță? Progresul în Războiul clanurilor și la Titan se va pierde.
+966	Titanul Alianței · nv.
+967	Titan învins! +
+968	aur pentru toți membrii
+969	Titan învins
+970	Atac încheiat
+971	Daune provocate:
+972	La alianță
+973	Războiul clanurilor ·
+974	Puncte de clan:
+975	· loc
+976	<p class="mute">Apărătorii au rezistat. Încearcă un clan mai slab.</p>
+977	Ceresc
+978	Cupoane
+979	Roată
+980	Ai:
+981	Istoricul invocărilor
+982	Doar UR, SSR și SSR+
+983	Invocare obișnuită
+984	Garanție
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">Prima invocare ×10 garantează un erou SSR.</p>
+986	Gratuit
+987	Altar
+988	Ultimii
+989	eroi. Șansele fiecărei invocări sunt afișate pe bannerul ei.
+990	<p class="mute">Deocamdată gol.</p>
+991	Gata
+992	Din nou ×
+993	NOU
+994	AUR
+995	+10 FRAGMENTE
+997	<button class="btn sec" data-act="sumAll">Arată toți</button>
+998	Învârtire ·
+999	Marele premiu: un erou USR. Garantat în 100 de învârtiri.
+1000	Până la garanție:
+1001	Șanse
+1002	CER
+1003	Trebuie jetoane sau aur
+1004	Roata Cerului ×
+1005	Super
+1006	10 învârtiri (jetoane
+1007	, restul în aur)
+1008	Învârtire
+1009	Trebuie un jeton sau 150 aur
+1010	Cumpărarea de aur va veni într-o actualizare viitoare. Deocamdată aurul vine din etapele campaniei, pradă, conectări, sarcini zilnice, realizări, poștă și cadoul zilnic din fila «Produse».
+1011	Mod de test
+1012	Plățile nu sunt conectate: butoanele dau aur gratuit, nu se retrag bani. Înainte de lansarea pe Google Play și App Store, aici se conectează achizițiile lor din aplicație.
+1013	Sumă personalizată
+1014	De la 10 la 100.000.000 aur. Cu cât mai mult, cu atât cursul e mai bun.
+1015	Cadou zilnic
+1016	Mâine
+1017	<p class="mute">Magazinul se deschide după intrarea într-o alianță.</p>
+1018	Produse
+1019	10 fragmente de erou USR
+1020	Rămase săptămâna aceasta:
+1021	E nevoie de o alianță
+1022	Cumperi «
+1023	fragmente USR
+1024	Achiziție finalizată
+1025	Cadou zilnic primit
+1026	Furnizorul de plăți nu este conectat
+1027	Mod de test: +
+1028	aur fără plată
+1029	De la 10 la 100.000.000
+1030	Se deblochează după capitolul
+1031	» din Cronică.
+1032	Capitolul e deja disponibil: citește-l.
+1033	Mai întâi ajungi la capitolul
+1034	din campanie.
+1035	Citește
+1036	Limita maximă atinsă: Zenit 100
+1037	R1 · 300: se deblochează Zenitul
+1038	Limita de nivel crește odată cu capitolele terminate ale campaniei
+1039	Limita de nivel
+1040	Limită
+1041	nv. Următoarea stea o ridică la
+1042	Max.
+1043	Nivel:
+1044	Fragmente
+1045	Înalță la
+1046	Crește nivelul
+1047	putere
+1048	Contopire →
+1049	Necesar:
+1050	. Pietre de înălțare: în evenimentele plătite, Magazinul Alianței, pe Calea Legendei și de la boși după etapa 300
+1051	Înalți la
+1052	? Nivelurile vor continua pe noua treaptă, statisticile vor crește.
+1053	Înălțare:
+1054	Înalță
+1055	CONTOPIRE! Eroul strălucește cu puterea a 21 de stele
+1056	Rang nou de stele:
+1057	Stea
+1058	★ · limita de nivel
+1059	Maximum: 21★
+1060	Fragmente insuficiente: trebuie
+1061	. Un erou duplicat dă 10, Esența stelară înlocuiește lipsurile
+1062	21★ · strălucirea eroului, statistici ×1,3, critic +5%, viteză +5
+1063	Puterea stelelor
+1064	Fiecare erou duplicat dintr-o invocare înseamnă 10 fragmente. Esența stelară înlocuiește fragmentele lipsă (Ruleta Legendelor, Puzzle-ul ceresc, Calea Legendei).
+1065	Steaua următoare
+1066	Contopirea costă
+1067	fr.
+1068	Fragmente de eroi LR: la Altarul Legendelor.
+1069	critic
+1070	Calitate ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Se deblochează de la nivelul de erou
+1073	(R1 și Zenitul contează ca peste 500).
+1074	Necesită capitolul
+1075	» din Cronică și nivelul de erou
+1076	.
+1077	Echipament principal
+1078	Îmbunătățește tot echipamentul principal
+1079	Minereu sau argint insuficient. Minereul vine din etapele campaniei și din pradă
+1080	Minereu sau argint insuficient, ori totul e la limita de calitate
+1081	Echipament: +
+1082	Necesită Esență divină și argint
+1083	Necesită Cioburi străvechi și argint
+1084	Echipat
+1085	Fiecare nivel al oricăror aripi deținute dă întregii echipe +0,05% atac și viață.
+1086	Niciuna
+1087	Eroul principal: atac, viață, apărare +
+1088	<span class="tag">ECHIPATE</span>
+1089	<span style="color:#ff9a7a">Evenimente plătite</span>
+1090	Echipate:
+1091	Aceste aripi sunt în pachetele evenimentelor plătite
+1092	Necesită
+1093	pene. Pene: în Ruleta Legendelor, Puzzle, evenimentul Abisului și magazin
+1094	Creezi «
+1095	pene?
+1096	Aripi create și echipate
+1097	Creează
+1098	Pene insuficiente
+1099	Animal de călărie
+1100	Celelalte animale dau echipei 30% din bonusul lor.
+1101	Clocește
+1102	Neales
+1103	Echipa: atac și viață +
+1104	, viteză +3
+1105	<span class="tag">CĂLĂRIT</span>
+1106	Din ou
+1107	Animal ales
+1108	Dragonul stelar e în pachetele evenimentelor plătite
+1109	Clocește ouă: sunt în Cronică, Ruleta Legendelor, pe Calea Legendei și în magazin
+1110	Hrană insuficientă. Hrană: în pradă, Ruletă și magazin
+1111	Nu ai ouă
+1112	A ieșit din ou
+1113	Animal nou!
+1114	Îl ai deja: ai primit 200 de hrană
+1115	Sloturi echipă ·
+1116	Echipa acum: atac +
+1117	, viață +
+1118	, apărare +
+1119	, critic +
+1120	(cu animale și aripi)
+1121	, viteză +
+1122	· nv.
+1123	Scoate
+1124	Echipează
+1125	<span style="color:#ff9a7a;font-size:12px">Evenimente plătite</span>
+1126	Toate cele 4 sloturi sunt ocupate: scoate întâi un artefact
+1127	Praf de artefact insuficient
+1128	praf. Praf: de la boși, din arenă și Ruleta Legendelor
+1129	praf?
+1130	Artefact creat
+1131	Ruletă
+1132	Puzzle
+1133	Calea Legendei
+1134	Pachete
+1135	Evenimente plătite · pe aur
+1136	Fragmentele de Legendă există doar aici.
+1137	fragmente: un erou LR la Altar. Aur:
+1138	Fragmente de Legendă
+1139	Esență
+1140	Pene
+1141	Hrană
+1142	Praf
+1143	Es. div.
+1144	Cio. străv.
+1145	Ou
+1146	Pietre înălț.
+1147	Aur
+1148	Ruleta Legendelor
+1149	Garanție: 50 de Fragmente de Legendă în
+1150	învârtiri
+1151	Învârte
+1152	LEG.
+1153	ESN.
+1154	PENE
+1155	HRANĂ
+1156	PRAF
+1157	DIV.
+1158	STRV.
+1159	OU
+1160	ÎNĂL.
+1161	Ruleta Legendelor ×
+1162	Recompense
+1163	Puzzle-ul ceresc nr.
+1164	Imagine:
+1165	(LR). Piesă:
+1166	și o recompensă. Rând sau coloană:
+1167	Imaginea întreagă:
+1168	Imagine completă!
+1169	Următorul puzzle e un nou erou LR.
+1170	Puzzle-ul următor
+1171	Deschide o piesă
+1172	Piesă:
+1173	· linii ×
+1174	· IMAGINE COMPLETĂ!
+1175	rămas:
+1176	Puncte de cale:
+1177	Obișnuită
+1178	Legendară
+1179	Sarcini săptămânale
+1180	<span class="sp g">Calea legendară deblocată</span>
+1181	Deblochează
+1182	Deblochează Calea legendară
+1183	Calea legendară deblocată
+1184	Recompensa căii primită
+1185	Îl ai deja
+1186	Pachet primit
+1187	Primordialii sunt eroi LR, cei mai puternici din joc. Deblochează un erou:
+1188	. După ce ai eroul, Fragmentele de Legendă devin fragmentele lui 1:1, pentru contopirea stelelor.
+1189	+10 fr.
+1190	Deblochezi eroul «
+1191	Fragmente de Legendă?
+1192	se alătură echipei legendelor!
+1193	+10 fragmente de erou
+1194	Sari peste
+1195	· atinge pentru a continua
+1196	înainte de luptă
+1197	citit
+1198	Mai departe
+1199	Deblocat:
+1200	Capitol sărit. Îl poți citi în Cronică: lectura aduce o recompensă, iar povestea deblochează sisteme noi
+1201	Povestea poate fi sărită, dar fiecare capitol citit dă o recompensă, iar capitolele 2, 3, 4, 6 și 10 deblochează animale, aripi, artefacte, echipamentul divin și străvechi.
+1202	· deblochează:
+1203	Recitește
+1204	Evenimente plătite
+1205	[Tutorial
+1206	Gata! Atinge pentru a lua recompensa
+1207	Tutorial: «
+1208	<span class="mute" style="font-size:12px">În desfășurare</span>
+1209	Realizarea «
+1210	» deblocată
+1211	Scrisori de la Tron: cadouri, compensații și noutăți despre actualizări.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Ia tot</button>
+1213	<p class="mute">Nicio scrisoare.</p>
+1214	Cadoul din scrisoare primit
+1215	Scrisori primite:
+1216	Cât ai lipsit
+1217	min
+1218	Echipa ta a luptat la etapa
+1219	. Depozitul e plin: intră mai des ca să nu pierzi nimic
+1220	Weekend: argint și EXP ×1,5.
+1221	Versiune
+1222	Lista completă a schimbărilor e în fișierul CHANGELOG al proiectului.
+1223	Am înțeles
+1224	<button class="btn jade" data-act="mail">Deschide poșta</button>
+1244	Jurnal de erori
+1245	Dacă jocul s-a comportat ciudat, trimite acest text dezvoltatorului.
+1246	Ieși din joc? Progresul e salvat.
+1247	Sari peste
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Eroii cu 21★ nu mai adună fragmente: duplicatele devin aur.</p>
+1250	Lider
+1251	Acest cod e mai vechi decât progresul personajului pe acest dispozitiv: revenirea la un progres anterior nu e permisă
+1252	Intrare pe servere: alegi personajul la pornire, până la 4 personaje pe EU · Europa, Serverul 1
+1253	Salvare automată pentru fiecare personaj, copie de rezervă și transfer prin cod
+1254	20 de limbi: engleza implicit, ucraineană, poloneză, rusă și încă 16
+1255	Protecție: salvări criptate și semnate, fără revenire cu un cod vechi, protecție la schimbarea ceasului
+1256	Corecturi de interfață pentru nume lungi în diverse limbi
+1257	Actualizarea 2.3: Servere și limbi

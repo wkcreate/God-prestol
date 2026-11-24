@@ -1,0 +1,1045 @@
+1	Terjadi kesalahan. Progres sudah tersimpan; detail di Pengaturan
+2	Kesalahan
+3	Hutan
+4	Api
+5	Matahari
+6	Ombak
+7	Malaikat
+8	Iblis
+9	Petarung
+10	Penyihir
+11	Pemanah
+12	Pembunuh
+13	Penyembuh
+14	Serangan kuat ke target, setrum, dan perisai untuk diri sendiri
+15	Damage ke semua musuh
+16	Damage besar ke musuh yang paling terluka
+17	Dua kritikal pasti ke barisan belakang
+18	Menyembuhkan seluruh tim dan memberi perisai
+19	menyembuhkan diri 10%
+20	membakar target selama 2 giliran
+21	damage skill +20%
+22	memperlambat target
+23	perisai untuk sekutu
+24	curi nyawa 30% dari damage
+25	Penjaga Takhta
+26	Menahan garis depan: banyak nyawa dan pertahanan, menyetrum musuh.
+27	Celah Surgawi
+28	Peramal Bintang
+29	Menjatuhkan bintang ke semua musuh sekaligus.
+30	Hujan Bintang
+31	Penjelajah Bulan
+32	Menghabisi musuh terluka dengan tembakan jitu.
+33	Panah Bulan
+34	Bilah Gerhana
+35	Menerobos ke barisan belakang dan menyerang kritikal.
+36	Tarian Bayangan
+38	Penjaga Akar
+39	Mekarnya Kehidupan
+41	Pelacak Hutan
+42	Badai Daun
+44	Penjaga Batu
+45	Hantaman Batu Besar
+47	Bisikan Ranting
+48	Badai Spora
+50	Bayangan Berduri
+51	Pusaran Duri
+52	Nyonya Dedalu
+53	Jantung Hutan Purba
+54	Amarah Seribu Akar
+56	Murid Api
+57	Bola Api
+59	Pandai Besi Perang
+60	Palu Membara
+62	Pembunuh dari Abu
+63	Goresan Abu
+65	Panah Senja
+66	Rentetan Membara
+68	Yang Terlahir Kembali
+69	Sayap Phoenix
+70	Kaisar Ragnar
+71	Penguasa Api
+72	Letusan
+74	Pemanah Matahari
+75	Kilau
+77	Penyanyi Fajar
+78	Himne Matahari
+80	Perisai Gurun
+81	Auman Singa
+83	Mata Zenit
+84	Tombak Matahari
+86	Bilah Fajar
+87	Sinar Pemotong
+88	Amaria
+89	Berwajah Matahari
+90	Keajaiban Tengah Hari
+92	Ombak Tenang
+93	Cipratan
+95	Gadis Mata Air
+96	Air Kehidupan
+98	Pemanah Badai
+99	Sambaran Guntur
+101	Penyihir Laut
+102	Pusaran Air
+104	Penjaga Pasang
+105	Ombak Kesembilan
+106	Neria
+107	Putri Leviathan
+108	Panggilan Kedalaman
+110	Kerub
+111	Bulu Harapan
+112	Serafima
+113	Pemanah Langit
+114	Panah Cahaya
+116	Pedang Hukum
+117	Vonis
+119	Pedang Menyala
+120	Hukuman Surgawi
+121	Gabriel
+122	Suara Langit
+123	Panggilan Sangkakala
+124	Lumina
+125	Takhta Cahaya
+126	Tempat Suci
+128	Imp Jahil
+129	Gigitan Licik
+130	Lilith
+131	Ratu Malam
+132	Pesona Jurang
+134	Algojo Dunia Bawah
+135	Rantai Siksaan
+137	Pemburu Jiwa
+138	Panah Kerusakan
+139	Azael
+140	Malaikat Jatuh
+141	Gerhana
+143	Penguasa Jurang
+144	Akhir Dunia
+145	Gaia
+146	Ibu Segala yang Hidup
+147	Jantung Dunia
+148	Surtur
+149	Api Terakhir
+150	Ragnarök
+151	Helios
+152	Matahari di Atas Takhta
+153	Kereta Matahari
+154	Okeana
+155	Leluhur Perairan
+156	Air Bah Besar
+157	Metatron
+158	Suara Takhta
+159	Takhta Surgawi
+160	Nyx
+161	Malam Pertama
+162	Malam Abadi
+163	Pengembara Langit
+164	Serigala Laut
+165	Ksatria Mawar
+166	Sakura
+167	Penuai Labu
+168	Festival Musim Dingin
+169	Pangeran Es
+170	Samurai Siber
+171	Kaisar Giok
+172	Pengembara Bintang
+173	Iblis Kehampaan
+174	Malaikat Fajar
+175	Lendir
+176	Serigala Bulan
+177	Goblin
+178	Treant
+179	Imp
+180	Golem
+181	Kerangka
+182	Arwah
+183	Ular
+184	Naga
+185	Lembah Giok
+186	Raja Lendir
+187	Semak Senja
+188	Treant Pertapa
+189	Padang Abu
+190	Golem Abu
+191	Gua Biru
+192	Ular Laut Irr
+193	Kuil Matahari
+194	Penjaga Obelisk
+195	Celah Beku
+196	Naga Embun Beku
+197	Kota Bayangan
+198	Wali Bayangan
+199	Taman Malaikat
+200	Ular Putih Eir
+201	Celah Jurang
+202	Pemakan Bintang
+203	Takhta Surgawi
+204	Kaisar yang Jatuh
+205	Rawa Berkilau
+206	Nyonya Rawa
+207	Tempa Api
+208	Pandai Besi Surtur
+209	Kepulauan Langit
+210	Penjaga Angin
+211	Pasir Kelupaan
+212	Firaun Pasir
+213	Gua Kristal
+214	Naga Kristal
+215	Hutan Roh
+216	Pohon Gaia
+217	Benteng Merah Tua
+218	Tuan Merah Tua
+219	Observatorium Bintang
+220	Peramal Bintang Jurang
+221	Aula Malam
+222	Bayangan Nyx
+223	Gerbang Para Purba
+224	Jantung Jurang
+225	Panggilan Bintang
+226	Gulungan panggilan biasa. Peluang SSR 5%.
+227	Panggilan Surgawi
+228	Satu-satunya panggilan dengan pahlawan USR. USR dijamin dalam 90 panggilan.
+229	Kupon Takdir
+230	Hanya UR ke atas. Satu-satunya sumber pahlawan SSR+. SSR+ dijamin dalam 40 panggilan.
+231	80 rb perak
+232	2 gulungan
+233	40 rb EXP
+234	120 emas
+235	2 token
+236	Kupon
+237	Pecahan SSR
+238	Skin
+239	Pahlawan SSR
+240	Pahlawan USR
+241	Menangkan 3 pertempuran
+242	Panggil 2 kali
+243	Putar Roda Langit
+244	Naikkan level pahlawan 5 kali
+245	Ambil jarahan
+246	Bertarung di arena
+290	Langkah Pertama
+291	Selesaikan tahap 1-10
+292	Penakluk Lembah
+293	Selesaikan bab 1
+294	Suara Padang
+295	Selesaikan bab 3
+296	Cahaya Kuil
+297	Selesaikan bab 5
+298	Selesaikan bab 10
+299	Pasukan Lengkap
+300	Kumpulkan 5 pahlawan
+301	Kolektor
+302	Kumpulkan 12 pahlawan
+303	Penulis Kronik
+304	Kumpulkan 24 pahlawan
+305	Pilihan Langit
+306	Dapatkan pahlawan USR
+307	Panggilan Bintang
+308	Panggil 50 kali
+309	Penguasa Panggilan
+310	Panggil 200 kali
+311	Kawakan
+312	Pahlawan utama level 50
+313	Legenda
+314	Pahlawan utama level 100
+315	Empat Bintang
+316	Naikkan pahlawan ke 4★
+317	Batas Kekuatan
+318	Naikkan pahlawan ke 6★
+319	Gladiator
+320	10 kemenangan arena
+321	Liga Emas
+322	Capai peringkat 1400
+323	Bahu-membahu
+324	Bergabung dengan aliansi
+325	Momok Jurang
+326	Selesaikan 30 tingkat event
+327	Penghancur
+328	Berikan 100.000 damage dalam satu serangan
+329	Pasukan Tak Tergoyahkan
+330	Kekuatan pasukan 500.000
+331	Kesetiaan
+332	Login 7 hari
+333	Bintang Merah
+334	Naikkan pahlawan ke 11★
+335	Fusi
+336	Naikkan pahlawan ke 21★
+337	Legenda Bangkit
+338	Dapatkan pahlawan LR
+339	Penunggang
+340	Dapatkan peliharaan
+341	Bersayap
+342	Dapatkan sayap
+343	Kenaikan
+344	Naikkan pahlawan ke R1
+345	Zenit
+346	Capai Zenit
+347	Penulis Kronik Takhta
+348	Baca 10 bab cerita
+349	Pandai Besi
+350	Tingkatkan perlengkapan ke kualitas Langka
+351	Lakukan panggilan
+352	Panggil → Bintang → ×10
+353	Menangkan tahap 1-1
+354	Ketuk «Bertarung»
+355	Naikkan level pahlawan
+356	Pahlawan → pilih pahlawan → Level
+357	Peti di kanan bawah
+358	Selesaikan tahap 1-5
+359	Makin jauh tahapnya, makin besar jarahannya
+360	Aliansi membuka Titan dan Perang Klan
+361	Selamat datang di Takhta
+363	Pembaruan 2.1
+365	Pembaruan 2.2: Era Legenda
+367	Emas
+368	Merah muda
+369	Merah
+370	Ungu
+371	Biasa
+372	Langka
+373	Epik
+374	Legendaris
+375	Mitis
+376	Surgawi
+377	Senjata
+378	Zirah
+379	Helm
+380	Jimat
+381	Bilah Ilahi
+382	Perisai Ilahi
+383	Relik Kuno
+384	Mahkota Kuno
+385	Luna, Serigala Bulan
+386	Serigala Giok
+387	Ular Langit
+388	Anak Naga Api
+389	Naga Es
+390	Naga Bintang
+391	Sayap Fajar
+392	Sayap Jurang
+393	Sayap Phoenix
+394	Sayap Es
+395	Sayap Giok
+396	Sayap Bintang
+397	Sayap Takhta
+398	Air Mata Leviathan
+399	nyawa dan pertahanan
+400	Taring Jurang
+401	serangan
+402	Jantung Phoenix
+403	nyawa
+404	Cermin Bulan
+405	pertahanan
+406	Mata Takhta
+407	peluang kritikal
+408	Jam Pasir
+409	kecepatan
+410	Mahkota Fajar
+411	serangan dan nyawa
+412	Cawan Legenda
+413	serangan, nyawa, kritikal
+414	Peliharaan
+415	Sayap
+416	Artefak
+417	Perlengkapan ilahi
+418	Perlengkapan kuno
+419	Kemenangan pertempuran
+420	Panggilan pahlawan
+421	Kenaikan level
+422	Pengambilan jarahan
+423	Pertarungan arena
+424	Putaran Rolet Legenda
+425	Petak Puzzle Surgawi
+426	Paket Legenda
+427	Paket Kenaikan
+428	Paket Penunggang
+429	Bulu dan Debu
+430	Sayap Takhta (LR)
+431	Cawan Legenda (LR)
+432	Naga Bintang (LR)
+433	Bentara Jurang
+434	Luna
+483	Era Legenda
+549	Takhta
+555	EU · Eropa
+556	Server 1
+557	NA · Amerika
+558	Segera
+559	ASIA · Asia
+560	Perak
+561	Emas
+562	Gulungan Panggilan
+563	Kupon Takdir
+564	Token Roda
+565	EXP Pahlawan
+566	Koin Aliansi
+567	Lencana Arena
+568	Poin Bakat
+569	Pecahan USR
+570	Bijih
+571	Esensi Ilahi
+572	Serpihan Kuno
+573	Pecahan Legenda
+574	Esensi Bintang
+575	Telur Peliharaan
+576	Makanan Peliharaan
+577	Bulu
+578	Debu Artefak
+579	Batu Kenaikan
+580	Pahlawan
+581	Simpanan utama rusak atau diubah; progres dipulihkan dari cadangan
+582	Lv.
+583	Pahlawan baru:
+584	+10 pecahan:
+585	Skin:
+586	200 emas (semua skin sudah dimiliki)
+587	Pecahan pahlawan
+588	Perunggu
+589	Platinum
+590	Berlian
+591	Surgawi
+592	Bab
+593	Tetua
+594	Anggota
+595	Invasi Jurang
+596	Bentara Jurang ·
+597	Bertarung!
+598	Tersetrum
+599	Setrum
+600	Bos!
+601	Skill
+602	Jeda
+603	Ketuk ▶ untuk melanjutkan
+604	Skill:
+605	Serangan terkuat:
+606	· giliran
+607	Menang
+608	Waktu habis
+609	Kalah
+610	<p class="mute" style="font-size:12.5px">Pertempuran terlalu lama. Damage kurang: naikkan level pahlawan penyerangmu.</p>
+611	Tahap berikutnya dalam
+612	dtk
+613	Berhenti
+614	Keluar
+615	Lanjut tahap otomatis
+616	Emas kurang: butuh
+617	, kamu punya
+618	. Buka toko?
+619	Ke toko
+620	Kurang:
+621	seharga
+622	emas?
+623	Konfirmasi
+624	Tutup
+625	Batal
+626	Ya
+627	21★: fusi
+628	FUSI
+629	PAHLAWAN
+630	Bintang bisa dinaikkan
+631	<span class="mute">Belum didapat</span>
+632	Pahlawan
+633	Karakter
+634	Kampanye
+635	Panggil
+636	Aliansi
+637	Toko
+638	Event
+639	Arena
+640	Beli emas
+641	Pertempuran
+642	Dunia
+643	memanggil
+644	menyelesaikan bab «
+645	Titan Aliansi melemah, semua serang!
+646	Sistem
+647	Event «
+648	» berlangsung sepanjang minggu
+649	mencari aliansi, kekuatan
+650	Pengaturan
+651	Surat
+652	Tingkat
+653	/30 · sisa:
+654	h
+655	Rolet · puzzle · pahlawan LR
+656	[Cerita]
+657	Tahap
+658	Selesaikan bab «
+659	dari
+660	j
+661	Bertarung
+662	Resonansi «
+663	Login
+664	Harian
+665	Pencapaian
+666	Panggil pahlawan
+667	Roda Langit
+668	· bos
+669	[Kronik]
+670	Membuka:
+671	Baca: hadiah bab
+672	[Harian]
+673	Semua tugas selesai
+674	Ambil peti
+675	[Aliansi]
+676	Titan, perang klan, toko
+677	Absen di aliansi
+678	+150 Koin Aliansi
+679	Gudang penuh
+680	Jarahan
+681	Jarahan cepat
+682	Cepat · 60
+683	Jarahan:
+684	Emas kurang
+685	Jarahan cepat:
+686	perak
+687	Koleksi
+688	Pasukan
+689	Terkumpul
+690	Urutkan:
+691	Semua
+692	Semua kelangkaan
+693	kekuatan
+694	kelangkaan
+695	level
+696	faksi
+697	Sembunyikan yang belum ada
+698	Tampilkan semua
+699	Kosong
+700	Formasi tempur
+701	Kekuatan
+702	Barisan depan
+703	Barisan belakang
+704	Otomatis
+705	Tingkatkan seluruh pasukan
+706	EXP dan perak dibagi rata: pahlawan terlemah tumbuh lebih dulu.
+707	Keunggulan faksi · damage +25%
+708	Petarung maju dan menahan serangan. Pembunuh menerobos ke barisan belakang musuh. Barisan belakang terlindungi selama barisan depan hidup.
+709	% ke nyawa dan serangan
+710	Resonansi: 3 pahlawan satu faksi memberi +8%, 4 pahlawan +15%
+711	Pasukan disusun berdasarkan kekuatan
+712	EXP atau perak kurang, atau semua pahlawan sudah di batas level
+713	Pasukan ditingkatkan: +
+714	lv., kekuatan +
+715	Posisi
+716	barisan
+717	Pilih pahlawan. Jika sudah di pasukan, pahlawan akan bertukar tempat.
+718	depan
+719	belakang
+720	Lepas
+721	Pahlawan utama selalu ada di pasukan
+722	Altar Legenda: dengan Pecahan Legenda dari event berbayar
+723	Panggilan Surgawi, Roda Langit, dan Toko Aliansi
+724	panggilan apa pun dan Roda Langit
+725	Skill «
+726	Cara mendapatkan:
+727	Pahlawan sebelumnya
+728	Pahlawan berikutnya
+729	Kekuatan:
+730	Kekuatan faksi
+731	Bakat
+732	Nyawa
+733	Serangan
+734	Pertahanan
+735	Kecepatan · kritikal
+736	Ke pasukan
+737	Ringkasan
+738	Perlengkapan
+739	Bintang
+740	. Kekuatan faksi «
+741	Level Zenit membutuhkan Batu Kenaikan
+742	EXP atau perak kurang
+743	lv. · kekuatan +
+744	Pasukan penuh: ganti pahlawan di tab «Pasukan»
+745	DASAR
+746	<span class="tag">DIPAKAI</span>
+747	% ke semua
+748	Tanpa bonus
+749	<span class="g">Didapat</span>
+750	Event minggu ini
+751	Kekuatan Takhta
+752	+1,5% serangan
+753	Raga Surgawi
+754	+1,5% nyawa
+755	Mata Elang
+756	+0,2% kritikal
+757	Skin
+758	. Setiap 25 level satu bintang baru, di R1 fusi (21★). Batas level naik seiring bab.
+759	Kelas
+760	Penampilan
+761	Skin mengubah penampilan sepenuhnya dan memberi bonus ke semua atribut: R +1%, UR +1,5%, SSR +2%, SSR+ +3%, USR +5%.
+762	poin
+763	Poin bakat didapat dari setiap tahap yang selesai.
+764	Ganti:
+765	Penggantian pertama gratis
+766	per level
+767	Pertumbuhan
+768	Bakat +
+769	Butuh poin bakat dan perak
+770	Kelas baru:
+771	Ganti kelas menjadi «
+772	Level, skin, dan bakat tetap tersimpan.
+773	Biaya: 500 emas.
+774	Penggantian pertama gratis.
+775	Ganti
+776	Skin «
+777	» dipakai
+778	Skin ini didapat dari Roda Langit
+779	Skin ini hadiah utama event «
+780	Beli skin «
+781	» seharga
+782	Skin didapat dan dipakai
+783	Beli
+784	Nyala
+785	Mati
+786	Language · Bahasa
+787	Nama pahlawan
+788	Simpan
+789	Grafis
+790	Statistik
+791	Pertempuran
+792	Kemenangan kampanye
+793	Panggilan
+794	Pahlawan USR
+795	Serangan terkuat
+796	Hari bermain
+797	Simpanan
+798	Progres disimpan otomatis di perangkat: setiap 15 detik dan saat diminimalkan. Kode di bawah memindahkannya ke perangkat lain.
+799	Tempel kode simpanan
+800	Tampilkan kodeku
+801	Salin
+802	Muat kode
+803	Yang baru
+804	Privasi
+805	Ketentuan
+806	Ganti karakter
+807	Hapus karakter
+808	Takhta Surgawi · versi
+809	Efek suara
+810	Musik
+811	Getar
+812	Tinggi
+813	Hemat baterai
+814	Log kesalahan (
+815	Kualitas grafis berubah setelah mulai ulang. Mulai ulang sekarang?
+816	Mulai ulang
+817	Masukkan nama
+818	Kode disalin
+819	Pilih dan salin kode secara manual
+820	Simpanan dimuat
+821	Kode tidak berfungsi: pastikan tersalin lengkap
+822	Hapus karakter ini dan semua progresnya? Tidak bisa dibatalkan.
+823	Hapus
+824	Kronik Para Surgawi
+825	Takhta kosong dan Jurang naik hingga ke bintang. Pilih jalan pahlawanmu.
+826	Skill: «
+827	Contoh: Aelita
+828	Mulai perjalanan
+829	Ke karakter
+830	Pengembara
+831	Selamat datang,
+832	Sudah ada tiga pahlawan di pasukanmu. Kamu punya 10 gulungan: panggilan ×10 pertama menjamin pahlawan SSR.
+833	Ke panggilan
+834	hari ini
+835	kemarin
+836	hari lalu
+837	Pilih karakter
+838	Belum ada karakter di server ini
+839	Karakter baru
+840	Slot kosong:
+841	Masuk ke game
+842	Simpanan diubah secara manual dan gagal pemeriksaan keaslian. Pulihkan progres dengan kode simpanan
+843	Karakter gagal dimuat
+844	Semua slot terisi
+845	Hapus karakter «
+846	» selamanya? Progres tidak bisa dipulihkan.
+847	Karakter dihapus
+848	Server
+849	Saat ini game berjalan offline: karakter disimpan di perangkat ini. Wilayah lain akan dibuka bersama mode online.
+850	Language · Bahasa
+851	Musuh
+852	· pasukan
+853	Per bab
+854	Lanjut otomatis
+855	Ujian
+856	· Bos
+857	Musuh:
+858	· kuat melawan mereka:
+859	Kronik
+860	Bab tersedia:
+861	Baca
+862	bab
+863	· peringkat
+864	· tiket
+865	/30 · percobaan
+866	/5 · hadiah utama: skin USR
+867	Titan Aliansi
+868	Level
+869	· percobaan
+870	Bergabunglah dengan aliansi untuk membuka Titan dan Perang Klan
+871	Semua bab selesai. Bab baru akan hadir lewat pembaruan
+872	Susun pasukan
+873	selesai!
+874	Hadiah
+875	Tahap berikutnya
+876	Perkuat pasukanmu: naikkan level dan bintang pahlawan atau panggil yang baru. Urutan pasukan juga penting.
+877	Lagi
+878	Tingkatkan pasukan
+879	Lanjut otomatis aktif: tahap berikutnya akan mulai sendiri
+880	Lanjut otomatis nonaktif
+881	Liga
+882	menang ·
+883	kalah
+884	Tiket:
+885	+1 tiket
+886	Hadiah harian liga
+887	Toko Arena
+888	Diterima
+889	Ambil
+890	Peringkat
+891	· kekuatan
+892	Bertarung
+893	Beli tiket
+894	Hadiah liga «
+895	» diterima
+896	Tiket habis: tiket baru besok
+897	Arena ·
+898	Ke arena
+899	Peringkat −8 →
+900	Semua event
+901	Aktivitas
+902	30 tingkat iblis Jurang · skin USR
+903	Sisa:
+904	Event berbayar: rolet, puzzle, jalan
+905	Pecahan Legenda:
+906	· pahlawan LR:
+907	Minggu
+908	Pahlawan minggu ini:
+909	Jaminan USR:
+910	Hadiah utama: pahlawan USR
+911	Putaran gratis tersedia
+912	Token:
+913	Pertarungan melawan pasukan rival
+914	Bos bersama aliansi
+915	Terbuka setelah bergabung dengan aliansi
+916	Perang Klan
+917	Pertempuran mingguan untuk peringkat
+918	Posisi
+919	Sen–Min
+920	Hadiah login
+921	Login setiap hari: di hari ketujuh dapat paket Kupon Takdir.
+922	Hari
+923	<span style="color:var(--good);font-size:12px">Diterima</span>
+924	Ambil hadiah hari
+925	Kembali besok
+926	Hadiah login diterima
+927	Tugas hari ini
+928	/120 poin
+929	Peti dibuka
+930	Skin «Iblis Kehampaan» USR
+931	Iblis Jurang menyerbu Takhta. Selesaikan 30 tingkat sebelum minggu berakhir. Setiap tingkat lebih kuat dari sebelumnya; progres diatur ulang setiap Senin.
+932	Percobaan hari ini:
+933	Hadiah tingkat
+934	Hadiah untuk tingkat
+935	Bertarung ·
+936	<b style="color:var(--good)">Semua tingkat selesai minggu ini</b>
+937	· tingkat
+938	<p>Kamu mendapat skin USR «Iblis Kehampaan»! Pakai di layar pahlawan.</p>
+939	Tingkat berikutnya
+940	Ke event
+941	<p class="mute">Percobaan terpakai. Perkuat pasukan dan kembali lagi.</p>
+942	Bergabunglah dengan aliansi untuk melawan Titan Aliansi, bertarung dengan klan lain, dan membeli barang langka di Toko Aliansi.
+943	Aliansi sendiri
+944	Nama aliansi
+945	/40 anggota
+946	Gabung
+947	Aliansi · level
+948	EXP aliansi
+949	· damage dihitung untuk seluruh aliansi
+950	· tiket
+951	Serang pembela klan musuh. Kemenangan pertama atas satu klan memberi bonus 100 poin. Hadiah di akhir minggu.
+952	Anggota
+953	(kamu)
+954	Toko Aliansi
+955	Keluar
+956	Sudah absen
+957	Absen
+958	Hasil Perang Klan
+959	minggu lalu
+960	Kamu bergabung dengan aliansi «
+961	Masukkan nama
+962	Aliansi «
+963	» didirikan
+964	Absen: +150
+965	Keluar dari aliansi? Progres Perang Klan dan Titan akan hilang.
+966	Titan Aliansi · lv.
+967	Titan dikalahkan! +
+968	emas untuk semua anggota
+969	Titan dikalahkan
+970	Serangan selesai
+971	Damage diberikan:
+972	Ke aliansi
+973	Perang Klan ·
+974	Poin klan:
+975	· posisi
+976	<p class="mute">Para pembela bertahan. Coba klan yang lebih lemah.</p>
+977	Surgawi
+978	Kupon
+979	Roda
+980	Kamu punya:
+981	Riwayat panggilan
+982	Hanya UR, SSR, dan SSR+
+983	Panggilan biasa
+984	Jaminan
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">Panggilan ×10 pertama menjamin pahlawan SSR.</p>
+986	Gratis
+987	Altar
+988	Terakhir
+989	pahlawan. Peluang tiap panggilan tertera di bannernya.
+990	<p class="mute">Masih kosong.</p>
+991	Selesai
+992	Lagi ×
+993	BARU
+994	EMAS
+995	+10 PECAHAN
+997	<button class="btn sec" data-act="sumAll">Tampilkan semua</button>
+998	Putar ·
+999	Hadiah utama: pahlawan USR. Dijamin dalam 100 putaran.
+1000	Menuju jaminan:
+1001	Peluang
+1002	LANGIT
+1003	Butuh token atau emas
+1004	Roda Langit ×
+1005	Mantap
+1006	10 putaran (token
+1007	, sisanya dengan emas)
+1008	Putar
+1009	Butuh satu token atau 150 emas
+1010	Pembelian emas akan hadir di pembaruan mendatang. Untuk sekarang emas didapat dari tahap kampanye, jarahan, login, tugas harian, pencapaian, surat, dan hadiah harian di tab «Barang».
+1011	Mode uji
+1012	Pembayaran belum terhubung: tombol memberi emas gratis, tidak ada uang yang ditarik. Sebelum rilis di Google Play dan App Store, pembelian dalam aplikasi mereka akan dihubungkan di sini.
+1013	Jumlah sendiri
+1014	Dari 10 hingga 100.000.000 emas. Makin banyak, makin bagus kursnya.
+1015	Hadiah harian
+1016	Besok
+1017	<p class="mute">Toko terbuka setelah bergabung dengan aliansi.</p>
+1018	Barang
+1019	10 pecahan pahlawan USR
+1020	Sisa minggu ini:
+1021	Perlu aliansi
+1022	Beli «
+1023	pecahan USR
+1024	Pembelian selesai
+1025	Hadiah harian diterima
+1026	Penyedia pembayaran belum terhubung
+1027	Mode uji: +
+1028	emas tanpa pembayaran
+1029	Dari 10 hingga 100.000.000
+1030	Terbuka setelah bab
+1031	» di Kronik.
+1032	Bab sudah tersedia: baca sekarang.
+1033	Capai dulu bab
+1034	di kampanye.
+1035	Baca
+1036	Batas tertinggi tercapai: Zenit 100
+1037	R1 · 300: Zenit terbuka
+1038	Batas level naik seiring bab kampanye yang selesai
+1039	Batas level
+1040	Batas
+1041	lv. Bintang berikutnya menaikkannya ke
+1042	Maks.
+1043	Level:
+1044	Pecahan
+1045	Naik ke
+1046	Naikkan level
+1047	kekuatan
+1048	Fusi →
+1049	Dibutuhkan:
+1050	. Batu Kenaikan: di event berbayar, Toko Aliansi, Jalan Legenda, dan dari bos setelah tahap 300
+1051	Naik ke
+1052	? Level berlanjut di tingkat baru, atribut akan naik.
+1053	Kenaikan:
+1054	Naikkan
+1055	FUSI! Pahlawan bersinar dengan kekuatan 21 bintang
+1056	Peringkat bintang baru:
+1057	Bintang
+1058	★ · batas level
+1059	Maksimum: 21★
+1060	Pecahan kurang: butuh
+1061	. Duplikat pahlawan memberi 10, Esensi Bintang menggantikan kekurangannya
+1062	21★ · cahaya pahlawan, atribut ×1,3, kritikal +5%, kecepatan +5
+1063	Kekuatan bintang
+1064	Setiap duplikat pahlawan dari panggilan bernilai 10 pecahan. Esensi Bintang menggantikan pecahan yang kurang (Rolet Legenda, Puzzle Surgawi, Jalan Legenda).
+1065	Bintang berikutnya
+1066	Biaya fusi
+1067	pch.
+1068	Pecahan pahlawan LR: di Altar Legenda.
+1069	kritikal
+1070	Kualitas ↑
+1071	<span class="g" style="font-size:12px">Maksimum</span>
+1072	Terbuka mulai level pahlawan
+1073	(R1 dan Zenit dihitung di atas 500).
+1074	Butuh bab
+1075	» di Kronik dan level pahlawan
+1076	.
+1077	Perlengkapan utama
+1078	Tingkatkan semua perlengkapan utama
+1079	Bijih atau perak kurang. Bijih didapat dari tahap kampanye dan jarahan
+1080	Bijih atau perak kurang, atau semua sudah di batas kualitas
+1081	Perlengkapan: +
+1082	Butuh Esensi Ilahi dan perak
+1083	Butuh Serpihan Kuno dan perak
+1084	Dipakai
+1085	Setiap level sayap apa pun yang kamu miliki memberi seluruh pasukan +0,05% serangan dan nyawa.
+1086	Tidak ada
+1087	Pahlawan utama: serangan, nyawa, pertahanan +
+1088	<span class="tag">DIPAKAI</span>
+1089	<span style="color:#ff9a7a">Event berbayar</span>
+1090	Dipakai:
+1091	Sayap ini ada di paket event berbayar
+1092	Butuh
+1093	bulu. Bulu: di Rolet Legenda, Puzzle, event Jurang, dan toko
+1094	Buat «
+1095	bulu?
+1096	Sayap dibuat dan dipakai
+1097	Buat
+1098	Bulu kurang
+1099	Tunggangan
+1100	Peliharaan lain memberi pasukan 30% bonusnya.
+1101	Tetaskan
+1102	Belum dipilih
+1103	Pasukan: serangan dan nyawa +
+1104	, kecepatan +3
+1105	<span class="tag">DITUNGGANGI</span>
+1106	Dari telur
+1107	Peliharaan dipilih
+1108	Naga Bintang ada di paket event berbayar
+1109	Tetaskan telur: ada di Kronik, Rolet Legenda, Jalan Legenda, dan toko
+1110	Makanan kurang. Makanan: di jarahan, Rolet, dan toko
+1111	Tidak ada telur
+1112	Menetas dari telur
+1113	Peliharaan baru!
+1114	Sudah dimiliki: dapat 200 makanan
+1115	Slot pasukan ·
+1116	Pasukan sekarang: serangan +
+1117	, nyawa +
+1118	, pertahanan +
+1119	, kritikal +
+1120	(dengan peliharaan dan sayap)
+1121	, kecepatan +
+1122	· lv.
+1123	Lepas
+1124	Pakai
+1125	<span style="color:#ff9a7a;font-size:12px">Event berbayar</span>
+1126	Keempat slot terisi: lepas dulu satu artefak
+1127	Debu artefak kurang
+1128	debu. Debu: dari bos, arena, dan Rolet Legenda
+1129	debu?
+1130	Artefak dibuat
+1131	Rolet
+1132	Puzzle
+1133	Jalan Legenda
+1134	Paket
+1135	Event berbayar · dengan emas
+1136	Pecahan Legenda hanya ada di sini.
+1137	pecahan: pahlawan LR di Altar. Emas:
+1138	Pecahan Legenda
+1139	Esensi
+1140	Bulu
+1141	Makanan
+1142	Debu
+1143	Es. ilahi
+1144	Srp. kuno
+1145	Telur
+1146	Batu naik
+1147	Emas
+1148	Rolet Legenda
+1149	Jaminan: 50 Pecahan Legenda dalam
+1150	putaran
+1151	Putar
+1152	LEG.
+1153	ESN.
+1154	BULU
+1155	MAKAN
+1156	DEBU
+1157	ILAHI
+1158	KUNO
+1159	TELUR
+1160	NAIK
+1161	Rolet Legenda ×
+1162	Hadiah
+1163	Puzzle Surgawi #
+1164	Gambar:
+1165	(LR). Petak:
+1166	dan hadiah. Baris atau kolom:
+1167	Seluruh gambar:
+1168	Gambar lengkap!
+1169	Puzzle berikutnya adalah pahlawan LR baru.
+1170	Puzzle berikutnya
+1171	Buka petak
+1172	Petak:
+1173	· garis ×
+1174	· GAMBAR LENGKAP!
+1175	sisa:
+1176	Poin jalan:
+1177	Biasa
+1178	Legendaris
+1179	Tugas mingguan
+1180	<span class="sp g">Jalan legendaris terbuka</span>
+1181	Buka
+1182	Buka Jalan legendaris
+1183	Jalan legendaris terbuka
+1184	Hadiah jalan diterima
+1185	Sudah dimiliki
+1186	Paket diterima
+1187	Para Purba adalah pahlawan LR, yang terkuat di game. Buka pahlawan:
+1188	. Setelah pahlawan dimiliki, Pecahan Legenda berubah menjadi pecahannya 1:1 untuk fusi bintang.
+1189	+10 pch.
+1190	Buka pahlawan «
+1191	Pecahan Legenda?
+1192	bergabung dengan pasukan legenda!
+1193	+10 pecahan pahlawan
+1194	Lewati
+1195	· ketuk untuk melanjutkan
+1196	sebelum pertempuran
+1197	dibaca
+1198	Lanjut
+1199	Terbuka:
+1200	Bab dilewati. Kamu bisa membacanya di Kronik: membaca memberi hadiah dan cerita membuka sistem baru
+1201	Cerita bisa dilewati, tapi setiap bab yang dibaca memberi hadiah, dan bab 2, 3, 4, 6, dan 10 membuka peliharaan, sayap, artefak, perlengkapan ilahi dan kuno.
+1202	· membuka:
+1203	Baca ulang
+1204	Event berbayar
+1205	[Tutorial
+1206	Selesai! Ketuk untuk mengambil hadiah
+1207	Tutorial: «
+1208	<span class="mute" style="font-size:12px">Berjalan</span>
+1209	Pencapaian «
+1210	» terbuka
+1211	Surat dari Takhta: hadiah, kompensasi, dan kabar pembaruan.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Ambil semua</button>
+1213	<p class="mute">Tidak ada surat.</p>
+1214	Hadiah dari surat diterima
+1215	Surat diterima:
+1216	Selama kamu pergi
+1217	mnt
+1218	Pasukanmu bertarung di tahap
+1219	. Gudang penuh: login lebih sering agar tidak ada yang terbuang
+1220	Akhir pekan: perak dan EXP ×1,5.
+1221	Versi
+1222	Daftar lengkap perubahan ada di file CHANGELOG proyek.
+1223	Mengerti
+1224	<button class="btn jade" data-act="mail">Buka surat</button>
+1244	Log kesalahan
+1245	Jika game berperilaku aneh, kirim teks ini ke pengembang.
+1246	Keluar dari game? Progres tersimpan.
+1247	Lewati
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Pahlawan 21★ tidak lagi mengumpulkan pecahan: duplikat berubah jadi emas.</p>
+1250	Pemimpin
+1251	Kode ini lebih lama dari progres karakter di perangkat ini; mengembalikan progres tidak diizinkan
+1252	Masuk per server: pilih karakter saat membuka game, hingga 4 karakter di EU · Eropa, Server 1
+1253	Simpan otomatis tiap karakter terpisah, cadangan, dan pindah dengan kode
+1254	20 bahasa: bawaan Inggris, Ukraina, Polandia, Rusia, dan 16 lainnya
+1255	Perlindungan: simpanan terenkripsi dan bertanda tangan, larangan mundur progres dengan kode lama, perlindungan dari ubah jam
+1256	Perbaikan antarmuka untuk nama panjang di berbagai bahasa
+1257	Pembaruan 2.3: Server dan bahasa

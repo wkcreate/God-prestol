@@ -1,0 +1,1045 @@
+1	Etwas ist schiefgelaufen. Der Fortschritt ist gespeichert – Details in den Einstellungen
+2	Fehler
+3	Wald
+4	Flamme
+5	Sonne
+6	Welle
+7	Engel
+8	Dämonen
+9	Krieger
+10	Magier
+11	Schütze
+12	Assassine
+13	Heiler
+14	Mächtiger Schlag aufs Ziel, Betäubung und Schild für sich selbst
+15	Schaden an allen Gegnern
+16	Riesiger Schaden am stärksten verwundeten Gegner
+17	Zwei garantierte Krits auf die hintere Reihe
+18	Heilt das ganze Team und gewährt einen Schild
+19	heilt sich um 10 %
+20	setzt Ziele 2 Runden in Brand
+21	Fähigkeitsschaden +20 %
+22	verlangsamt Ziele
+23	Schild für Verbündete
+24	Lebensraub 30 % des Schadens
+25	Wächter des Throns
+26	Hält die Frontlinie: viel Leben und Verteidigung, betäubt Gegner.
+27	Himmelsriss
+28	Sternseher
+29	Lässt die Sterne auf alle Gegner zugleich niederfallen.
+30	Sternenregen
+31	Mondläuferin
+32	Erledigt verwundete Gegner mit präzisen Schüssen.
+33	Mondpfeil
+34	Klinge der Finsternis
+35	Bricht zur hinteren Reihe durch und trifft kritisch.
+36	Schattentanz
+38	Hüterin der Wurzeln
+39	Blüte des Lebens
+41	Waldfährtenleser
+42	Blättersturm
+44	Steinwächter
+45	Felsschlag
+47	Flüstern der Zweige
+48	Sporensturm
+50	Dorniger Schatten
+51	Dornenwirbel
+52	Herrin Weide
+53	Herz des Urwalds
+54	Zorn der tausend Wurzeln
+56	Feuerlehrling
+57	Feuerball
+59	Kriegsschmied
+60	Glühender Hammer
+62	Mörderin aus der Asche
+63	Aschestrich
+65	Abendrotpfeil
+66	Lodernde Salve
+68	Der Wiedergeborene
+69	Phönixflügel
+70	Kaiser Ragnar
+71	Herr der Flamme
+72	Ausbruch
+74	Sonnenschütze
+75	Glanz
+77	Sängerin der Morgenröte
+78	Hymne an die Sonne
+80	Schild der Wüste
+81	Löwengebrüll
+83	Auge des Zenits
+84	Sonnenspeer
+86	Klinge der Morgenröte
+87	Schneidender Strahl
+88	Amaria
+89	Sonnenantlitz
+90	Mittagswunder
+92	Stille Welle
+93	Spritzer
+95	Maid der Quelle
+96	Lebendiges Wasser
+98	Sturmschütze
+99	Donnerschlag
+101	Meereshexe
+102	Strudel
+104	Hüter der Flut
+105	Die neunte Welle
+106	Neria
+107	Prinzessin des Leviathan
+108	Ruf der Tiefe
+110	Cherub
+111	Feder der Hoffnung
+112	Seraphina
+113	Schützin des Himmels
+114	Lichtpfeil
+116	Schwert des Gesetzes
+117	Urteil
+119	Flammenschwert
+120	Himmlische Strafe
+121	Gabriel
+122	Stimme des Himmels
+123	Posaunenruf
+124	Lumina
+125	Thron des Lichts
+126	Heiligtum
+128	Frecher Kobold
+129	Hinterhältiger Biss
+130	Lilith
+131	Königin der Nacht
+132	Zauber des Abgrunds
+134	Henker der Unterwelt
+135	Ketten der Qual
+137	Seelenjägerin
+138	Pfeil der Verderbnis
+139	Azael
+140	Gefallener Engel
+141	Finsternis
+143	Herr des Abgrunds
+144	Weltende
+145	Gaia
+146	Mutter alles Lebendigen
+147	Herz der Welt
+148	Surtur
+149	Das letzte Feuer
+150	Ragnarök
+151	Helios
+152	Sonne über dem Thron
+153	Sonnenwagen
+154	Okeana
+155	Urmutter der Wasser
+156	Die große Flut
+157	Metatron
+158	Stimme des Throns
+159	Himmelsthron
+160	Nyx
+161	Die erste Nacht
+162	Ewige Nacht
+163	Himmelswanderer
+164	Seewolf
+165	Rosenritter
+166	Sakura
+167	Kürbisschnitter
+168	Winterfest
+169	Eisprinz
+170	Cyber-Samurai
+171	Jadekaiser
+172	Sternenwanderer
+173	Dämon der Leere
+174	Engel der Morgenröte
+175	Schleim
+176	Mondwolf
+177	Goblin
+178	Baumhirte
+179	Kobold
+180	Golem
+181	Skelett
+182	Gespenst
+183	Schlange
+184	Drache
+185	Jadetal
+186	Schleimkönig
+187	Dämmerdickicht
+188	Einsiedler-Baumhirte
+189	Aschewüste
+190	Aschegolem
+191	Azurgrotten
+192	Seeschlange Irr
+193	Sonnentempel
+194	Obeliskwächter
+195	Eispass
+196	Raureifdrache
+197	Stadt der Schatten
+198	Schattenregent
+199	Gärten der Engel
+200	Weiße Schlange Eir
+201	Riss des Abgrunds
+202	Sternenfresser
+203	Himmelsthron
+204	Gefallener Kaiser
+205	Schimmernde Sümpfe
+206	Herrin des Sumpfes
+207	Feuerschmieden
+208	Surturs Schmied
+209	Himmelsarchipel
+210	Hüter der Winde
+211	Sande des Vergessens
+212	Pharao der Sande
+213	Kristallhöhlen
+214	Kristalldrache
+215	Wald der Geister
+216	Gaias Baum
+217	Purpurne Zitadelle
+218	Purpurner Lord
+219	Sternwarte
+220	Sterndeuter des Abgrunds
+221	Hallen der Nacht
+222	Schatten der Nyx
+223	Tore der Urwesen
+224	Herz des Abgrunds
+225	Sternenbeschwörung
+226	Normale Beschwörungsrollen. SSR-Chance: 5 %.
+227	Himmelsbeschwörung
+228	Die einzige Beschwörung mit USR-Helden. USR garantiert innerhalb von 90 Beschwörungen.
+229	Schicksalscoupons
+230	Nur UR und höher. Die einzige Quelle für SSR+-Helden. SSR+ garantiert innerhalb von 40 Beschwörungen.
+231	80.000 Silber
+232	2 Rollen
+233	40.000 EP
+234	120 Gold
+235	2 Marken
+236	Coupon
+237	SSR-Splitter
+238	Skin
+239	SSR-Held
+240	USR-Held
+241	Gewinne 3 Kämpfe
+242	Beschwöre 2-mal
+243	Dreh das Himmelsrad
+244	Steigere Helden 5-mal im Level
+245	Sammle Beute ein
+246	Kämpfe in der Arena
+290	Erste Schritte
+291	Schließe Etappe 1-10 ab
+292	Bezwinger des Tals
+293	Schließe Kapitel 1 ab
+294	Stimme der Wüste
+295	Schließe Kapitel 3 ab
+296	Licht des Tempels
+297	Schließe Kapitel 5 ab
+298	Schließe Kapitel 10 ab
+299	Volle Truppe
+300	Sammle 5 Helden
+301	Sammler
+302	Sammle 12 Helden
+303	Chronist
+304	Sammle 24 Helden
+305	Auserwählter des Himmels
+306	Erhalte einen USR-Helden
+307	Ruf der Sterne
+308	Beschwöre 50-mal
+309	Herr der Beschwörung
+310	Beschwöre 200-mal
+311	Kampferprobt
+312	Haupthelden-Level 50
+313	Legende
+314	Haupthelden-Level 100
+315	Vier Sterne
+316	Bringe einen Helden auf 4★
+317	Grenze der Macht
+318	Bringe einen Helden auf 6★
+319	Gladiator
+320	10 Arenasiege
+321	Goldliga
+322	Erreiche eine Wertung von 1400
+323	Schulter an Schulter
+324	Tritt einer Allianz bei
+325	Geißel des Abgrunds
+326	Schließe 30 Eventstufen ab
+327	Zermalmer
+328	Verursache 100.000 Schaden mit einem Treffer
+329	Unbeugsame Truppe
+330	Truppenstärke 500.000
+331	Treue
+332	Melde dich 7 Tage an
+333	Roter Stern
+334	Bringe einen Helden auf 11★
+335	Verschmelzung
+336	Bringe einen Helden auf 21★
+337	Eine Legende erwacht
+338	Erhalte einen LR-Helden
+339	Reiter
+340	Erhalte einen Begleiter
+341	Auf Flügeln
+342	Erhalte Flügel
+343	Aufstieg
+344	Lass einen Helden zu R1 aufsteigen
+345	Zenit
+346	Erreiche den Zenit
+347	Chronist des Throns
+348	Lies 10 Kapitel der Geschichte
+349	Schmied
+350	Verbessere Ausrüstung auf Qualität Selten
+351	Beschwöre einen Helden
+352	Beschwörung → Sterne → ×10
+353	Gewinne Etappe 1-1
+354	Tippe auf «Kämpfen»
+355	Steigere einen Helden im Level
+356	Helden → Held wählen → Level
+357	Truhe unten rechts
+358	Schließe Etappe 1-5 ab
+359	Je weiter die Etappe, desto größer die Beute
+360	Eine Allianz schaltet den Titanen und den Clankrieg frei
+361	Willkommen am Thron
+363	Update 2.1
+365	Update 2.2: Zeitalter der Legenden
+367	Goldene
+368	Rosa
+369	Rote
+370	Violette
+371	Gewöhnlich
+372	Selten
+373	Episch
+374	Legendär
+375	Mythisch
+376	Himmlisch
+377	Waffe
+378	Rüstung
+379	Helm
+380	Amulett
+381	Göttliche Klinge
+382	Göttliche Ägide
+383	Uralte Reliquie
+384	Uralte Krone
+385	Luna, die Mondwölfin
+386	Jadewolf
+387	Himmelsschlange
+388	Feuerdrachenjunges
+389	Eisdrache
+390	Sternendrache
+391	Flügel der Morgenröte
+392	Flügel des Abgrunds
+393	Phönixflügel
+394	Eisflügel
+395	Jadeflügel
+396	Sternenflügel
+397	Flügel des Throns
+398	Träne des Leviathan
+399	Leben und Verteidigung
+400	Fangzahn des Abgrunds
+401	Angriff
+402	Phönixherz
+403	Leben
+404	Mondspiegel
+405	Verteidigung
+406	Auge des Throns
+407	Krit-Chance
+408	Sanduhr
+409	Tempo
+410	Krone der Morgenröte
+411	Angriff und Leben
+412	Gral der Legenden
+413	Angriff, Leben, Krit
+414	Begleiter
+415	Flügel
+416	Artefakte
+417	Göttliche Ausrüstung
+418	Uralte Ausrüstung
+419	Kampfsiege
+420	Heldenbeschwörungen
+421	Levelaufstiege
+422	Beute einsammeln
+423	Arenakämpfe
+424	Drehungen am Legendenroulette
+425	Felder des Himmelspuzzles
+426	Legendenpaket
+427	Aufstiegspaket
+428	Reiterpaket
+429	Federn und Staub
+430	Flügel des Throns (LR)
+431	Gral der Legenden (LR)
+432	Sternendrache (LR)
+433	Herold des Abgrunds
+434	Luna
+483	Zeitalter der Legenden
+549	Thron
+555	EU · Europa
+556	Server 1
+557	NA · Amerika
+558	Bald
+559	ASIA · Asien
+560	Silber
+561	Gold
+562	Beschwörungsrolle
+563	Schicksalscoupon
+564	Radmarke
+565	Helden-EP
+566	Allianzmünzen
+567	Arenamarken
+568	Talentpunkte
+569	USR-Splitter
+570	Erz
+571	Göttliche Essenz
+572	Uralte Splitter
+573	Legendensplitter
+574	Sternenessenz
+575	Begleiter-Ei
+576	Begleiterfutter
+577	Federn
+578	Artefaktstaub
+579	Aufstiegssteine
+580	Held
+581	Der Hauptspielstand ist beschädigt oder wurde verändert – Fortschritt aus der Sicherung wiederhergestellt
+582	Lv.
+583	Neuer Held:
+584	+10 Splitter:
+585	Skin:
+586	200 Gold (du hast schon alle Skins)
+587	Heldensplitter
+588	Bronze
+589	Platin
+590	Diamant
+591	Himmlischer
+592	Kapitel
+593	Ältester
+594	Mitglied
+595	Invasion des Abgrunds
+596	Herold des Abgrunds ·
+597	Kampf!
+598	Betäubt
+599	Betäubung
+600	Boss!
+601	Fähigkeit
+602	Pause
+603	Tippe auf ▶, um fortzufahren
+604	Fähigkeit:
+605	Stärkster Treffer:
+606	· Runden
+607	Sieg
+608	Zeit abgelaufen
+609	Niederlage
+610	<p class="mute" style="font-size:12.5px">Der Kampf hat zu lange gedauert. Es fehlt Schaden: Steigere deine angreifenden Helden.</p>
+611	Nächste Etappe in
+612	s
+613	Stopp
+614	Verlassen
+615	Etappen automatisch spielen
+616	Nicht genug Gold: benötigt
+617	, du hast
+618	. Shop öffnen?
+619	Zum Shop
+620	Nicht genug:
+621	für
+622	Gold?
+623	Bestätigen
+624	Schließen
+625	Abbrechen
+626	Ja
+627	21★ – Verschmelzung
+628	VERSCHMELZUNG
+629	HELD
+630	Ein Stern kann erhöht werden
+631	<span class="mute">Nicht erhalten</span>
+632	Helden
+633	Charakter
+634	Kampagne
+635	Beschwörung
+636	Allianz
+637	Shop
+638	Events
+639	Arena
+640	Gold kaufen
+641	Kampf
+642	Welt
+643	hat beschworen
+644	hat das Kapitel abgeschlossen: «
+645	Der Allianz-Titan wird schwächer, alle zum Angriff!
+646	System
+647	Event «
+648	» läuft die ganze Woche
+649	sucht eine Allianz, Stärke
+650	Einstellungen
+651	Post
+652	Stufe
+653	/30 · übrig:
+654	T.
+655	Roulette · Puzzle · LR-Helden
+656	[Geschichte]
+657	Etappe
+658	Schließe das Kapitel ab: «
+659	von
+660	Std.
+661	Kämpfen
+662	Resonanz «
+663	Anmeldung
+664	Täglich
+665	Erfolge
+666	Held beschwören
+667	Himmelsrad
+668	· Boss
+669	[Chronik]
+670	Schaltet frei:
+671	Lies es – Kapitelbelohnung
+672	[Täglich]
+673	Alle Aufgaben erledigt
+674	Hol dir die Truhen
+675	[Allianz]
+676	Titan, Clankrieg, Laden
+677	Melde dich in der Allianz
+678	+150 Allianzmünzen
+679	Lager voll
+680	Beute
+681	Schnelle Beute
+682	Schnell · 60
+683	Beute:
+684	Nicht genug Gold
+685	Schnelle Beute:
+686	Silber
+687	Sammlung
+688	Truppe
+689	Gesammelt
+690	Sortieren:
+691	Alle
+692	Jede Seltenheit
+693	Stärke
+694	Seltenheit
+695	Level
+696	Fraktion
+697	Fehlende ausblenden
+698	Alle zeigen
+699	Leer
+700	Kampfaufstellung
+701	Stärke
+702	Vordere Reihe
+703	Hintere Reihe
+704	Auto
+705	Ganze Truppe verbessern
+706	EP und Silber werden gleichmäßig verteilt: Der schwächste Held wächst zuerst.
+707	Fraktionsvorteil · +25 % Schaden
+708	Krieger treten vor und fangen die Schläge ab. Assassinen brechen zur hinteren Reihe des Gegners durch. Die hintere Reihe ist geschützt, solange die vordere lebt.
+709	% auf Leben und Angriff
+710	Resonanz: 3 Helden einer Fraktion geben +8 %, 4 Helden +15 %
+711	Truppe nach Stärke zusammengestellt
+712	Nicht genug EP oder Silber, oder alle Helden sind am Level-Limit
+713	Truppe verbessert: +
+714	Lv., Stärke +
+715	Position
+716	Reihe
+717	Wähle einen Helden. Ist er schon in der Truppe, tauschen die Helden die Plätze.
+718	vordere
+719	hintere
+720	Entfernen
+721	Der Hauptheld ist immer in der Truppe
+722	Altar der Legenden – für Legendensplitter aus kostenpflichtigen Events
+723	Himmelsbeschwörung, Himmelsrad und Allianzladen
+724	jede Beschwörung und das Himmelsrad
+725	Fähigkeit «
+726	Fundort:
+727	Vorheriger Held
+728	Nächster Held
+729	Stärke:
+730	Fraktionsstärke
+731	Talente
+732	Leben
+733	Angriff
+734	Verteidigung
+735	Tempo · Krit
+736	In die Truppe
+737	Übersicht
+738	Ausrüstung
+739	Sterne
+740	. Fraktionsstärke «
+741	Zenit-Level erfordern Aufstiegssteine
+742	Nicht genug EP oder Silber
+743	Lv. · Stärke +
+744	Die Truppe ist voll: Ersetze einen Helden im Reiter «Truppe»
+745	BASIS
+746	<span class="tag">AUSGERÜSTET</span>
+747	% auf alles
+748	Kein Bonus
+749	<span class="g">Erhalten</span>
+750	Event der Woche
+751	Macht des Throns
+752	+1,5 % Angriff
+753	Himmlisches Fleisch
+754	+1,5 % Leben
+755	Falkenauge
+756	+0,2 % Krit
+757	Skins
+758	. Alle 25 Level ein neuer Stern, bei R1 die Verschmelzung (21★). Das Level-Limit steigt mit den Kapiteln.
+759	Klasse
+760	Aussehen
+761	Ein Skin ändert das Aussehen komplett und gibt einen Bonus auf alle Werte: R +1 %, UR +1,5 %, SSR +2 %, SSR+ +3 %, USR +5 %.
+762	Punkte
+763	Talentpunkte gibt es für jede abgeschlossene Etappe.
+764	Wechsel:
+765	Erster Wechsel kostenlos
+766	pro Level
+767	Wachstum
+768	Talent +
+769	Benötigt einen Talentpunkt und Silber
+770	Neue Klasse:
+771	Klasse wechseln zu «
+772	Level, Skins und Talente bleiben erhalten.
+773	Kosten: 500 Gold.
+774	Der erste Wechsel ist kostenlos.
+775	Wechseln
+776	Skin «
+777	» angelegt
+778	Dieser Skin kommt aus dem Himmelsrad
+779	Dieser Skin ist der Hauptpreis des Events «
+780	Skin kaufen: «
+781	» für
+782	Skin erhalten und angelegt
+783	Kaufen
+784	An
+785	Aus
+786	Language · Sprache
+787	Heldenname
+788	Speichern
+789	Grafik
+790	Statistik
+791	Kämpfe
+792	Kampagnensiege
+793	Beschwörungen
+794	USR-Helden
+795	Stärkster Treffer
+796	Tage im Spiel
+797	Spielstand
+798	Der Fortschritt wird automatisch auf dem Gerät gespeichert: alle 15 Sekunden und beim Minimieren. Der Code unten überträgt ihn auf ein anderes Gerät.
+799	Spielstand-Code einfügen
+800	Meinen Code zeigen
+801	Kopieren
+802	Code laden
+803	Neuigkeiten
+804	Datenschutz
+805	Bedingungen
+806	Charakter wechseln
+807	Charakter löschen
+808	Himmelsthron · Version
+809	Soundeffekte
+810	Musik
+811	Vibration
+812	Hoch
+813	Akkusparen
+814	Fehlerprotokoll (
+815	Die Grafikqualität ändert sich nach einem Neustart. Jetzt neu starten?
+816	Neu starten
+817	Gib einen Namen ein
+818	Code kopiert
+819	Markiere und kopiere den Code manuell
+820	Spielstand geladen
+821	Der Code hat nicht funktioniert: Prüfe, ob er vollständig kopiert wurde
+822	Diesen Charakter und seinen gesamten Fortschritt löschen? Das kann nicht rückgängig gemacht werden.
+823	Löschen
+824	Chroniken der Himmlischen
+825	Der Thron ist leer, und der Abgrund steigt zu den Sternen. Wähle den Weg deines Helden.
+826	Fähigkeit: «
+827	Zum Beispiel Aelita
+828	Reise beginnen
+829	Zu den Charakteren
+830	Wanderer
+831	Willkommen,
+832	In deiner Truppe sind schon drei Helden. Du hast 10 Rollen: Die erste ×10-Beschwörung garantiert einen SSR-Helden.
+833	Zur Beschwörung
+834	heute
+835	gestern
+836	Tg. her
+837	Wähle einen Charakter
+838	Auf diesem Server gibt es noch keine Charaktere
+839	Neuer Charakter
+840	Freie Plätze:
+841	Spiel betreten
+842	Der Spielstand wurde manuell verändert und hat die Echtheitsprüfung nicht bestanden. Stelle deinen Fortschritt mit einem Spielstand-Code wieder her
+843	Charakter konnte nicht geladen werden
+844	Alle Plätze sind belegt
+845	Charakter «
+846	» endgültig löschen? Der Fortschritt kann nicht wiederhergestellt werden.
+847	Charakter gelöscht
+848	Server
+849	Derzeit läuft das Spiel offline: Charaktere werden auf diesem Gerät gespeichert. Weitere Regionen öffnen mit dem Online-Modus.
+850	Language · Sprache
+851	Gegner
+852	· Truppe
+853	Pro Kapitel
+854	Autospiel
+855	Prüfungen
+856	· Boss
+857	Gegner:
+858	· stark gegen sie:
+859	Chronik
+860	Kapitel verfügbar:
+861	Lesen
+862	Kapitel
+863	· Wertung
+864	· Tickets
+865	/30 · Versuche
+866	/5 · Hauptpreis – USR-Skin
+867	Allianz-Titan
+868	Level
+869	· Versuche
+870	Tritt einer Allianz bei, um den Titanen und den Clankrieg freizuschalten
+871	Alle Kapitel abgeschlossen. Neue Kapitel kommen mit einem Update
+872	Stelle eine Truppe auf
+873	abgeschlossen!
+874	Belohnung
+875	Nächste Etappe
+876	Stärke deine Truppe: Erhöhe Level und Sterne der Helden oder beschwöre neue. Auch die Aufstellung zählt.
+877	Nochmal
+878	Truppe verbessern
+879	Autospiel an: Die nächste Etappe startet von selbst
+880	Autospiel aus
+881	Liga
+882	Siege ·
+883	Niederlagen
+884	Tickets:
+885	+1 Ticket
+886	Tägliche Ligabelohnung
+887	Arenaladen
+888	Erhalten
+889	Abholen
+890	Wertung
+891	· Stärke
+892	Kämpfen
+893	Ticket kaufen
+894	Ligabelohnung «
+895	» erhalten
+896	Keine Tickets mehr: Morgen gibt es neue
+897	Arena ·
+898	Zur Arena
+899	Wertung −8 →
+900	Alle Events
+901	Aktivitäten
+902	30 Stufen Dämonen des Abgrunds · USR-Skin
+903	Übrig:
+904	Kostenpflichtige Events: Roulette, Puzzle, Pfad
+905	Legendensplitter:
+906	· LR-Held –
+907	Woche
+908	Held der Woche:
+909	USR-Garantie:
+910	Hauptpreis – ein USR-Held
+911	Gratis-Drehung verfügbar
+912	Marken:
+913	Kämpfe gegen rivalisierende Truppen
+914	Gemeinsamer Allianzboss
+915	Wird nach dem Beitritt zu einer Allianz freigeschaltet
+916	Clankrieg
+917	Wöchentlicher Kampf um die Wertung
+918	Platz
+919	Mo–So
+920	Anmeldebelohnungen
+921	Melde dich täglich an: Am siebten Tag gibt es ein Paket Schicksalscoupons.
+922	Tag
+923	<span style="color:var(--good);font-size:12px">Erhalten</span>
+924	Tagesbelohnung abholen
+925	Komm morgen wieder
+926	Anmeldebelohnung erhalten
+927	Tagesaufgaben
+928	/120 Punkte
+929	Truhe geöffnet
+930	Skin «Dämon der Leere» USR
+931	Dämonen des Abgrunds stürmen den Thron. Schließe 30 Stufen vor Wochenende ab. Jede Stufe ist stärker als die vorige; der Fortschritt wird am Montag zurückgesetzt.
+932	Versuche heute:
+933	Stufenbelohnungen
+934	Belohnung für Stufe
+935	Kämpfen ·
+936	<b style="color:var(--good)">Alle Stufen diese Woche abgeschlossen</b>
+937	· Stufe
+938	<p>Du hast den USR-Skin «Dämon der Leere» erhalten! Lege ihn auf dem Heldenbildschirm an.</p>
+939	Nächste Stufe
+940	Zum Event
+941	<p class="mute">Versuch verbraucht. Stärke deine Truppe und komm wieder.</p>
+942	Tritt einer Allianz bei, um gegen den Allianz-Titanen zu kämpfen, gegen andere Clans anzutreten und seltene Waren im Allianzladen zu kaufen.
+943	Eigene Allianz
+944	Allianzname
+945	/40 Mitglieder
+946	Beitreten
+947	Allianz · Level
+948	Allianz-EP
+949	· der Schaden zählt für die ganze Allianz
+950	· Tickets
+951	Greife die Verteidiger gegnerischer Clans an. Der erste Sieg gegen einen Clan bringt 100 Bonuspunkte. Belohnungen am Wochenende.
+952	Mitglieder
+953	(du)
+954	Allianzladen
+955	Verlassen
+956	Gemeldet
+957	Melden
+958	Ergebnisse des Clankriegs
+959	letzte Woche
+960	Du bist der Allianz beigetreten: «
+961	Gib einen Namen ein
+962	Allianz «
+963	» gegründet
+964	Meldung: +150
+965	Allianz verlassen? Der Fortschritt im Clankrieg und beim Titanen geht verloren.
+966	Allianz-Titan · Lv.
+967	Titan besiegt! +
+968	Gold für alle Mitglieder
+969	Titan besiegt
+970	Angriff beendet
+971	Verursachter Schaden:
+972	Zur Allianz
+973	Clankrieg ·
+974	Clanpunkte:
+975	· Platz
+976	<p class="mute">Die Verteidiger haben standgehalten. Versuche einen schwächeren Clan.</p>
+977	Himmlisch
+978	Coupons
+979	Rad
+980	Du hast:
+981	Beschwörungsverlauf
+982	Nur UR, SSR und SSR+
+983	Normale Beschwörung
+984	Garantie
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">Die erste ×10-Beschwörung garantiert einen SSR-Helden.</p>
+986	Gratis
+987	Altar
+988	Letzte
+989	Helden. Die Chancen jeder Beschwörung stehen auf ihrem Banner.
+990	<p class="mute">Noch leer.</p>
+991	Fertig
+992	Nochmal ×
+993	NEU
+994	GOLD
+995	+10 SPLITTER
+997	<button class="btn sec" data-act="sumAll">Alle zeigen</button>
+998	Drehung ·
+999	Hauptpreis – ein USR-Held. Garantiert innerhalb von 100 Drehungen.
+1000	Bis zur Garantie:
+1001	Chancen
+1002	HIMMEL
+1003	Marken oder Gold nötig
+1004	Himmelsrad ×
+1005	Super
+1006	10 Drehungen (Marken
+1007	, Rest in Gold)
+1008	Drehung
+1009	Benötigt eine Marke oder 150 Gold
+1010	Goldkäufe kommen mit einem künftigen Update. Bis dahin gibt es Gold aus Kampagnenetappen, Beute, Anmeldungen, Tagesaufgaben, Erfolgen, Post und dem Tagesgeschenk im Reiter «Waren».
+1011	Testmodus
+1012	Zahlungen sind nicht angebunden: Die Knöpfe geben Gold kostenlos, es wird kein Geld abgebucht. Vor dem Release bei Google Play und im App Store werden hier deren In-App-Käufe angebunden.
+1013	Eigener Betrag
+1014	Von 10 bis 100.000.000 Gold. Je mehr, desto besser der Kurs.
+1015	Tagesgeschenk
+1016	Morgen
+1017	<p class="mute">Der Laden öffnet nach dem Beitritt zu einer Allianz.</p>
+1018	Waren
+1019	10 USR-Heldensplitter
+1020	Diese Woche übrig:
+1021	Allianz erforderlich
+1022	Kaufen: «
+1023	USR-Splitter
+1024	Kauf abgeschlossen
+1025	Tagesgeschenk erhalten
+1026	Zahlungsanbieter nicht angebunden
+1027	Testmodus: +
+1028	Gold ohne Bezahlung
+1029	Von 10 bis 100.000.000
+1030	Wird freigeschaltet nach Kapitel
+1031	» in der Chronik.
+1032	Das Kapitel ist schon verfügbar – lies es.
+1033	Erreiche zuerst Kapitel
+1034	der Kampagne.
+1035	Lesen
+1036	Höchstes Limit erreicht: Zenit 100
+1037	R1 · 300 – der Zenit wird freigeschaltet
+1038	Das Level-Limit steigt mit abgeschlossenen Kampagnenkapiteln
+1039	Level-Limit
+1040	Limit
+1041	Lv. Der nächste Stern erhöht es auf
+1042	Max.
+1043	Level:
+1044	Splitter
+1045	Aufsteigen zu
+1046	Level erhöhen
+1047	Stärke
+1048	Verschmelzung →
+1049	Benötigt:
+1050	. Aufstiegssteine – in kostenpflichtigen Events, im Allianzladen, auf dem Legendenpfad und von Bossen nach Etappe 300
+1051	Aufsteigen zu
+1052	? Die Level gehen auf der neuen Stufe weiter, die Werte steigen.
+1053	Aufstieg:
+1054	Aufsteigen
+1055	VERSCHMELZUNG! Der Held strahlt mit der Kraft von 21 Sternen
+1056	Neuer Sternrang:
+1057	Stern
+1058	★ · Level-Limit
+1059	Maximum: 21★
+1060	Nicht genug Splitter: benötigt
+1061	. Ein Duplikat gibt 10, Sternenessenz ersetzt fehlende
+1062	21★ · Heldenglanz, Werte ×1,3, Krit +5 %, Tempo +5
+1063	Sternenkraft
+1064	Jedes Helden-Duplikat aus einer Beschwörung sind 10 Splitter. Sternenessenz ersetzt fehlende Splitter (Legendenroulette, Himmelspuzzle, Legendenpfad).
+1065	Nächster Stern
+1066	Verschmelzung kostet
+1067	Spl.
+1068	LR-Heldensplitter – am Altar der Legenden.
+1069	Krit
+1070	Qualität ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Wird freigeschaltet ab Heldenlevel
+1073	(R1 und Zenit zählen als über 500).
+1074	Benötigt Kapitel
+1075	» in der Chronik und Heldenlevel
+1076	.
+1077	Hauptausrüstung
+1078	Gesamte Hauptausrüstung verbessern
+1079	Nicht genug Erz oder Silber. Erz gibt es aus Kampagnenetappen und Beute
+1080	Nicht genug Erz oder Silber, oder alles ist am Qualitätslimit
+1081	Ausrüstung: +
+1082	Benötigt Göttliche Essenz und Silber
+1083	Benötigt Uralte Splitter und Silber
+1084	Angelegt
+1085	Jedes Level beliebiger Flügel, die du besitzt, gibt der ganzen Truppe +0,05 % Angriff und Leben.
+1086	Keine
+1087	Hauptheld: Angriff, Leben, Verteidigung +
+1088	<span class="tag">ANGELEGT</span>
+1089	<span style="color:#ff9a7a">Kostenpflichtige Events</span>
+1090	Angelegt:
+1091	Diese Flügel gibt es in Paketen kostenpflichtiger Events
+1092	Benötigt
+1093	Federn. Federn – im Legendenroulette, im Puzzle, im Abgrund-Event und im Shop
+1094	Erstellen: «
+1095	Federn?
+1096	Flügel erstellt und angelegt
+1097	Erstellen
+1098	Nicht genug Federn
+1099	Reittier
+1100	Andere Begleiter geben der Truppe 30 % ihres Bonus.
+1101	Ausbrüten
+1102	Nicht gewählt
+1103	Truppe: Angriff und Leben +
+1104	, Tempo +3
+1105	<span class="tag">GERITTEN</span>
+1106	Aus einem Ei
+1107	Begleiter gewählt
+1108	Der Sternendrache steckt in Paketen kostenpflichtiger Events
+1109	Brüte Eier aus: Es gibt sie in der Chronik, im Legendenroulette, auf dem Legendenpfad und im Shop
+1110	Nicht genug Futter. Futter – in Beute, Roulette und Shop
+1111	Keine Eier
+1112	Aus dem Ei geschlüpft
+1113	Neuer Begleiter!
+1114	Schon vorhanden – 200 Futter erhalten
+1115	Truppenplätze ·
+1116	Truppe jetzt: Angriff +
+1117	, Leben +
+1118	, Verteidigung +
+1119	, Krit +
+1120	(mit Begleitern und Flügeln)
+1121	, Tempo +
+1122	· Lv.
+1123	Ablegen
+1124	Anlegen
+1125	<span style="color:#ff9a7a;font-size:12px">Kostenpflichtige Events</span>
+1126	Alle 4 Plätze belegt: Lege zuerst ein Artefakt ab
+1127	Nicht genug Artefaktstaub
+1128	Staub. Staub – von Bossen, aus der Arena und dem Legendenroulette
+1129	Staub?
+1130	Artefakt erstellt
+1131	Roulette
+1132	Puzzle
+1133	Legendenpfad
+1134	Pakete
+1135	Kostenpflichtige Events · für Gold
+1136	Legendensplitter gibt es nur hier.
+1137	Splitter – ein LR-Held am Altar. Gold:
+1138	Legendensplitter
+1139	Essenz
+1140	Federn
+1141	Futter
+1142	Staub
+1143	Gött. Ess.
+1144	Ur. Spl.
+1145	Ei
+1146	Aufst.-St.
+1147	Gold
+1148	Legendenroulette
+1149	Garantie: 50 Legendensplitter in
+1150	Drehungen
+1151	Drehen
+1152	LEG.
+1153	ESS.
+1154	FED.
+1155	FUTTER
+1156	STAUB
+1157	GÖTT.
+1158	URALT
+1159	EI
+1160	AUFST.
+1161	Legendenroulette ×
+1162	Belohnungen
+1163	Himmelspuzzle Nr.
+1164	Bild:
+1165	(LR). Feld –
+1166	und eine Belohnung. Reihe oder Spalte –
+1167	Ganzes Bild –
+1168	Bild vollständig!
+1169	Das nächste Puzzle ist ein neuer LR-Held.
+1170	Nächstes Puzzle
+1171	Feld öffnen
+1172	Feld:
+1173	· Linien ×
+1174	· BILD VOLLSTÄNDIG!
+1175	übrig:
+1176	Pfadpunkte:
+1177	Normal
+1178	Legendär
+1179	Wochenaufgaben
+1180	<span class="sp g">Legendärer Pfad freigeschaltet</span>
+1181	Freischalten
+1182	Legendären Pfad freischalten
+1183	Legendärer Pfad freigeschaltet
+1184	Pfadbelohnung erhalten
+1185	Schon vorhanden
+1186	Paket erhalten
+1187	Die Urwesen sind LR-Helden, die stärksten im Spiel. Schalte einen Helden frei:
+1188	. Sobald du den Helden hast, werden Legendensplitter 1:1 zu seinen Splittern – für die Sternverschmelzung.
+1189	+10 Spl.
+1190	Helden freischalten: «
+1191	Legendensplitter?
+1192	schließt sich der Truppe der Legenden an!
+1193	+10 Heldensplitter
+1194	Überspringen
+1195	· tippen zum Fortfahren
+1196	vor dem Kampf
+1197	gelesen
+1198	Weiter
+1199	Freigeschaltet:
+1200	Kapitel übersprungen. Du kannst es in der Chronik lesen – Lesen bringt eine Belohnung, und die Geschichte schaltet neue Systeme frei
+1201	Die Geschichte kann übersprungen werden, aber jedes gelesene Kapitel gibt eine Belohnung, und die Kapitel 2, 3, 4, 6 und 10 schalten Begleiter, Flügel, Artefakte sowie göttliche und uralte Ausrüstung frei.
+1202	· schaltet frei:
+1203	Erneut lesen
+1204	Kostenpflichtige Events
+1205	[Tutorial
+1206	Fertig! Tippe, um die Belohnung abzuholen
+1207	Tutorial: «
+1208	<span class="mute" style="font-size:12px">Läuft</span>
+1209	Erfolg «
+1210	» freigeschaltet
+1211	Briefe vom Thron: Geschenke, Entschädigungen und Neuigkeiten zu Updates.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Alle abholen</button>
+1213	<p class="mute">Keine Briefe.</p>
+1214	Geschenk aus dem Brief erhalten
+1215	Briefe abgeholt:
+1216	Während deiner Abwesenheit
+1217	Min.
+1218	Deine Truppe kämpfte auf Etappe
+1219	. Das Lager ist voll – melde dich öfter an, damit nichts verloren geht
+1220	Wochenende: Silber und EP ×1,5.
+1221	Version
+1222	Die vollständige Liste der Änderungen steht in der CHANGELOG-Datei des Projekts.
+1223	Verstanden
+1224	<button class="btn jade" data-act="mail">Post öffnen</button>
+1244	Fehlerprotokoll
+1245	Wenn sich das Spiel seltsam verhalten hat, schicke diesen Text an den Entwickler.
+1246	Spiel verlassen? Der Fortschritt ist gespeichert.
+1247	Überspringen
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Helden mit 21★ sammeln keine Splitter mehr: Duplikate werden zu Gold.</p>
+1250	Anführer
+1251	Dieser Code ist älter als der Fortschritt des Charakters auf diesem Gerät – ein Zurücksetzen ist nicht erlaubt
+1252	Server-Anmeldung: Charakterwahl beim Start, bis zu 4 Charaktere auf EU · Europa, Server 1
+1253	Automatisches Speichern für jeden Charakter einzeln, Sicherung und Übertragung per Code
+1254	20 Sprachen: standardmäßig Englisch, Ukrainisch, Polnisch, Russisch und 16 weitere
+1255	Schutz: verschlüsselte und signierte Spielstände, kein Zurücksetzen mit altem Code, Schutz gegen Uhrzeitänderung
+1256	Oberflächenkorrekturen für lange Namen in verschiedenen Sprachen
+1257	Update 2.3: Server und Sprachen

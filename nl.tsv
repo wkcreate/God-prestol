@@ -1,0 +1,1045 @@
+1	Er ging iets mis. De voortgang is opgeslagen; details in Instellingen
+2	Fout
+3	Woud
+4	Vlam
+5	Zon
+6	Golf
+7	Engelen
+8	Demonen
+9	Krijger
+10	Magiër
+11	Boogschutter
+12	Sluipmoordenaar
+13	Genezer
+14	Krachtige slag op het doel, verdoving en een schild voor zichzelf
+15	Schade aan alle vijanden
+16	Enorme schade aan de zwaarst gewonde vijand
+17	Twee gegarandeerde crits op de achterste rij
+18	Geneest het hele team en geeft een schild
+19	geneest zichzelf met 10%
+20	zet doelen 2 beurten in brand
+21	vaardigheidsschade +20%
+22	vertraagt doelen
+23	schild voor bondgenoten
+24	levensroof 30% van de schade
+25	Wachter van de Troon
+26	Houdt de frontlinie: veel leven en verdediging, verdooft vijanden.
+27	Hemelse kloof
+28	Sterrenkijker
+29	Laat de sterren op alle vijanden tegelijk neerdalen.
+30	Sterrenregen
+31	Maanwoudloopster
+32	Maakt gewonde vijanden af met precieze schoten.
+33	Maanpijl
+34	Kling van de verduistering
+35	Breekt door naar de achterste rij en raakt met crits.
+36	Schaduwdans
+38	Hoedster van de wortels
+39	Bloei van het leven
+41	Woudspoorzoeker
+42	Bladerstorm
+44	Stenen wachter
+45	Rotsslag
+47	Gefluister van takken
+48	Sporenstorm
+50	Stekelige schaduw
+51	Doornwervelwind
+52	Vrouwe Wilg
+53	Hart van het Oerwoud
+54	Toorn van duizend wortels
+56	Leerling van het vuur
+57	Vuurbal
+59	Oorlogssmid
+60	Gloeiende hamer
+62	Moordenares uit de as
+63	Asstreek
+65	Zonsondergangpijl
+66	Brandend salvo
+68	De Herborene
+69	Feniksvleugel
+70	Keizer Ragnar
+71	Heer van de vlam
+72	Uitbarsting
+74	Zonneschutter
+75	Glans
+77	Zangeres van de dageraad
+78	Hymne aan de zon
+80	Schild van de woestijn
+81	Leeuwengebrul
+83	Oog van het zenit
+84	Zonnespeer
+86	Kling van de dageraad
+87	Snijdende straal
+88	Amaria
+89	Zonnegelaat
+90	Middagwonder
+92	Stille golf
+93	Plons
+95	Maagd van de bron
+96	Levend water
+98	Stormschutter
+99	Donderslag
+101	Zeeheks
+102	Draaikolk
+104	Hoeder van het tij
+105	De negende golf
+106	Neria
+107	Prinses van de Leviathan
+108	Roep van de diepte
+110	Cherubijn
+111	Veer van hoop
+112	Serafina
+113	Schutster van de hemel
+114	Lichtpijl
+116	Zwaard van de wet
+117	Vonnis
+119	Vlammend zwaard
+120	Hemelse straf
+121	Gabriël
+122	Stem van de hemel
+123	Bazuinroep
+124	Lumina
+125	Troon van licht
+126	Heiligdom
+128	Ondeugende imp
+129	Gemene beet
+130	Lilith
+131	Koningin van de nacht
+132	Betovering van de afgrond
+134	Beul van de onderwereld
+135	Ketens van kwelling
+137	Zielenjaagster
+138	Pijl van verderf
+139	Azaël
+140	Gevallen engel
+141	Verduistering
+143	Heer van de Afgrond
+144	Einde der wereld
+145	Gaia
+146	Moeder van al wat leeft
+147	Hart van de wereld
+148	Surtur
+149	Het laatste vuur
+150	Ragnarök
+151	Helios
+152	Zon boven de Troon
+153	Zonnewagen
+154	Okeana
+155	Oermoeder der wateren
+156	De grote vloed
+157	Metatron
+158	Stem van de Troon
+159	Hemelse Troon
+160	Nyx
+161	De eerste nacht
+162	Eeuwige nacht
+163	Hemelzwerver
+164	Zeewolf
+165	Rozenridder
+166	Sakura
+167	Pompoenmaaier
+168	Winterfeest
+169	IJsprins
+170	Cybersamoerai
+171	Jadekeizer
+172	Sterrenreiziger
+173	Demon van de leegte
+174	Engel van de dageraad
+175	Slijm
+176	Maanwolf
+177	Goblin
+178	Boomherder
+179	Imp
+180	Golem
+181	Skelet
+182	Geest
+183	Slang
+184	Draak
+185	Jadevallei
+186	Slijmkoning
+187	Schemerkreupelhout
+188	Kluizenaar-boomherder
+189	Asvlakten
+190	Asgolem
+191	Azuren grotten
+192	Zeeslang Irr
+193	Tempel van de Zon
+194	Obeliskwachter
+195	Bevroren pas
+196	Rijpdraak
+197	Stad der schaduwen
+198	Schaduwregent
+199	Tuinen der engelen
+200	Witte slang Eir
+201	Kloof van de Afgrond
+202	Sterrenverslinder
+203	Hemelse Troon
+204	Gevallen keizer
+205	Glinsterende moerassen
+206	Vrouwe van het moeras
+207	Vuursmidsen
+208	Smid van Surtur
+209	Hemelarchipel
+210	Hoeder van de winden
+211	Zanden der vergetelheid
+212	Farao van het zand
+213	Kristalgrotten
+214	Kristaldraak
+215	Woud der geesten
+216	Boom van Gaia
+217	Karmozijnen citadel
+218	Karmozijnen heer
+219	Sterrenobservatorium
+220	Sterrenkijker van de Afgrond
+221	Zalen van de Nacht
+222	Schaduw van Nyx
+223	Poorten der Oerwezens
+224	Hart van de Afgrond
+225	Sterrenoproeping
+226	Gewone oproeprollen. Kans op SSR: 5%.
+227	Hemelse oproeping
+228	De enige oproeping met USR-helden. USR gegarandeerd binnen 90 oproepingen.
+229	Lotsbonnen
+230	Alleen UR en hoger. De enige bron van SSR+-helden. SSR+ gegarandeerd binnen 40 oproepingen.
+231	80K zilver
+232	2 rollen
+233	40K EXP
+234	120 goud
+235	2 munten
+236	Bon
+237	SSR-scherven
+238	Skin
+239	SSR-held
+240	USR-held
+241	Win 3 gevechten
+242	Roep 2 keer op
+243	Draai aan het Hemelrad
+244	Verhoog 5 keer het level van helden
+245	Verzamel buit
+246	Vecht in de arena
+290	Eerste stappen
+291	Voltooi etappe 1-10
+292	Veroveraar van de vallei
+293	Voltooi hoofdstuk 1
+294	Stem van de vlakten
+295	Voltooi hoofdstuk 3
+296	Licht van de tempel
+297	Voltooi hoofdstuk 5
+298	Voltooi hoofdstuk 10
+299	Volledige ploeg
+300	Verzamel 5 helden
+301	Verzamelaar
+302	Verzamel 12 helden
+303	Kroniekschrijver
+304	Verzamel 24 helden
+305	Uitverkorene van de hemel
+306	Krijg een USR-held
+307	Roep van de sterren
+308	Roep 50 keer op
+309	Meester van de oproeping
+310	Roep 200 keer op
+311	Gehard
+312	Hoofdheld level 50
+313	Legende
+314	Hoofdheld level 100
+315	Vier sterren
+316	Breng een held naar 4★
+317	Grens van de macht
+318	Breng een held naar 6★
+319	Gladiator
+320	10 arenazeges
+321	Gouden competitie
+322	Bereik een score van 1400
+323	Schouder aan schouder
+324	Word lid van een alliantie
+325	Gesel van de Afgrond
+326	Voltooi 30 trappen van het evenement
+327	Verpletteraar
+328	Doe 100.000 schade met één slag
+329	Onbreekbare ploeg
+330	Ploegkracht 500.000
+331	Trouw
+332	Log 7 dagen in
+333	Rode ster
+334	Breng een held naar 11★
+335	Samensmelting
+336	Breng een held naar 21★
+337	Een legende ontwaakt
+338	Krijg een LR-held
+339	Ruiter
+340	Krijg een huisdier
+341	Op vleugels
+342	Krijg vleugels
+343	Verheffing
+344	Verhef een held naar R1
+345	Zenit
+346	Bereik het Zenit
+347	Kroniekschrijver van de Troon
+348	Lees 10 hoofdstukken van het verhaal
+349	Smid
+350	Verbeter uitrusting tot kwaliteit Zeldzaam
+351	Roep een held op
+352	Oproepen → Sterren → ×10
+353	Win etappe 1-1
+354	Tik op «Vechten»
+355	Verhoog het level van een held
+356	Helden → kies een held → Level
+357	Kist rechtsonder
+358	Voltooi etappe 1-5
+359	Hoe verder de etappe, hoe groter de buit
+360	Een alliantie ontgrendelt de Titaan en de Clanoorlog
+361	Welkom bij de Troon
+363	Update 2.1
+365	Update 2.2: Tijdperk der Legenden
+367	Gouden
+368	Roze
+369	Rode
+370	Paarse
+371	Gewoon
+372	Zeldzaam
+373	Episch
+374	Legendarisch
+375	Mythisch
+376	Hemels
+377	Wapen
+378	Harnas
+379	Helm
+380	Amulet
+381	Goddelijke kling
+382	Goddelijke aegis
+383	Oeroude relikwie
+384	Oeroude kroon
+385	Luna, de maanwolf
+386	Jadewolf
+387	Hemelslang
+388	Vuurdraakje
+389	IJsdraak
+390	Sterrendraak
+391	Vleugels van de dageraad
+392	Vleugels van de afgrond
+393	Feniksvleugels
+394	IJsvleugels
+395	Jadevleugels
+396	Sterrenvleugels
+397	Vleugels van de Troon
+398	Traan van de Leviathan
+399	leven en verdediging
+400	Slagtand van de Afgrond
+401	aanval
+402	Feniksenhart
+403	leven
+404	Maanspiegel
+405	verdediging
+406	Oog van de Troon
+407	critkans
+408	Zandloper
+409	snelheid
+410	Kroon van de dageraad
+411	aanval en leven
+412	Graal der Legenden
+413	aanval, leven, crit
+414	Huisdieren
+415	Vleugels
+416	Artefacten
+417	Goddelijke uitrusting
+418	Oeroude uitrusting
+419	Gewonnen gevechten
+420	Heldenoproepingen
+421	Levelverhogingen
+422	Buit verzamelen
+423	Arenagevechten
+424	Draaien aan de Legenderoulette
+425	Tegels van de Hemelse puzzel
+426	Legendepakket
+427	Verheffingspakket
+428	Ruiterpakket
+429	Veren en Stof
+430	Vleugels van de Troon (LR)
+431	Graal der Legenden (LR)
+432	Sterrendraak (LR)
+433	Heraut van de Afgrond
+434	Luna
+483	Tijdperk der Legenden
+549	Troon
+555	EU · Europa
+556	Server 1
+557	NA · Amerika
+558	Binnenkort
+559	ASIA · Azië
+560	Zilver
+561	Goud
+562	Oproeprol
+563	Lotsbon
+564	Radmunt
+565	Helden-EXP
+566	Alliantiemunten
+567	Arenatekens
+568	Talentpunten
+569	USR-scherven
+570	Erts
+571	Goddelijke essentie
+572	Oeroude splinters
+573	Legendescherven
+574	Sterrenessentie
+575	Huisdierei
+576	Huisdiervoer
+577	Veren
+578	Artefactstof
+579	Verheffingsstenen
+580	Held
+581	De hoofdopslag is beschadigd of gewijzigd; voortgang hersteld uit de reservekopie
+582	Lv.
+583	Nieuwe held:
+584	+10 scherven:
+585	Skin:
+586	200 goud (je hebt al alle skins)
+587	Heldenscherven
+588	Brons
+589	Platina
+590	Diamant
+591	Hemeling
+592	Hoofdstuk
+593	Oudste
+594	Lid
+595	Invasie van de Afgrond
+596	Heraut van de Afgrond ·
+597	Vecht!
+598	Verdoofd
+599	Verdoving
+600	Baas!
+601	Vaardigheid
+602	Pauze
+603	Tik op ▶ om verder te gaan
+604	Vaardigheid:
+605	Sterkste slag:
+606	· beurten
+607	Overwinning
+608	Tijd voorbij
+609	Nederlaag
+610	<p class="mute" style="font-size:12.5px">Het gevecht duurde te lang. Je hebt meer schade nodig: verhoog het level van je aanvallende helden.</p>
+611	Volgende etappe over
+612	s
+613	Stop
+614	Verlaten
+615	Etappes automatisch spelen
+616	Niet genoeg goud: nodig
+617	, je hebt
+618	. Winkel openen?
+619	Naar de winkel
+620	Niet genoeg:
+621	voor
+622	goud?
+623	Bevestigen
+624	Sluiten
+625	Annuleren
+626	Ja
+627	21★: samensmelting
+628	SAMENSMELTING
+629	HELD
+630	Er kan een ster omhoog
+631	<span class="mute">Niet verkregen</span>
+632	Helden
+633	Personage
+634	Campagne
+635	Oproepen
+636	Alliantie
+637	Winkel
+638	Evenementen
+639	Arena
+640	Goud kopen
+641	Gevecht
+642	Wereld
+643	riep op
+644	voltooide hoofdstuk «
+645	De Alliantietitaan verzwakt, iedereen in de aanval!
+646	Systeem
+647	Evenement «
+648	» loopt de hele week
+649	zoekt een alliantie, kracht
+650	Instellingen
+651	Post
+652	Trap
+653	/30 · over:
+654	d.
+655	Roulette · puzzel · LR-helden
+656	[Verhaal]
+657	Etappe
+658	Voltooi hoofdstuk «
+659	van
+660	u
+661	Vechten
+662	Resonantie «
+663	Inloggen
+664	Dagelijks
+665	Prestaties
+666	Held oproepen
+667	Hemelrad
+668	· baas
+669	[Kroniek]
+670	Ontgrendelt:
+671	Lees het: hoofdstukbeloning
+672	[Dagelijks]
+673	Alle taken voltooid
+674	Haal de kisten op
+675	[Alliantie]
+676	Titaan, clanoorlog, winkel
+677	Meld je aan in de alliantie
+678	+150 Alliantiemunten
+679	Opslag vol
+680	Buit
+681	Snelle buit
+682	Snel · 60
+683	Buit:
+684	Niet genoeg goud
+685	Snelle buit:
+686	zilver
+687	Collectie
+688	Ploeg
+689	Verzameld
+690	Sorteren:
+691	Alle
+692	Elke zeldzaamheid
+693	kracht
+694	zeldzaamheid
+695	level
+696	factie
+697	Ontbrekende verbergen
+698	Alles tonen
+699	Leeg
+700	Gevechtsopstelling
+701	Kracht
+702	Voorste rij
+703	Achterste rij
+704	Auto
+705	Hele ploeg verbeteren
+706	EXP en zilver worden gelijk verdeeld: de zwakste held groeit eerst.
+707	Factievoordeel · +25% schade
+708	Krijgers stappen naar voren en vangen de klappen op. Sluipmoordenaars breken door naar de achterste rij van de vijand. De achterste rij is beschermd zolang de voorste leeft.
+709	% op leven en aanval
+710	Resonantie: 3 helden van één factie geven +8%, 4 helden +15%
+711	Ploeg samengesteld op kracht
+712	Niet genoeg EXP of zilver, of alle helden zitten aan het levelplafond
+713	Ploeg verbeterd: +
+714	lv., kracht +
+715	Positie
+716	rij
+717	Kies een held. Zit hij al in de ploeg, dan ruilen de helden van plaats.
+718	voorste
+719	achterste
+720	Verwijderen
+721	De hoofdheld zit altijd in de ploeg
+722	Altaar der Legenden: voor Legendescherven uit betaalde evenementen
+723	Hemelse oproeping, Hemelrad en Alliantiewinkel
+724	elke oproeping en het Hemelrad
+725	Vaardigheid «
+726	Waar te vinden:
+727	Vorige held
+728	Volgende held
+729	Kracht:
+730	Factiekracht
+731	Talenten
+732	Leven
+733	Aanval
+734	Verdediging
+735	Snelheid · crit
+736	In de ploeg
+737	Overzicht
+738	Uitrusting
+739	Sterren
+740	. Factiekracht «
+741	Zenit-levels vereisen Verheffingsstenen
+742	Niet genoeg EXP of zilver
+743	lv. · kracht +
+744	De ploeg is vol: vervang een held op het tabblad «Ploeg»
+745	BASIS
+746	<span class="tag">UITGERUST</span>
+747	% op alles
+748	Geen bonus
+749	<span class="g">Verkregen</span>
+750	Evenement van de week
+751	Macht van de Troon
+752	+1,5% aanval
+753	Hemels vlees
+754	+1,5% leven
+755	Haviksoog
+756	+0,2% crit
+757	Skins
+758	. Elke 25 levels een nieuwe ster, bij R1 samensmelting (21★). Het levelplafond stijgt met de hoofdstukken.
+759	Klasse
+760	Uiterlijk
+761	Een skin verandert het uiterlijk volledig en geeft een bonus op alle statistieken: R +1%, UR +1,5%, SSR +2%, SSR+ +3%, USR +5%.
+762	punten
+763	Talentpunten krijg je voor elke voltooide etappe.
+764	Wissel:
+765	Eerste wissel gratis
+766	per level
+767	Groei
+768	Talent +
+769	Vereist een talentpunt en zilver
+770	Nieuwe klasse:
+771	Klasse wijzigen in «
+772	Level, skins en talenten blijven behouden.
+773	Kosten: 500 goud.
+774	De eerste wissel is gratis.
+775	Wijzigen
+776	Skin «
+777	» uitgerust
+778	Deze skin komt uit het Hemelrad
+779	Deze skin is de hoofdprijs van het evenement «
+780	Skin kopen: «
+781	» voor
+782	Skin verkregen en uitgerust
+783	Kopen
+784	Aan
+785	Uit
+786	Language · Taal
+787	Heldennaam
+788	Opslaan
+789	Graphics
+790	Statistieken
+791	Gevechten
+792	Campagnezeges
+793	Oproepingen
+794	USR-helden
+795	Sterkste slag
+796	Dagen in het spel
+797	Opslag
+798	De voortgang wordt automatisch op het apparaat opgeslagen: elke 15 seconden en bij minimaliseren. Met de code hieronder zet je hem over naar een ander apparaat.
+799	Plak een opslagcode
+800	Mijn code tonen
+801	Kopiëren
+802	Code laden
+803	Wat is er nieuw
+804	Privacy
+805	Voorwaarden
+806	Ander personage
+807	Personage verwijderen
+808	Hemelse Troon · versie
+809	Geluidseffecten
+810	Muziek
+811	Trillen
+812	Hoog
+813	Batterijbesparing
+814	Foutenlogboek (
+815	De grafische kwaliteit verandert na een herstart. Nu herstarten?
+816	Herstarten
+817	Voer een naam in
+818	Code gekopieerd
+819	Selecteer en kopieer de code handmatig
+820	Opslag geladen
+821	De code werkte niet: controleer of hij volledig gekopieerd is
+822	Dit personage en al zijn voortgang verwijderen? Dit kan niet ongedaan worden gemaakt.
+823	Verwijderen
+824	Kronieken der Hemelingen
+825	De Troon is leeg en de Afgrond rijst tot aan de sterren. Kies het pad van je held.
+826	Vaardigheid: «
+827	Bijvoorbeeld Aelita
+828	Begin de reis
+829	Naar personages
+830	Zwerver
+831	Welkom,
+832	Je ploeg heeft al drie helden. Je hebt 10 rollen: de eerste ×10-oproeping garandeert een SSR-held.
+833	Naar oproepen
+834	vandaag
+835	gisteren
+836	d. geleden
+837	Kies een personage
+838	Nog geen personages op deze server
+839	Nieuw personage
+840	Vrije plaatsen:
+841	Spel starten
+842	De opslag is handmatig gewijzigd en doorstond de echtheidscontrole niet. Herstel je voortgang met een opslagcode
+843	Kon het personage niet laden
+844	Alle plaatsen zijn bezet
+845	Personage «
+846	» voorgoed verwijderen? De voortgang kan niet worden hersteld.
+847	Personage verwijderd
+848	Server
+849	Het spel werkt nu offline: personages worden op dit apparaat bewaard. Andere regio's openen samen met de onlinemodus.
+850	Language · Taal
+851	Vijanden
+852	· ploeg
+853	Per hoofdstuk
+854	Autospel
+855	Beproevingen
+856	· Baas
+857	Vijanden:
+858	· sterk tegen hen:
+859	Kroniek
+860	Hoofdstuk beschikbaar:
+861	Lezen
+862	hoofdstukken
+863	· score
+864	· tickets
+865	/30 · pogingen
+866	/5 · hoofdprijs: USR-skin
+867	Alliantietitaan
+868	Level
+869	· pogingen
+870	Word lid van een alliantie om de Titaan en de Clanoorlog te ontgrendelen
+871	Alle hoofdstukken voltooid. Nieuwe hoofdstukken komen met een update
+872	Stel een ploeg samen
+873	voltooid!
+874	Beloning
+875	Volgende etappe
+876	Versterk je ploeg: verhoog levels en sterren van helden of roep nieuwe op. De volgorde van de ploeg telt ook.
+877	Opnieuw
+878	Ploeg verbeteren
+879	Autospel aan: de volgende etappe start vanzelf
+880	Autospel uit
+881	Competitie
+882	zeges ·
+883	nederlagen
+884	Tickets:
+885	+1 ticket
+886	Dagelijkse competitiebeloning
+887	Arenawinkel
+888	Ontvangen
+889	Ophalen
+890	Score
+891	· kracht
+892	Vechten
+893	Ticket kopen
+894	Competitiebeloning «
+895	» ontvangen
+896	Geen tickets meer: morgen nieuwe
+897	Arena ·
+898	Naar de arena
+899	Score −8 →
+900	Alle evenementen
+901	Activiteiten
+902	30 trappen demonen van de Afgrond · USR-skin
+903	Over:
+904	Betaalde evenementen: roulette, puzzel, pad
+905	Legendescherven:
+906	· LR-held:
+907	Week
+908	Held van de week:
+909	USR-garantie:
+910	Hoofdprijs: een USR-held
+911	Gratis draai beschikbaar
+912	Munten:
+913	Gevechten tegen rivaliserende ploegen
+914	Gezamenlijke alliantiebaas
+915	Ontgrendeld na het lid worden van een alliantie
+916	Clanoorlog
+917	Wekelijkse strijd om de score
+918	Plaats
+919	Ma–Zo
+920	Inlogbeloningen
+921	Log elke dag in: op de zevende dag een pakket Lotsbonnen.
+922	Dag
+923	<span style="color:var(--good);font-size:12px">Ontvangen</span>
+924	Dagbeloning ophalen
+925	Kom morgen terug
+926	Inlogbeloning ontvangen
+927	Taken van de dag
+928	/120 punten
+929	Kist geopend
+930	Skin «Demon van de leegte» USR
+931	Demonen van de Afgrond bestormen de Troon. Voltooi 30 trappen voor het einde van de week. Elke trap is sterker dan de vorige; de voortgang wordt op maandag gereset.
+932	Pogingen vandaag:
+933	Trapbeloningen
+934	Beloning voor trap
+935	Vechten ·
+936	<b style="color:var(--good)">Alle trappen deze week voltooid</b>
+937	· trap
+938	<p>Je hebt de USR-skin «Demon van de leegte» gekregen! Rust hem uit op het heldenscherm.</p>
+939	Volgende trap
+940	Naar het evenement
+941	<p class="mute">Poging verbruikt. Versterk je ploeg en kom terug.</p>
+942	Word lid van een alliantie om tegen de Alliantietitaan te vechten, het op te nemen tegen andere clans en zeldzame waren te kopen in de Alliantiewinkel.
+943	Eigen alliantie
+944	Naam van de alliantie
+945	/40 leden
+946	Lid worden
+947	Alliantie · level
+948	Alliantie-EXP
+949	· de schade telt voor de hele alliantie
+950	· tickets
+951	Val de verdedigers van vijandige clans aan. De eerste zege op een clan geeft 100 bonuspunten. Beloningen aan het einde van de week.
+952	Leden
+953	(jij)
+954	Alliantiewinkel
+955	Verlaten
+956	Aangemeld
+957	Aanmelden
+958	Resultaten van de Clanoorlog
+959	vorige week
+960	Je bent lid geworden van de alliantie «
+961	Voer een naam in
+962	Alliantie «
+963	» opgericht
+964	Aanmelding: +150
+965	De alliantie verlaten? Voortgang in de Clanoorlog en bij de Titaan gaat verloren.
+966	Alliantietitaan · lv.
+967	Titaan verslagen! +
+968	goud voor alle leden
+969	Titaan verslagen
+970	Aanval voltooid
+971	Toegebrachte schade:
+972	Naar de alliantie
+973	Clanoorlog ·
+974	Clanpunten:
+975	· plaats
+976	<p class="mute">De verdedigers hielden stand. Probeer een zwakkere clan.</p>
+977	Hemels
+978	Bonnen
+979	Rad
+980	Je hebt:
+981	Oproepgeschiedenis
+982	Alleen UR, SSR en SSR+
+983	Gewone oproeping
+984	Garantie
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">De eerste ×10-oproeping garandeert een SSR-held.</p>
+986	Gratis
+987	Altaar
+988	Laatste
+989	helden. De kansen van elke oproeping staan op haar banier.
+990	<p class="mute">Nog leeg.</p>
+991	Klaar
+992	Opnieuw ×
+993	NIEUW
+994	GOUD
+995	+10 SCHERVEN
+997	<button class="btn sec" data-act="sumAll">Alles tonen</button>
+998	Draai ·
+999	Hoofdprijs: een USR-held. Gegarandeerd binnen 100 draaien.
+1000	Tot de garantie:
+1001	Kansen
+1002	HEMEL
+1003	Munten of goud nodig
+1004	Hemelrad ×
+1005	Top
+1006	10 draaien (munten
+1007	, de rest in goud)
+1008	Draai
+1009	Vereist een munt of 150 goud
+1010	Goud kopen komt in een toekomstige update. Voorlopig komt goud uit campagne-etappes, buit, inloggen, dagelijkse taken, prestaties, post en het dagelijkse cadeau op het tabblad «Waren».
+1011	Testmodus
+1012	Betalingen zijn niet gekoppeld: de knoppen geven gratis goud, er wordt geen geld afgeschreven. Voor de release op Google Play en in de App Store worden hier hun in-app-aankopen gekoppeld.
+1013	Eigen bedrag
+1014	Van 10 tot 100.000.000 goud. Hoe meer, hoe beter de koers.
+1015	Dagelijks cadeau
+1016	Morgen
+1017	<p class="mute">De winkel opent na het lid worden van een alliantie.</p>
+1018	Waren
+1019	10 USR-heldenscherven
+1020	Deze week over:
+1021	Alliantie vereist
+1022	Kopen: «
+1023	USR-scherven
+1024	Aankoop voltooid
+1025	Dagelijks cadeau ontvangen
+1026	Betaalprovider niet gekoppeld
+1027	Testmodus: +
+1028	goud zonder betaling
+1029	Van 10 tot 100.000.000
+1030	Ontgrendeld na hoofdstuk
+1031	» in de Kroniek.
+1032	Het hoofdstuk is al beschikbaar: lees het.
+1033	Bereik eerst hoofdstuk
+1034	van de campagne.
+1035	Lezen
+1036	Hoogste plafond bereikt: Zenit 100
+1037	R1 · 300: het Zenit wordt ontgrendeld
+1038	Het levelplafond stijgt met voltooide campagnehoofdstukken
+1039	Levelplafond
+1040	Plafond
+1041	lv. De volgende ster verhoogt het tot
+1042	Max.
+1043	Level:
+1044	Scherven
+1045	Verheffen tot
+1046	Level omhoog
+1047	kracht
+1048	Samensmelting →
+1049	Vereist:
+1050	. Verheffingsstenen: in betaalde evenementen, de Alliantiewinkel, het Legendepad en van bazen na etappe 300
+1051	Verheffen tot
+1052	? Levels gaan door op de nieuwe trede, statistieken stijgen.
+1053	Verheffing:
+1054	Verheffen
+1055	SAMENSMELTING! De held straalt met de kracht van 21 sterren
+1056	Nieuwe sterrenrang:
+1057	Ster
+1058	★ · levelplafond
+1059	Maximum: 21★
+1060	Niet genoeg scherven: nodig
+1061	. Een duplicaat geeft 10, Sterrenessentie vervangt de ontbrekende
+1062	21★ · heldengloed, statistieken ×1,3, crit +5%, snelheid +5
+1063	Sterrenkracht
+1064	Elk duplicaat uit een oproeping is 10 scherven. Sterrenessentie vervangt ontbrekende scherven (Legenderoulette, Hemelse puzzel, Legendepad).
+1065	Volgende ster
+1066	Samensmelting kost
+1067	sch.
+1068	Scherven van LR-helden: bij het Altaar der Legenden.
+1069	crit
+1070	Kwaliteit ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Ontgrendeld vanaf heldenlevel
+1073	(R1 en Zenit tellen als boven 500).
+1074	Vereist hoofdstuk
+1075	» in de Kroniek en heldenlevel
+1076	.
+1077	Hoofduitrusting
+1078	Alle hoofduitrusting verbeteren
+1079	Niet genoeg erts of zilver. Erts komt uit campagne-etappes en buit
+1080	Niet genoeg erts of zilver, of alles zit aan het kwaliteitsplafond
+1081	Uitrusting: +
+1082	Vereist Goddelijke essentie en zilver
+1083	Vereist Oeroude splinters en zilver
+1084	Uitgerust
+1085	Elk level van alle vleugels die je hebt geeft de hele ploeg +0,05% aanval en leven.
+1086	Geen
+1087	Hoofdheld: aanval, leven, verdediging +
+1088	<span class="tag">UITGERUST</span>
+1089	<span style="color:#ff9a7a">Betaalde evenementen</span>
+1090	Uitgerust:
+1091	Deze vleugels zitten in pakketten van betaalde evenementen
+1092	Vereist
+1093	veren. Veren: in de Legenderoulette, de Puzzel, het Afgrondevenement en de winkel
+1094	Maken: «
+1095	veren?
+1096	Vleugels gemaakt en uitgerust
+1097	Maken
+1098	Niet genoeg veren
+1099	Rijdier
+1100	Andere huisdieren geven de ploeg 30% van hun bonus.
+1101	Uitbroeden
+1102	Niet gekozen
+1103	Ploeg: aanval en leven +
+1104	, snelheid +3
+1105	<span class="tag">BEREDEN</span>
+1106	Uit een ei
+1107	Huisdier gekozen
+1108	De Sterrendraak zit in pakketten van betaalde evenementen
+1109	Broed eieren uit: ze zitten in de Kroniek, de Legenderoulette, het Legendepad en de winkel
+1110	Niet genoeg voer. Voer: in buit, Roulette en winkel
+1111	Geen eieren
+1112	Uit het ei gekropen
+1113	Nieuw huisdier!
+1114	Heb je al: 200 voer ontvangen
+1115	Ploegslots ·
+1116	Ploeg nu: aanval +
+1117	, leven +
+1118	, verdediging +
+1119	, crit +
+1120	(met huisdieren en vleugels)
+1121	, snelheid +
+1122	· lv.
+1123	Afdoen
+1124	Uitrusten
+1125	<span style="color:#ff9a7a;font-size:12px">Betaalde evenementen</span>
+1126	Alle 4 slots zijn bezet: doe eerst een artefact af
+1127	Niet genoeg artefactstof
+1128	stof. Stof: van bazen, de arena en de Legenderoulette
+1129	stof?
+1130	Artefact gemaakt
+1131	Roulette
+1132	Puzzel
+1133	Legendepad
+1134	Pakketten
+1135	Betaalde evenementen · voor goud
+1136	Legendescherven bestaan alleen hier.
+1137	scherven: een LR-held bij het Altaar. Goud:
+1138	Legendescherven
+1139	Essentie
+1140	Veren
+1141	Voer
+1142	Stof
+1143	Godd. ess.
+1144	Oer. spl.
+1145	Ei
+1146	Verh.-st.
+1147	Goud
+1148	Legenderoulette
+1149	Garantie: 50 Legendescherven over
+1150	draaien
+1151	Draaien
+1152	LEG.
+1153	ESS.
+1154	VEER
+1155	VOER
+1156	STOF
+1157	GODD.
+1158	OER.
+1159	EI
+1160	VERH.
+1161	Legenderoulette ×
+1162	Beloningen
+1163	Hemelse puzzel nr.
+1164	Afbeelding:
+1165	(LR). Tegel:
+1166	en een beloning. Rij of kolom:
+1167	Hele afbeelding:
+1168	Afbeelding compleet!
+1169	De volgende puzzel is een nieuwe LR-held.
+1170	Volgende puzzel
+1171	Tegel openen
+1172	Tegel:
+1173	· lijnen ×
+1174	· AFBEELDING COMPLEET!
+1175	over:
+1176	Padpunten:
+1177	Gewoon
+1178	Legendarisch
+1179	Weektaken
+1180	<span class="sp g">Legendarisch pad ontgrendeld</span>
+1181	Ontgrendelen
+1182	Legendarisch pad ontgrendelen
+1183	Legendarisch pad ontgrendeld
+1184	Padbeloning ontvangen
+1185	Heb je al
+1186	Pakket ontvangen
+1187	De Oerwezens zijn LR-helden, de sterkste in het spel. Ontgrendel een held:
+1188	. Zodra je de held hebt, worden Legendescherven 1:1 zijn scherven, voor de sterrensamensmelting.
+1189	+10 sch.
+1190	Held ontgrendelen: «
+1191	Legendescherven?
+1192	voegt zich bij de ploeg der legenden!
+1193	+10 heldenscherven
+1194	Overslaan
+1195	· tik om verder te gaan
+1196	voor het gevecht
+1197	gelezen
+1198	Verder
+1199	Ontgrendeld:
+1200	Hoofdstuk overgeslagen. Je kunt het in de Kroniek lezen: lezen levert een beloning op en het verhaal ontgrendelt nieuwe systemen
+1201	Het verhaal kan worden overgeslagen, maar elk gelezen hoofdstuk geeft een beloning, en hoofdstukken 2, 3, 4, 6 en 10 ontgrendelen huisdieren, vleugels, artefacten en goddelijke en oeroude uitrusting.
+1202	· ontgrendelt:
+1203	Opnieuw lezen
+1204	Betaalde evenementen
+1205	[Tutorial
+1206	Klaar! Tik om de beloning op te halen
+1207	Tutorial: «
+1208	<span class="mute" style="font-size:12px">Bezig</span>
+1209	Prestatie «
+1210	» ontgrendeld
+1211	Brieven van de Troon: cadeaus, compensaties en nieuws over updates.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Alles ophalen</button>
+1213	<p class="mute">Geen brieven.</p>
+1214	Cadeau uit de brief ontvangen
+1215	Brieven opgehaald:
+1216	Terwijl je weg was
+1217	min
+1218	Je ploeg vocht in etappe
+1219	. De opslag is vol: log vaker in om niets te verliezen
+1220	Weekend: zilver en EXP ×1,5.
+1221	Versie
+1222	De volledige lijst met wijzigingen staat in het CHANGELOG-bestand van het project.
+1223	Begrepen
+1224	<button class="btn jade" data-act="mail">Post openen</button>
+1244	Foutenlogboek
+1245	Als het spel zich vreemd gedroeg, stuur deze tekst naar de ontwikkelaar.
+1246	Het spel verlaten? De voortgang is opgeslagen.
+1247	Overslaan
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Helden met 21★ verzamelen geen scherven meer: duplicaten worden goud.</p>
+1250	Leider
+1251	Deze code is ouder dan de voortgang van dit personage op dit apparaat; voortgang terugdraaien is niet toegestaan
+1252	Inloggen per server: kies je personage bij het opstarten, tot 4 personages op EU · Europa, Server 1
+1253	Automatisch opslaan per personage, reservekopie en overzetten met een code
+1254	20 talen: standaard Engels, Oekraïens, Pools, Russisch en 16 meer
+1255	Beveiliging: versleutelde en ondertekende opslag, geen terugdraaien met een oude code, bescherming tegen klokverstelling
+1256	Interfacecorrecties voor lange namen in verschillende talen
+1257	Update 2.3: Servers en talen

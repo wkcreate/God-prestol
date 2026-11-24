@@ -1,0 +1,20 @@
+{
+  "appId": "com.vantastack.celestialthrone",
+  "appName": "Celestial Throne",
+  "webDir": "www",
+  "backgroundColor": "#05081a",
+  "android": {
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#05081a",
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css"
+    }
+  }
+}

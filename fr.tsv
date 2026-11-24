@@ -1,0 +1,1045 @@
+1	Un problème est survenu. La progression est sauvegardée ; détails dans les Paramètres
+2	Erreur
+3	Forêt
+4	Flamme
+5	Soleil
+6	Vague
+7	Anges
+8	Démons
+9	Guerrier
+10	Mage
+11	Archer
+12	Assassin
+13	Soigneur
+14	Frappe puissante sur la cible, étourdissement et bouclier pour soi
+15	Dégâts à tous les ennemis
+16	Dégâts énormes à l'ennemi le plus blessé
+17	Deux coups critiques garantis sur la rangée arrière
+18	Soigne toute l'équipe et donne un bouclier
+19	se soigne de 10 %
+20	brûle les cibles pendant 2 tours
+21	dégâts de compétence +20 %
+22	ralentit les cibles
+23	bouclier pour les alliés
+24	vol de vie de 30 % des dégâts
+25	Gardien du Trône
+26	Tient la première ligne : beaucoup de vie et de défense, étourdit les ennemis.
+27	Faille céleste
+28	Astrologue
+29	Fait tomber les étoiles sur tous les ennemis à la fois.
+30	Pluie d'étoiles
+31	Rôdeuse lunaire
+32	Achève les ennemis blessés par des tirs précis.
+33	Flèche lunaire
+34	Lame de l'éclipse
+35	Perce jusqu'à la rangée arrière et frappe en critique.
+36	Danse des ombres
+38	Gardienne des racines
+39	Floraison de vie
+41	Pisteur sylvestre
+42	Bourrasque de feuilles
+44	Sentinelle de pierre
+45	Coup de rocher
+47	Murmure des branches
+48	Tempête de spores
+50	Ombre épineuse
+51	Tourbillon d'épines
+52	Dame Saule
+53	Cœur de la Forêt ancestrale
+54	Colère des mille racines
+56	Apprenti du feu
+57	Boule de feu
+59	Forgeron de guerre
+60	Marteau ardent
+62	Tueuse des cendres
+63	Trait de cendre
+65	Flèche du couchant
+66	Salve ardente
+68	Le Ressuscité
+69	Aile de phénix
+70	Empereur Ragnar
+71	Seigneur de la flamme
+72	Éruption
+74	Archer solaire
+75	Reflet
+77	Chanteuse de l'aube
+78	Hymne au soleil
+80	Bouclier du désert
+81	Rugissement du lion
+83	Œil du zénith
+84	Lance solaire
+86	Lame de l'aube
+87	Rayon tranchant
+88	Amaria
+89	Visage de soleil
+90	Miracle de midi
+92	Vague paisible
+93	Éclaboussure
+95	Vierge de la source
+96	Eau vive
+98	Archer de la tempête
+99	Coup de tonnerre
+101	Sorcière des mers
+102	Tourbillon
+104	Gardien de la marée
+105	La neuvième vague
+106	Néria
+107	Princesse du Léviathan
+108	Appel des profondeurs
+110	Chérubin
+111	Plume d'espoir
+112	Séraphine
+113	Archère des cieux
+114	Flèche de lumière
+116	Épée de la loi
+117	Verdict
+119	Épée flamboyante
+120	Châtiment céleste
+121	Gabriel
+122	Voix du ciel
+123	Appel de la trompette
+124	Lumina
+125	Trône de lumière
+126	Sanctuaire
+128	Diablotin farceur
+129	Morsure sournoise
+130	Lilith
+131	Reine de la nuit
+132	Charme de l'abîme
+134	Bourreau des enfers
+135	Chaînes du tourment
+137	Chasseuse d'âmes
+138	Flèche de souillure
+139	Azaël
+140	Ange déchu
+141	Éclipse
+143	Seigneur de l'Abîme
+144	Fin du monde
+145	Gaïa
+146	Mère de tout ce qui vit
+147	Cœur du monde
+148	Surt
+149	Le dernier feu
+150	Ragnarök
+151	Hélios
+152	Soleil au-dessus du Trône
+153	Char du Soleil
+154	Okéana
+155	Aïeule des eaux
+156	Le Grand Déluge
+157	Métatron
+158	Voix du Trône
+159	Trône céleste
+160	Nyx
+161	La première nuit
+162	Nuit éternelle
+163	Vagabond des cieux
+164	Loup de mer
+165	Chevalier de la rose
+166	Sakura
+167	Faucheur citrouille
+168	Fête d'hiver
+169	Prince de glace
+170	Cyber-samouraï
+171	Empereur de jade
+172	Voyageur stellaire
+173	Démon du néant
+174	Ange de l'aube
+175	Slime
+176	Loup lunaire
+177	Gobelin
+178	Tréant
+179	Diablotin
+180	Golem
+181	Squelette
+182	Spectre
+183	Serpent
+184	Dragon
+185	Vallée de jade
+186	Roi des slimes
+187	Fourré crépusculaire
+188	Tréant ermite
+189	Terres de cendre
+190	Golem de cendre
+191	Grottes azur
+192	Serpent de mer Irr
+193	Temple du Soleil
+194	Gardien obélisque
+195	Col gelé
+196	Dragon de givre
+197	Cité des ombres
+198	Régent des ombres
+199	Jardins des anges
+200	Serpent blanc Eir
+201	Faille de l'Abîme
+202	Dévoreur d'étoiles
+203	Trône céleste
+204	Empereur déchu
+205	Marais scintillants
+206	Dame des marais
+207	Forges de feu
+208	Forgeron de Surt
+209	Archipel céleste
+210	Gardien des vents
+211	Sables de l'oubli
+212	Pharaon des sables
+213	Grottes de cristal
+214	Dragon de cristal
+215	Forêt des esprits
+216	Arbre de Gaïa
+217	Citadelle pourpre
+218	Seigneur pourpre
+219	Observatoire stellaire
+220	Astrologue de l'Abîme
+221	Salles de la Nuit
+222	Ombre de Nyx
+223	Portes des Primordiaux
+224	Cœur de l'Abîme
+225	Invocation stellaire
+226	Parchemins d'invocation ordinaires. Chance de SSR : 5 %.
+227	Invocation céleste
+228	La seule invocation avec des héros USR. USR garanti en 90 invocations.
+229	Coupons du Destin
+230	UR et plus uniquement. La seule source de héros SSR+. SSR+ garanti en 40 invocations.
+231	80 k d'argent
+232	2 parchemins
+233	40 k d'EXP
+234	120 d'or
+235	2 jetons
+236	Coupon
+237	Fragments SSR
+238	Apparence
+239	Héros SSR
+240	Héros USR
+241	Gagnez 3 combats
+242	Invoquez 2 fois
+243	Tournez la Roue des Cieux
+244	Montez des héros de niveau 5 fois
+245	Récupérez le butin
+246	Combattez dans l'arène
+290	Premiers pas
+291	Terminez l'étape 1-10
+292	Conquérant de la vallée
+293	Terminez le chapitre 1
+294	Voix des terres désolées
+295	Terminez le chapitre 3
+296	Lumière du temple
+297	Terminez le chapitre 5
+298	Terminez le chapitre 10
+299	Escouade au complet
+300	Réunissez 5 héros
+301	Collectionneur
+302	Réunissez 12 héros
+303	Chroniqueur
+304	Réunissez 24 héros
+305	Élu des cieux
+306	Obtenez un héros USR
+307	Appel des étoiles
+308	Invoquez 50 fois
+309	Maître de l'invocation
+310	Invoquez 200 fois
+311	Aguerri
+312	Héros principal niveau 50
+313	Légende
+314	Héros principal niveau 100
+315	Quatre étoiles
+316	Montez un héros à 4★
+317	Limite de puissance
+318	Montez un héros à 6★
+319	Gladiateur
+320	10 victoires dans l'arène
+321	Ligue d'or
+322	Atteignez un classement de 1400
+323	Coude à coude
+324	Rejoignez une alliance
+325	Fléau de l'Abîme
+326	Terminez 30 paliers de l'événement
+327	Écraseur
+328	Infligez 100 000 dégâts en un coup
+329	Escouade inébranlable
+330	Puissance d'escouade 500 000
+331	Fidélité
+332	Connectez-vous 7 jours
+333	Étoile rouge
+334	Montez un héros à 11★
+335	Fusion
+336	Montez un héros à 21★
+337	Une légende s'éveille
+338	Obtenez un héros LR
+339	Cavalier
+340	Obtenez un familier
+341	Sur des ailes
+342	Obtenez des ailes
+343	Ascension
+344	Faites ascensionner un héros à R1
+345	Zénith
+346	Atteignez le Zénith
+347	Chroniqueur du Trône
+348	Lisez 10 chapitres de l'histoire
+349	Forgeron
+350	Améliorez l'équipement en qualité Rare
+351	Invoquez un héros
+352	Invocation → Étoiles → ×10
+353	Gagnez l'étape 1-1
+354	Touchez «Combattre»
+355	Montez un héros de niveau
+356	Héros → choisissez un héros → Niveau
+357	Coffre en bas à droite
+358	Terminez l'étape 1-5
+359	Plus l'étape est loin, plus le butin est grand
+360	Une alliance débloque le Titan et la Guerre de clans
+361	Bienvenue au Trône
+363	Mise à jour 2.1
+365	Mise à jour 2.2 : l'Ère des Légendes
+367	Dorées
+368	Roses
+369	Rouges
+370	Violettes
+371	Commun
+372	Rare
+373	Épique
+374	Légendaire
+375	Mythique
+376	Céleste
+377	Arme
+378	Armure
+379	Casque
+380	Amulette
+381	Lame divine
+382	Égide divine
+383	Relique ancestrale
+384	Couronne ancestrale
+385	Luna, la louve lunaire
+386	Loup de jade
+387	Serpent céleste
+388	Dragonnet de feu
+389	Dragon de glace
+390	Dragon stellaire
+391	Ailes de l'aube
+392	Ailes de l'abîme
+393	Ailes de phénix
+394	Ailes de glace
+395	Ailes de jade
+396	Ailes stellaires
+397	Ailes du Trône
+398	Larme du Léviathan
+399	vie et défense
+400	Croc de l'Abîme
+401	attaque
+402	Cœur de phénix
+403	vie
+404	Miroir lunaire
+405	défense
+406	Œil du Trône
+407	chance de critique
+408	Sablier
+409	vitesse
+410	Couronne de l'aube
+411	attaque et vie
+412	Graal des Légendes
+413	attaque, vie, critique
+414	Familiers
+415	Ailes
+416	Artefacts
+417	Équipement divin
+418	Équipement ancestral
+419	Combats gagnés
+420	Invocations de héros
+421	Montées de niveau
+422	Récolte du butin
+423	Combats d'arène
+424	Tours de la Roulette des Légendes
+425	Cases du Puzzle céleste
+426	Pack Légende
+427	Pack Ascension
+428	Pack Cavalier
+429	Plumes et Poussière
+430	Ailes du Trône (LR)
+431	Graal des Légendes (LR)
+432	Dragon stellaire (LR)
+433	Héraut de l'Abîme
+434	Luna
+483	L'Ère des Légendes
+549	Trône
+555	EU · Europe
+556	Serveur 1
+557	NA · Amérique
+558	Bientôt
+559	ASIA · Asie
+560	Argent
+561	Or
+562	Parchemin d'invocation
+563	Coupon du Destin
+564	Jeton de Roue
+565	EXP de héros
+566	Pièces d'alliance
+567	Marques d'arène
+568	Points de talent
+569	Fragments USR
+570	Minerai
+571	Essence divine
+572	Éclats ancestraux
+573	Fragments de Légende
+574	Essence stellaire
+575	Œuf de familier
+576	Nourriture de familier
+577	Plumes
+578	Poussière d'artefact
+579	Pierres d'ascension
+580	Héros
+581	La sauvegarde principale est endommagée ou modifiée ; progression restaurée depuis la copie
+582	Niv.
+583	Nouveau héros :
+584	+10 fragments :
+585	Apparence :
+586	200 d'or (vous avez déjà toutes les apparences)
+587	Fragments de héros
+588	Bronze
+589	Platine
+590	Diamant
+591	Céleste
+592	Chapitre
+593	Ancien
+594	Membre
+595	Invasion de l'Abîme
+596	Héraut de l'Abîme ·
+597	Combat !
+598	Étourdi
+599	Étourdissement
+600	Boss !
+601	Compétence
+602	Pause
+603	Touchez ▶ pour continuer
+604	Compétence :
+605	Coup le plus fort :
+606	· tours
+607	Victoire
+608	Temps écoulé
+609	Défaite
+610	<p class="mute" style="font-size:12.5px">Le combat a duré trop longtemps. Il faut plus de dégâts : montez le niveau de vos héros offensifs.</p>
+611	Étape suivante dans
+612	s
+613	Stop
+614	Quitter
+615	Progression automatique des étapes
+616	Pas assez d'or : il faut
+617	, vous avez
+618	. Ouvrir la boutique ?
+619	Vers la boutique
+620	Pas assez :
+621	pour
+622	d'or ?
+623	Confirmer
+624	Fermer
+625	Annuler
+626	Oui
+627	21★ : fusion
+628	FUSION
+629	HÉROS
+630	Une étoile peut être montée
+631	<span class="mute">Non obtenu</span>
+632	Héros
+633	Personnage
+634	Campagne
+635	Invocation
+636	Alliance
+637	Boutique
+638	Événements
+639	Arène
+640	Acheter de l'or
+641	Combat
+642	Monde
+643	a invoqué
+644	a terminé le chapitre «
+645	Le Titan d'alliance faiblit, tous à l'attaque !
+646	Système
+647	L'événement «
+648	» dure toute la semaine
+649	cherche une alliance, puissance
+650	Paramètres
+651	Courrier
+652	Palier
+653	/30 · restant :
+654	j
+655	Roulette · puzzle · héros LR
+656	[Histoire]
+657	Étape
+658	Terminez le chapitre «
+659	sur
+660	h
+661	Combattre
+662	Résonance «
+663	Connexion
+664	Quotidien
+665	Succès
+666	Invoquer un héros
+667	Roue des Cieux
+668	· boss
+669	[Chronique]
+670	Débloque :
+671	Lisez-le : récompense du chapitre
+672	[Quotidien]
+673	Toutes les tâches sont faites
+674	Récupérez les coffres
+675	[Alliance]
+676	Titan, guerre de clans, boutique
+677	Pointez à l'alliance
+678	+150 Pièces d'alliance
+679	Réserve pleine
+680	Butin
+681	Butin rapide
+682	Rapide · 60
+683	Butin :
+684	Pas assez d'or
+685	Butin rapide :
+686	argent
+687	Collection
+688	Escouade
+689	Obtenus
+690	Trier :
+691	Tous
+692	Toute rareté
+693	puissance
+694	rareté
+695	niveau
+696	faction
+697	Masquer les absents
+698	Tout afficher
+699	Vide
+700	Formation de combat
+701	Puissance
+702	Rangée avant
+703	Rangée arrière
+704	Auto
+705	Améliorer toute l'escouade
+706	L'EXP et l'argent sont partagés à parts égales : le héros le plus faible progresse en premier.
+707	Avantage de faction · +25 % de dégâts
+708	Les guerriers avancent et encaissent les coups. Les assassins percent jusqu'à la rangée arrière ennemie. La rangée arrière est protégée tant que l'avant tient.
+709	% de vie et d'attaque
+710	Résonance : 3 héros d'une faction donnent +8 %, 4 héros, +15 %
+711	Escouade formée par puissance
+712	Pas assez d'EXP ou d'argent, ou tous les héros sont au niveau maximal
+713	Escouade améliorée : +
+714	niv., puissance +
+715	Position
+716	rangée
+717	Choisissez un héros. S'il est déjà dans l'escouade, les héros échangeront leur place.
+718	avant
+719	arrière
+720	Retirer
+721	Le héros principal est toujours dans l'escouade
+722	Autel des Légendes : contre des Fragments de Légende des événements payants
+723	Invocation céleste, Roue des Cieux et Boutique d'alliance
+724	toute invocation et la Roue des Cieux
+725	Compétence «
+726	Où l'obtenir :
+727	Héros précédent
+728	Héros suivant
+729	Puissance :
+730	Puissance de faction
+731	Talents
+732	Vie
+733	Attaque
+734	Défense
+735	Vitesse · critique
+736	Dans l'escouade
+737	Aperçu
+738	Équipement
+739	Étoiles
+740	. Puissance de faction «
+741	Les niveaux de Zénith demandent des Pierres d'ascension
+742	Pas assez d'EXP ou d'argent
+743	niv. · puissance +
+744	L'escouade est pleine : remplacez un héros dans l'onglet «Escouade»
+745	BASE
+746	<span class="tag">ÉQUIPÉ</span>
+747	% à tout
+748	Aucun bonus
+749	<span class="g">Obtenu</span>
+750	Événement de la semaine
+751	Puissance du Trône
+752	+1,5 % d'attaque
+753	Chair céleste
+754	+1,5 % de vie
+755	Œil de faucon
+756	+0,2 % de critique
+757	Apparences
+758	. Tous les 25 niveaux, une nouvelle étoile ; à R1, fusion (21★). Le plafond de niveau augmente avec les chapitres.
+759	Classe
+760	Apparences
+761	Une apparence change entièrement le look et donne un bonus à toutes les stats : R +1 %, UR +1,5 %, SSR +2 %, SSR+ +3 %, USR +5 %.
+762	points
+763	Des points de talent sont donnés pour chaque étape terminée.
+764	Changement :
+765	Premier changement gratuit
+766	par niveau
+767	Croissance
+768	Talent +
+769	Il faut un point de talent et de l'argent
+770	Nouvelle classe :
+771	Changer de classe pour «
+772	Le niveau, les apparences et les talents sont conservés.
+773	Coût : 500 d'or.
+774	Le premier changement est gratuit.
+775	Changer
+776	Apparence «
+777	» équipée
+778	Cette apparence s'obtient à la Roue des Cieux
+779	Cette apparence est le grand prix de l'événement «
+780	Acheter l'apparence «
+781	» pour
+782	Apparence obtenue et équipée
+783	Acheter
+784	Oui
+785	Non
+786	Language · Langue
+787	Nom du héros
+788	Enregistrer
+789	Graphismes
+790	Statistiques
+791	Combats
+792	Victoires en campagne
+793	Invocations
+794	Héros USR
+795	Coup le plus fort
+796	Jours de jeu
+797	Sauvegarde
+798	La progression est sauvegardée sur l'appareil automatiquement : toutes les 15 secondes et à la mise en arrière-plan. Le code ci-dessous la transfère vers un autre appareil.
+799	Collez un code de sauvegarde
+800	Afficher mon code
+801	Copier
+802	Charger le code
+803	Nouveautés
+804	Confidentialité
+805	Conditions
+806	Changer de personnage
+807	Supprimer le personnage
+808	Trône céleste · version
+809	Effets sonores
+810	Musique
+811	Vibration
+812	Élevée
+813	Économie de batterie
+814	Journal d'erreurs (
+815	La qualité graphique changera après un redémarrage. Redémarrer maintenant ?
+816	Redémarrer
+817	Saisissez un nom
+818	Code copié
+819	Sélectionnez et copiez le code manuellement
+820	Sauvegarde chargée
+821	Le code n'a pas fonctionné : vérifiez qu'il a été copié en entier
+822	Supprimer ce personnage et toute sa progression ? C'est irréversible.
+823	Supprimer
+824	Chroniques des Célestes
+825	Le Trône est vide et l'Abîme s'élève jusqu'aux étoiles. Choisissez la voie de votre héros.
+826	Compétence : «
+827	Par exemple, Aelita
+828	Commencer l'aventure
+829	Vers les personnages
+830	Vagabond
+831	Bienvenue,
+832	Votre escouade compte déjà trois héros. Vous avez 10 parchemins : la première invocation ×10 garantit un héros SSR.
+833	Vers l'invocation
+834	aujourd'hui
+835	hier
+836	j. passés
+837	Choisissez un personnage
+838	Aucun personnage sur ce serveur pour l'instant
+839	Nouveau personnage
+840	Emplacements libres :
+841	Entrer dans le jeu
+842	La sauvegarde a été modifiée manuellement et n'a pas passé le contrôle d'authenticité. Restaurez votre progression avec un code de sauvegarde
+843	Impossible de charger le personnage
+844	Tous les emplacements sont pris
+845	Supprimer le personnage «
+846	» pour toujours ? La progression ne pourra pas être récupérée.
+847	Personnage supprimé
+848	Serveur
+849	Pour l'instant le jeu fonctionne hors ligne : les personnages sont stockés sur cet appareil. D'autres régions ouvriront avec le mode en ligne.
+850	Language · Langue
+851	Ennemis
+852	· escouade
+853	Par chapitre
+854	Progression auto
+855	Épreuves
+856	· Boss
+857	Ennemis :
+858	· forts contre eux :
+859	Chronique
+860	Chapitre disponible :
+861	Lire
+862	chapitres
+863	· classement
+864	· tickets
+865	/30 · tentatives
+866	/5 · grand prix : apparence USR
+867	Titan d'alliance
+868	Niveau
+869	· tentatives
+870	Rejoignez une alliance pour débloquer le Titan et la Guerre de clans
+871	Tous les chapitres sont terminés. De nouveaux arriveront dans une mise à jour
+872	Formez une escouade
+873	terminé !
+874	Récompense
+875	Étape suivante
+876	Renforcez votre escouade : montez les niveaux et les étoiles des héros ou invoquez-en de nouveaux. L'ordre de l'escouade compte aussi.
+877	Encore
+878	Améliorer l'escouade
+879	Progression auto activée : l'étape suivante démarrera seule
+880	Progression auto désactivée
+881	Ligue
+882	victoires ·
+883	défaites
+884	Tickets :
+885	+1 ticket
+886	Récompense quotidienne de ligue
+887	Boutique d'arène
+888	Reçu
+889	Récupérer
+890	Classement
+891	· puissance
+892	Combattre
+893	Acheter un ticket
+894	Récompense de la ligue «
+895	» reçue
+896	Plus de tickets : de nouveaux demain
+897	Arène ·
+898	Vers l'arène
+899	Classement −8 →
+900	Tous les événements
+901	Activités
+902	30 paliers de démons de l'Abîme · apparence USR
+903	Restant :
+904	Événements payants : roulette, puzzle, voie
+905	Fragments de Légende :
+906	· héros LR :
+907	Semaine
+908	Héros de la semaine :
+909	Garantie USR :
+910	Grand prix : un héros USR
+911	Tour gratuit disponible
+912	Jetons :
+913	Combats contre des escouades rivales
+914	Boss commun de l'alliance
+915	Débloqué après avoir rejoint une alliance
+916	Guerre de clans
+917	Bataille hebdomadaire pour le classement
+918	Place
+919	Lun–Dim
+920	Récompenses de connexion
+921	Connectez-vous chaque jour : le septième jour, un pack de Coupons du Destin.
+922	Jour
+923	<span style="color:var(--good);font-size:12px">Reçu</span>
+924	Récupérer la récompense du jour
+925	Revenez demain
+926	Récompense de connexion reçue
+927	Tâches du jour
+928	/120 points
+929	Coffre ouvert
+930	Apparence «Démon du néant» USR
+931	Les démons de l'Abîme assiègent le Trône. Terminez 30 paliers avant la fin de la semaine. Chaque palier est plus fort que le précédent ; la progression est remise à zéro le lundi.
+932	Tentatives aujourd'hui :
+933	Récompenses de palier
+934	Récompense du palier
+935	Combattre ·
+936	<b style="color:var(--good)">Tous les paliers terminés cette semaine</b>
+937	· palier
+938	<p>Vous avez obtenu l'apparence USR «Démon du néant» ! Équipez-la sur l'écran du héros.</p>
+939	Palier suivant
+940	Vers l'événement
+941	<p class="mute">Tentative utilisée. Renforcez votre escouade et revenez.</p>
+942	Rejoignez une alliance pour affronter le Titan d'alliance, combattre d'autres clans et acheter des objets rares à la Boutique d'alliance.
+943	Votre propre alliance
+944	Nom de l'alliance
+945	/40 membres
+946	Rejoindre
+947	Alliance · niveau
+948	EXP d'alliance
+949	· les dégâts comptent pour toute l'alliance
+950	· tickets
+951	Attaquez les défenseurs des clans ennemis. La première victoire contre un clan donne 100 points bonus. Récompenses en fin de semaine.
+952	Membres
+953	(vous)
+954	Boutique d'alliance
+955	Quitter
+956	Pointé
+957	Pointer
+958	Résultats de la Guerre de clans
+959	la semaine dernière
+960	Vous avez rejoint l'alliance «
+961	Saisissez un nom
+962	Alliance «
+963	» fondée
+964	Pointage : +150
+965	Quitter l'alliance ? La progression de la Guerre de clans et du Titan sera perdue.
+966	Titan d'alliance · niv.
+967	Titan vaincu ! +
+968	d'or pour tous les membres
+969	Titan vaincu
+970	Attaque terminée
+971	Dégâts infligés :
+972	Vers l'alliance
+973	Guerre de clans ·
+974	Points de clan :
+975	· place
+976	<p class="mute">Les défenseurs ont tenu. Essayez un clan plus faible.</p>
+977	Céleste
+978	Coupons
+979	Roue
+980	Vous avez :
+981	Historique des invocations
+982	Uniquement UR, SSR et SSR+
+983	Invocation ordinaire
+984	Garantie
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">La première invocation ×10 garantit un héros SSR.</p>
+986	Gratuit
+987	Autel
+988	Derniers
+989	héros. Les chances de chaque invocation sont indiquées sur sa bannière.
+990	<p class="mute">Vide pour l'instant.</p>
+991	Terminé
+992	Encore ×
+993	NOUVEAU
+994	OR
+995	+10 FRAGMENTS
+997	<button class="btn sec" data-act="sumAll">Tout afficher</button>
+998	Tour ·
+999	Grand prix : un héros USR. Garanti en 100 tours.
+1000	Avant la garantie :
+1001	Chances
+1002	CIEL
+1003	Il faut des jetons ou de l'or
+1004	Roue des Cieux ×
+1005	Super
+1006	10 tours (jetons
+1007	, le reste en or)
+1008	Tour
+1009	Il faut un jeton ou 150 d'or
+1010	L'achat d'or arrivera dans une prochaine mise à jour. Pour l'instant, l'or vient des étapes de campagne, du butin, des connexions, des tâches quotidiennes, des succès, du courrier et du cadeau quotidien dans l'onglet «Articles».
+1011	Mode test
+1012	Les paiements ne sont pas connectés : les boutons donnent de l'or gratuitement, aucun argent n'est débité. Avant la sortie sur Google Play et l'App Store, leurs achats intégrés seront branchés ici.
+1013	Montant libre
+1014	De 10 à 100 000 000 d'or. Plus c'est grand, meilleur est le taux.
+1015	Cadeau quotidien
+1016	Demain
+1017	<p class="mute">La boutique ouvre après avoir rejoint une alliance.</p>
+1018	Articles
+1019	10 fragments de héros USR
+1020	Restant cette semaine :
+1021	Une alliance est requise
+1022	Acheter «
+1023	fragments USR
+1024	Achat effectué
+1025	Cadeau quotidien reçu
+1026	Fournisseur de paiement non connecté
+1027	Mode test : +
+1028	d'or sans paiement
+1029	De 10 à 100 000 000
+1030	Débloqué après le chapitre
+1031	» dans la Chronique.
+1032	Le chapitre est déjà disponible : lisez-le.
+1033	Atteignez d'abord le chapitre
+1034	de la campagne.
+1035	Lire
+1036	Plafond maximal atteint : Zénith 100
+1037	R1 · 300 : le Zénith se débloque
+1038	Le plafond de niveau augmente en terminant des chapitres de campagne
+1039	Plafond de niveau
+1040	Plafond
+1041	niv. La prochaine étoile le porte à
+1042	Max
+1043	Niveau :
+1044	Fragments
+1045	Ascension vers
+1046	Monter de niveau
+1047	puissance
+1048	Fusion →
+1049	Requis :
+1050	. Pierres d'ascension : dans les événements payants, la Boutique d'alliance, la Voie de la Légende et sur les boss après l'étape 300
+1051	Ascension vers
+1052	? Les niveaux continueront au nouveau rang, les stats augmenteront.
+1053	Ascension :
+1054	Ascensionner
+1055	FUSION ! Le héros brille de la puissance de 21 étoiles
+1056	Nouveau rang d'étoiles :
+1057	Étoile
+1058	★ · plafond de niveau
+1059	Maximum : 21★
+1060	Pas assez de fragments : il faut
+1061	. Un doublon donne 10, l'Essence stellaire remplace les manquants
+1062	21★ · aura du héros, stats ×1,3, critique +5 %, vitesse +5
+1063	Puissance des étoiles
+1064	Chaque héros en double issu d'une invocation vaut 10 fragments. L'Essence stellaire remplace les fragments manquants (Roulette des Légendes, Puzzle céleste, Voie de la Légende).
+1065	Étoile suivante
+1066	La fusion coûte
+1067	frag.
+1068	Fragments de héros LR : à l'Autel des Légendes.
+1069	critique
+1070	Qualité ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Se débloque à partir du niveau de héros
+1073	(R1 et Zénith comptent comme au-delà de 500).
+1074	Requiert le chapitre
+1075	» dans la Chronique et le niveau de héros
+1076	.
+1077	Équipement principal
+1078	Améliorer tout l'équipement principal
+1079	Pas assez de minerai ou d'argent. Le minerai vient des étapes de campagne et du butin
+1080	Pas assez de minerai ou d'argent, ou tout est au plafond de qualité
+1081	Équipement : +
+1082	Requiert de l'Essence divine et de l'argent
+1083	Requiert des Éclats ancestraux et de l'argent
+1084	Équipé
+1085	Chaque niveau de toutes vos ailes donne à toute l'escouade +0,05 % d'attaque et de vie.
+1086	Aucune
+1087	Héros principal : attaque, vie, défense +
+1088	<span class="tag">ÉQUIPÉ</span>
+1089	<span style="color:#ff9a7a">Événements payants</span>
+1090	Équipées :
+1091	Ces ailes sont dans les packs des événements payants
+1092	Requiert
+1093	plumes. Plumes : Roulette des Légendes, Puzzle, événement de l'Abîme et boutique
+1094	Créer «
+1095	plumes ?
+1096	Ailes créées et équipées
+1097	Créer
+1098	Pas assez de plumes
+1099	Monture
+1100	Les autres familiers donnent à l'escouade 30 % de leur bonus.
+1101	Faire éclore
+1102	Non choisi
+1103	Escouade : attaque et vie +
+1104	, vitesse +3
+1105	<span class="tag">MONTÉ</span>
+1106	D'un œuf
+1107	Familier choisi
+1108	Le Dragon stellaire est dans les packs des événements payants
+1109	Faites éclore des œufs : Chronique, Roulette des Légendes, Voie de la Légende et boutique
+1110	Pas assez de nourriture. Nourriture : butin, Roulette et boutique
+1111	Pas d'œufs
+1112	Éclos de l'œuf
+1113	Nouveau familier !
+1114	Déjà obtenu : 200 de nourriture reçus
+1115	Emplacements d'escouade ·
+1116	Escouade actuelle : attaque +
+1117	, vie +
+1118	, défense +
+1119	, critique +
+1120	(avec familiers et ailes)
+1121	, vitesse +
+1122	· niv.
+1123	Retirer
+1124	Équiper
+1125	<span style="color:#ff9a7a;font-size:12px">Événements payants</span>
+1126	Les 4 emplacements sont pris : retirez d'abord un artefact
+1127	Pas assez de poussière d'artefact
+1128	de poussière. Poussière : boss, arène et Roulette des Légendes
+1129	de poussière ?
+1130	Artefact créé
+1131	Roulette
+1132	Puzzle
+1133	Voie de la Légende
+1134	Packs
+1135	Événements payants · contre de l'or
+1136	Les Fragments de Légende n'existent qu'ici.
+1137	fragments : un héros LR à l'Autel. Or :
+1138	Fragments de Légende
+1139	Essence
+1140	Plumes
+1141	Nourriture
+1142	Poussière
+1143	Ess. div.
+1144	Écl. anc.
+1145	Œuf
+1146	Pier. asc.
+1147	Or
+1148	Roulette des Légendes
+1149	Garantie : 50 Fragments de Légende dans
+1150	tours
+1151	Tourner
+1152	LÉG.
+1153	ESS.
+1154	PLUM.
+1155	NOURR.
+1156	POUSS.
+1157	DIV.
+1158	ANC.
+1159	ŒUF
+1160	ASC.
+1161	Roulette des Légendes ×
+1162	Récompenses
+1163	Puzzle céleste n°
+1164	Image :
+1165	(LR). Case :
+1166	et une récompense. Ligne ou colonne :
+1167	Image entière :
+1168	Image complète !
+1169	Le prochain puzzle est un nouveau héros LR.
+1170	Puzzle suivant
+1171	Ouvrir une case
+1172	Case :
+1173	· lignes ×
+1174	· IMAGE COMPLÈTE !
+1175	restant :
+1176	Points de voie :
+1177	Ordinaire
+1178	Légendaire
+1179	Tâches de la semaine
+1180	<span class="sp g">Voie légendaire débloquée</span>
+1181	Débloquer
+1182	Débloquer la Voie légendaire
+1183	Voie légendaire débloquée
+1184	Récompense de voie reçue
+1185	Déjà obtenu
+1186	Pack reçu
+1187	Les Primordiaux sont des héros LR, les plus puissants du jeu. Débloquez un héros :
+1188	. Une fois le héros obtenu, les Fragments de Légende deviennent ses fragments 1:1, pour la fusion des étoiles.
+1189	+10 frag.
+1190	Débloquer le héros «
+1191	Fragments de Légende ?
+1192	rejoint l'escouade des légendes !
+1193	+10 fragments de héros
+1194	Passer
+1195	· touchez pour continuer
+1196	avant le combat
+1197	lu
+1198	Suivant
+1199	Débloqué :
+1200	Chapitre passé. Vous pouvez le lire dans la Chronique : la lecture donne une récompense et l'histoire débloque de nouveaux systèmes
+1201	L'histoire peut être passée, mais chaque chapitre lu donne une récompense, et les chapitres 2, 3, 4, 6 et 10 débloquent familiers, ailes, artefacts, équipement divin et ancestral.
+1202	· débloque :
+1203	Relire
+1204	Événements payants
+1205	[Tutoriel
+1206	Terminé ! Touchez pour récupérer la récompense
+1207	Tutoriel : «
+1208	<span class="mute" style="font-size:12px">En cours</span>
+1209	Succès «
+1210	» débloqué
+1211	Lettres du Trône : cadeaux, compensations et nouvelles des mises à jour.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Tout récupérer</button>
+1213	<p class="mute">Aucune lettre.</p>
+1214	Cadeau de la lettre reçu
+1215	Lettres récupérées :
+1216	Pendant votre absence
+1217	min
+1218	Votre escouade a combattu à l'étape
+1219	. La réserve est pleine : connectez-vous plus souvent pour ne rien perdre
+1220	Week-end : argent et EXP ×1,5.
+1221	Version
+1222	La liste complète des changements se trouve dans le fichier CHANGELOG du projet.
+1223	Compris
+1224	<button class="btn jade" data-act="mail">Ouvrir le courrier</button>
+1244	Journal d'erreurs
+1245	Si le jeu s'est comporté bizarrement, envoyez ce texte au développeur.
+1246	Quitter le jeu ? La progression est sauvegardée.
+1247	Passer
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Les héros à 21★ n'accumulent plus de fragments : les doublons se transforment en or.</p>
+1250	Chef
+1251	Ce code est plus ancien que la progression du personnage sur cet appareil : le retour en arrière est interdit
+1252	Connexion par serveur : choix du personnage au lancement, jusqu'à 4 personnages sur EU · Europe, Serveur 1
+1253	Sauvegarde automatique de chaque personnage, copie de secours et transfert par code
+1254	20 langues : anglais par défaut, ukrainien, polonais, russe et 16 autres
+1255	Protection : sauvegardes chiffrées et signées, pas de retour en arrière avec un ancien code, protection contre le changement d'heure
+1256	Corrections de l'interface pour les noms longs dans différentes langues
+1257	Mise à jour 2.3 : serveurs et langues

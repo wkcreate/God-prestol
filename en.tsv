@@ -1,0 +1,1249 @@
+1	Something went wrong. Progress is saved — details in Settings
+2	Error
+3	Forest
+4	Flame
+5	Sun
+6	Wave
+7	Angels
+8	Demons
+9	Warrior
+10	Mage
+11	Archer
+12	Assassin
+13	Healer
+14	A mighty strike on the target, stun and a shield for self
+15	Damage to all enemies
+16	Huge damage to the most wounded enemy
+17	Two guaranteed crits on the back row
+18	Heals the whole team and grants a shield
+19	heals self for 10%
+20	burns targets for 2 turns
+21	skill damage +20%
+22	slows targets
+23	shields allies
+24	lifesteal 30% of damage
+25	Throne Guardian
+26	Holds the front line: lots of health and defense, stuns enemies.
+27	Heavenly Rift
+28	Stargazer
+29	Brings the stars down on all enemies at once.
+30	Starfall
+31	Moon Ranger
+32	Finishes off wounded enemies with precise shots.
+33	Moon Arrow
+34	Eclipse Blade
+35	Breaks through to the back row and strikes with crits.
+36	Shadow Dance
+37	Liana
+38	Keeper of Roots
+39	Bloom of Life
+40	Silvan
+41	Forest Tracker
+42	Leaf Squall
+43	Mossy Gron
+44	Stone Warden
+45	Boulder Strike
+46	Elvira
+47	Whisper of Branches
+48	Spore Storm
+49	Thorn
+50	Prickly Shadow
+51	Thorn Whirlwind
+52	Lady Willow
+53	Heart of the Ancient Forest
+54	Wrath of a Thousand Roots
+55	Spark
+56	Fire Apprentice
+57	Fireball
+58	Brandt
+59	Smith of War
+60	Red-Hot Hammer
+61	Ashen Kira
+62	Killer from the Ashes
+63	Ash Stroke
+64	Fire-Haired Rin
+65	Sunset Arrow
+66	Blazing Volley
+67	Arden the Phoenix
+68	The Reborn
+69	Phoenix Wing
+70	Emperor Ragnar
+71	Lord of Flame
+72	Eruption
+73	Tim
+74	Sun Archer
+75	Glint
+76	Saya
+77	Singer of Dawn
+78	Hymn to the Sun
+79	Golden Lion Ato
+80	Shield of the Desert
+81	Lion's Roar
+82	Priestess Ra
+83	Eye of the Zenith
+84	Solar Spear
+85	Iren
+86	Blade of Dawn
+87	Cleaving Ray
+88	Amaria
+89	Sun-Faced
+90	Midday Miracle
+91	Droplet
+92	Quiet Wave
+93	Splash
+94	Naiad Mira
+95	Maiden of the Spring
+96	Living Water
+97	Ulf
+98	Storm Archer
+99	Thunderclap
+100	Undina
+101	Sea Witch
+102	Whirlpool
+103	Korr
+104	Tide Warden
+105	The Ninth Wave
+106	Neria
+107	Princess of the Leviathan
+108	Call of the Deep
+109	Lil
+110	Cherub
+111	Feather of Hope
+112	Seraphima
+113	Archer of Heaven
+114	Arrow of Light
+115	Archon Val
+116	Sword of Law
+117	Verdict
+118	Michaela
+119	Flaming Sword
+120	Heavenly Execution
+121	Gabriel
+122	Voice of Heaven
+123	Trumpet Call
+124	Lumina
+125	Throne of Light
+126	Sanctuary
+127	Skvar
+128	Prankster Imp
+129	Sneaky Bite
+130	Lilith
+131	Queen of the Night
+132	Abyssal Charm
+133	Mortis
+134	Executioner of the Underworld
+135	Chains of Torment
+136	Beliala
+137	Soul Huntress
+138	Arrow of Corruption
+139	Azael
+140	Fallen Angel
+141	Eclipse
+142	Malphas
+143	Lord of the Abyss
+144	End of the World
+145	Gaia
+146	Mother of All Living
+147	Heart of the World
+148	Surtur
+149	The Last Fire
+150	Ragnarök
+151	Helios
+152	Sun above the Throne
+153	Chariot of the Sun
+154	Okeana
+155	Foremother of Waters
+156	The Great Flood
+157	Metatron
+158	Voice of the Throne
+159	Throne of Heaven
+160	Nyx
+161	The First Night
+162	Eternal Night
+163	Wanderer of Heaven
+164	Sea Wolf
+165	Knight of the Rose
+166	Sakura
+167	Pumpkin Reaper
+168	Winter Festival
+169	Ice Prince
+170	Cyber Samurai
+171	Jade Emperor
+172	Star Wanderer
+173	Void Demon
+174	Angel of Dawn
+175	Slime
+176	Moon Wolf
+177	Goblin
+178	Treant
+179	Imp
+180	Golem
+181	Skeleton
+182	Wraith
+183	Serpent
+184	Dragon
+185	Jade Valley
+186	Slime King
+187	Twilight Thicket
+188	Hermit Treant
+189	Ashen Wastes
+190	Ash Golem
+191	Azure Grottoes
+192	Sea Serpent Irr
+193	Temple of the Sun
+194	Obelisk Guardian
+195	Frozen Pass
+196	Hoarfrost Dragon
+197	City of Shadows
+198	Shadow Regent
+199	Gardens of Angels
+200	White Serpent Eir
+201	Abyss Rift
+202	Devourer of Stars
+203	Celestial Throne
+204	Fallen Emperor
+205	Shimmering Marshes
+206	Mistress of the Marsh
+207	Fire Forges
+208	Surtur's Smith
+209	Sky Archipelago
+210	Warden of the Winds
+211	Sands of Oblivion
+212	Pharaoh of the Sands
+213	Crystal Caves
+214	Crystal Dragon
+215	Forest of Spirits
+216	Gaia's Tree
+217	Crimson Citadel
+218	Crimson Lord
+219	Star Observatory
+220	Stargazer of the Abyss
+221	Halls of Night
+222	Shadow of Nyx
+223	Gates of the Primordials
+224	Heart of the Abyss
+225	Star Summon
+226	Regular summon scrolls. SSR chance — 5%.
+227	Celestial Summon
+228	The only summon with USR heroes. Guaranteed USR within 90 summons.
+229	Fate Coupons
+230	UR and above only. The only source of SSR+ heroes. Guaranteed SSR+ within 40 summons.
+231	80K silver
+232	2 scrolls
+233	40K EXP
+234	120 gold
+235	2 tokens
+236	Coupon
+237	SSR shards
+238	Skin
+239	SSR hero
+240	USR hero
+241	Win 3 battles
+242	Summon 2 times
+243	Spin the Wheel of Heavens
+244	Level up heroes 5 times
+245	Collect loot
+246	Fight in the arena
+247	Aelita
+248	Veylin
+249	Ragnir
+250	Xiao Long
+251	Tiamat
+252	Miroslav
+253	Eira
+254	Kai
+255	Velena
+256	Loren
+257	Hayato
+258	Ingvar
+259	Celeste
+260	Darion
+261	Yuna
+262	Oberin
+263	Zlata
+264	Ares
+265	Nika
+266	Targon
+267	Order of Dawn
+268	Celestial Blade
+269	Children of the Abyss
+270	Lunar Court
+271	Throne Guardians
+272	Ashen Legion
+273	Star Path
+274	Seven Winds
+275	Raven Clan
+276	Jade Clan
+277	Thunder Clan
+278	Ash Clan
+279	Sakura Clan
+280	Ice Clan
+281	Sun Clan
+282	Shadow Clan
+290	First Steps
+291	Clear stage 1-10
+292	Valley Conqueror
+293	Clear chapter 1
+294	Voice of the Wastes
+295	Clear chapter 3
+296	Light of the Temple
+297	Clear chapter 5
+298	Clear chapter 10
+299	Full Squad
+300	Collect 5 heroes
+301	Collector
+302	Collect 12 heroes
+303	Chronicler
+304	Collect 24 heroes
+305	Chosen of Heaven
+306	Get a USR hero
+307	Call of the Stars
+308	Summon 50 times
+309	Lord of Summoning
+310	Summon 200 times
+311	Battle-Hardened
+312	Main hero level 50
+313	Legend
+314	Main hero level 100
+315	Four Stars
+316	Raise a hero to 4★
+317	Limit of Power
+318	Raise a hero to 6★
+319	Gladiator
+320	10 arena wins
+321	Gold League
+322	Reach a rating of 1400
+323	Shoulder to Shoulder
+324	Join a guild
+325	Bane of the Abyss
+326	Clear 30 event tiers
+327	Crusher
+328	Deal 100,000 damage in one hit
+329	Unbreakable Squad
+330	Squad power 500,000
+331	Loyalty
+332	Log in for 7 days
+333	Red Star
+334	Raise a hero to 11★
+335	Fusion
+336	Raise a hero to 21★
+337	A Legend Awakens
+338	Get an LR hero
+339	Rider
+340	Get a pet
+341	On Wings
+342	Get wings
+343	Ascension
+344	Ascend a hero to R1
+345	Zenith
+346	Reach Zenith
+347	Chronicler of the Throne
+348	Complete 10 story chapters
+349	Blacksmith
+350	Upgrade gear to Rare quality
+351	Summon a hero
+352	Summon → Stars → ×10
+353	Win stage 1-1
+354	Tap «Fight»
+355	Level up a hero
+356	Heroes → pick a hero → Level
+357	Chest at the bottom right
+358	Clear stage 1-5
+359	The further the stage, the bigger the loot
+360	A guild unlocks the Titan and the Clan War
+361	Welcome to the Throne
+362	Wanderer, the Heavens have waited for you. Accept these gifts for the road and gather a squad worthy of the Throne.
+363	Update 2.1
+364	The game now has achievements, mail, a tutorial, auto-progress and dozens of other improvements. Thank you for playing!
+365	Update 2.2: Age of Legends
+366	Stars up to 21, Ascension R1 and Zenith, LR heroes, pets, wings, artifacts, gear, a story and 10 new chapters. Open the «Chronicle» on the campaign screen — the story unlocks new systems.
+367	Gold
+368	Pink
+369	Red
+370	Violet
+371	Common
+372	Rare
+373	Epic
+374	Legendary
+375	Mythic
+376	Celestial
+377	Weapon
+378	Armor
+379	Helmet
+380	Amulet
+381	Divine Blade
+382	Divine Aegis
+383	Ancient Relic
+384	Ancient Crown
+385	Luna, the Moon Wolf
+386	Jade Wolf
+387	Sky Serpent
+388	Fire Drakeling
+389	Ice Dragon
+390	Star Dragon
+391	Wings of Dawn
+392	Wings of the Abyss
+393	Phoenix Wings
+394	Ice Wings
+395	Jade Wings
+396	Star Wings
+397	Wings of the Throne
+398	Tear of the Leviathan
+399	health and defense
+400	Fang of the Abyss
+401	attack
+402	Heart of the Phoenix
+403	health
+404	Lunar Mirror
+405	defense
+406	Eye of the Throne
+407	crit chance
+408	Hourglass
+409	speed
+410	Crown of Dawn
+411	attack and health
+412	Grail of Legends
+413	attack, health, crit
+414	Pets
+415	Wings
+416	Artifacts
+417	Divine gear
+418	Ancient gear
+419	Battle wins
+420	Hero summons
+421	Level-ups
+422	Loot collection
+423	Arena battles
+424	Legend Roulette spins
+425	Celestial Puzzle tiles
+426	Legend Pack
+427	Ascension Pack
+428	Rider Pack
+429	Feathers and Dust
+430	Wings of the Throne (LR)
+431	Grail of Legends (LR)
+432	Star Dragon (LR)
+433	Herald of the Abyss
+434	Luna
+435	Awakening
+436	{name}, can you hear me? The Throne has been empty for a hundred years — and today the Abyss has risen to the very clouds.
+437	Where am I?.. I only remember light and a voice calling my name.
+438	You are the last one touched by the light of the Throne. As long as you live, the Heavens have a defender.
+439	Another hero? The Abyss has swallowed better than you. The valley will be the first to fall.
+440	Don't listen to him. Gather a squad — together we will return the light to the Throne.
+441	The Slime King is only my first servant. Let's see how you handle him.
+442	Moon Trail
+443	The thicket is sick. The roots whisper of a darkness drinking their sap.
+444	We will find the source, my Lady.
+445	Then take him with you. The Moon Wolf has lost his pack — now you are his pack.
+446	Awoooo!
+447	Your pet will be at your side in every battle. Feed him — and he will grow stronger along with your squad.
+448	The wastes burn, yet my forges have gone cold. The Abyss has stolen fire from the flame itself!
+449	Then we will bring it back, Emperor.
+450	Hm. In the ruins of the forge lie wings forged for a hero of the Throne. Too small for me — take them.
+451	The Wings of Dawn! They remember the first defender of the Heavens. Feathers will make them stronger.
+452	Hush... The grottoes are listening. The sea serpent Irr has gone mad from the whispers of the Abyss.
+453	We will free him, princess.
+454	Take this tear. The Leviathan shed it when the Throne fell. Ancient things hold the power of whole ages.
+455	This is an artifact. Let your squad carry artifacts — and every warrior will grow sturdier.
+456	Seven Keys
+457	You came just in time, guardian. The temple keeps a secret: the Throne is locked with seven keys.
+458	And the Abyss is looking for them?
+459	It has already found three. The Obelisk Guardian protects the fourth — don't let it fall.
+460	The keys will come to me on their own. Just like your soul, hero.
+461	Forge of the Gods
+462	Here, in the ice, sleeps the forge of the gods. The divine gear of the first guardians came from it.
+463	Does the Hoarfrost Dragon guard it?
+464	He is its flame. Defeat him — and the forge will wake. Heroes from level 150 will be able to wield divine blades and aegises.
+465	A Deal with Shadow
+466	What a guest... A hero of the Throne in my city. Want an alliance? I don't care for the Abyss either.
+467	Why should I trust the Queen of the Night?
+468	Because the Shadow Regent is an enemy to us both. And after that... we'll see.
+469	Be careful. Lilith always has two faces.
+470	Gabriel's Doubt
+471	The gardens are withering. Perhaps the Heavens deserved to fall, since they failed to protect the Throne?
+472	The Heavens are not a throne. They are those who rise when the throne is empty.
+473	...You speak like the first guardian. Then I will take up my trumpet again and call the angels.
+474	The Rift
+475	You have reached the edge, brother in light. I too once stood here — and took a step down.
+476	Azael... Do you serve the Abyss?
+477	I serve the truth. The Devourer of Stars holds the keys. Defeat him — and you will learn who really sat on the Throne.
+478	Have you come to take my place, guardian?
+479	Yours? You gave the Throne to the Abyss!
+480	I protected it for a thousand years until I understood: the Abyss is the hunger of the Heavens themselves. The ancient gear of the first ages awaits the one who accepts this.
+481	Don't listen! But he is right about one thing: the ancient armor has awakened. It will accept only heroes from level 300.
+482	Show me what your faith is worth!
+483	Age of Legends
+484	The Throne trembled, and the Primordials awoke — legends older than the Heavens and the Abyss.
+485	Child of the Throne. The earth remembers your steps. Help it — and I will help you.
+486	Who are you?
+487	Gaia. Mother of all that grows. The marshes are rotting — find their Mistress and return their sleep.
+488	Surtur's Fire
+489	My fire will end this world when the time comes. But not today — and not by the will of the Abyss.
+490	Surtur... even I bow my head before the Last Fire.
+491	Then fight alongside us.
+492	Defeat my smith — and I will think about it.
+493	Wind over the Sea
+494	The islands fall into the sea one after another. The Abyss drags them to the bottom.
+495	Okeana... foremother of all waters!
+496	Strong waves are born in the deep, child. The Warden of the Winds has gone mad — calm him.
+497	The sun will set over the sands for the last time if the pharaoh awakens his army.
+498	Helios! We thought you had faded.
+499	Light does not fade — it waits. Let the hero's arrows become my rays.
+500	Crystal Song
+501	The caves are singing. Every crystal is a frozen memory of the Throne.
+502	I hear a voice... Was that me?
+503	It was the first guardian. Your soul is older than you think.
+504	My tree is stricken. If it falls, the world will forget how to grow.
+505	My Lady, the forest will give you all its roots!
+506	We will save it.
+507	Remember our deal, hero? Time to pay. The Crimson Lord is my old debt.
+508	And if I refuse?
+509	Then he will come for you himself. Choice is an illusion, darling.
+510	I am the Voice of the Throne. I record every word of the Heavens.
+511	Then tell me: who should sit on the Throne?
+512	The one who can refuse it. The Stargazer of the Abyss knows the answer — he stole my scrolls.
+513	Before light there was night. Before the Throne there was me.
+514	Nyx... mother of darkness. Even the Abyss fears her.
+515	The Abyss is my disobedient child. My shadow got lost in the halls. Bring it back — and the night will be on your side.
+516	You have gathered the legends, hero. But the Heart of the Abyss beats at the very Gates!
+517	This is the last battle of the age. Beyond it — the Throne.
+518	Then let's go. All together.
+519	The Heart of the Abyss cannot be stopped!
+520	Echo of the Valley
+521	The Heart of the Abyss is broken, but the echo of its beats has returned to the old lands.
+522	Then we will walk them again. Only now we are stronger.
+523	Shadows in the Thicket
+524	Darkness has returned to the thicket — more cunning than before. It hides in the roots.
+525	Grrrr!
+526	Luna smells it. Lead the way!
+527	Ash and Steel
+528	The forges burn again! Surtur returned our fire — it's time to forge weapons for the last war.
+529	Forge, Emperor. I will watch.
+530	The Depths
+531	Irr has returned from the depths... but he is no longer himself. The Abyss wears his shape.
+532	Free him, child. The sea will repay you.
+533	False Dawn
+534	The sun rose in the west. It's a trick of the Abyss — it forged the dawn!
+535	No one can forge my light. Shoot, hero, I will guide the arrow.
+536	Frozen Heart
+537	The forge of the gods is freezing. Without it divine gear will fade.
+538	Then we will light it again.
+539	Betrayal
+540	Forgive me, hero. The Abyss offered me more.
+541	I warned you: the queen has two faces.
+542	Then I will keep both eyes open.
+543	Celestial Choir
+544	The angels sing again! Your path has given them back their voice.
+545	The Throne is waiting, guardian. But first — the White Serpent, the last guardian of the gardens.
+546	The Underside
+547	Below lies the underside of the world. That is where the Abyss hides the seventh key.
+548	I will go first. I have fallen there once before.
+549	Throne
+550	You have walked the whole path. Now sit — or refuse, as Metatron said.
+551	I will not sit on the Throne. I will stand beside it — and be its shield.
+552	This is the answer I have waited a thousand years for. From now on you are the Zenith of the Heavens.
+553	{name}... The Heavens shine again.
+554	The last lesson, guardian!
+555	EU · Europe
+556	Server 1
+557	NA · America
+558	Soon
+559	ASIA · Asia
+560	Silver
+561	Gold
+562	Summon Scroll
+563	Fate Coupon
+564	Wheel Token
+565	Hero EXP
+566	Guild Coins
+567	Arena Marks
+568	Talent Points
+569	USR Shards
+570	Ore
+571	Divine Essence
+572	Ancient Shards
+573	Legend Shards
+574	Star Essence
+575	Pet Egg
+576	Pet Food
+577	Feathers
+578	Artifact Dust
+579	Ascension Stones
+580	Hero
+581	The main save is damaged or was modified — progress restored from the backup
+582	Lv.
+583	New hero:
+584	+10 shards:
+585	Skin:
+586	200 gold (you already have all skins)
+587	Hero shards
+588	Bronze
+589	Platinum
+590	Diamond
+591	Celestial
+592	Chapter
+593	Elder
+594	Member
+595	Abyss Invasion
+596	Herald of the Abyss ·
+597	Fight!
+598	Stunned
+599	Stun
+600	Boss!
+601	Skill
+602	Pause
+603	Tap ▶ to continue
+604	Skill:
+605	Strongest hit:
+606	· turns
+607	Victory
+608	Time's up
+609	Defeat
+610	<p class="mute" style="font-size:12.5px">The battle lasted too long. You need more damage: level up your attacking heroes.</p>
+611	Next stage in
+612	s
+613	Stop
+614	Exit
+615	Auto-progress stages
+616	Not enough gold: need
+617	, you have
+618	. Open the shop?
+619	To the shop
+620	Not enough:
+621	for
+622	gold?
+623	Confirm
+624	Close
+625	Cancel
+626	Yes
+627	21★ — fusion
+628	FUSION
+629	HERO
+630	A star can be raised
+631	<span class="mute">Not obtained</span>
+632	Heroes
+633	Character
+634	Campaign
+635	Summon
+636	Guild
+637	Shop
+638	Events
+639	Arena
+640	Buy gold
+641	Battle
+642	World
+643	summoned
+644	cleared the chapter «
+645	The Guild Titan is weakening, everyone attack!
+646	System
+647	Event «
+648	» runs all week
+649	looking for a guild, power
+650	Settings
+651	Mail
+652	Tier
+653	/30 · left:
+654	d.
+655	Roulette · puzzle · LR heroes
+656	[Story]
+657	Stage
+658	Clear the chapter «
+659	of
+660	h
+661	Fight
+662	Resonance «
+663	Login
+664	Daily
+665	Achievements
+666	Summon hero
+667	Wheel of Heavens
+668	· boss
+669	[Chronicle]
+670	Unlocks:
+671	Read it — chapter reward
+672	[Daily]
+673	All tasks completed
+674	Collect the chests
+675	[Guild]
+676	Titan, clan war, shop
+677	Check in at the guild
+678	+150 Guild Coins
+679	Storage full
+680	Loot
+681	Quick loot
+682	Quick · 60
+683	Loot:
+684	Not enough gold
+685	Quick loot:
+686	silver
+687	Collection
+688	Squad
+689	Collected
+690	Sort:
+691	All
+692	Any rarity
+693	power
+694	rarity
+695	level
+696	faction
+697	Hide missing
+698	Show all
+699	Empty
+700	Battle formation
+701	Power
+702	Front row
+703	Back row
+704	Auto
+705	Upgrade the whole squad
+706	EXP and silver are split evenly: the weakest hero grows first.
+707	Faction advantage · +25% damage
+708	Warriors step forward and take the blows. Assassins break through to the enemy back row. The back row is protected while the front row lives.
+709	% to health and attack
+710	Resonance: 3 heroes of one faction give +8%, 4 heroes — +15%
+711	Squad assembled by power
+712	Not enough EXP or silver, or all heroes are at the level cap
+713	Squad upgraded: +
+714	lv., power +
+715	Position
+716	row
+717	Choose a hero. If they are already in the squad, the heroes will swap places.
+718	front
+719	back
+720	Remove
+721	The main hero is always in the squad
+722	Altar of Legends — for Legend Shards from paid events
+723	Celestial Summon, Wheel of Heavens and the Guild Shop
+724	any summon and the Wheel of Heavens
+725	Skill «
+726	Where to find:
+727	Previous hero
+728	Next hero
+729	Power:
+730	Faction power
+731	Talents
+732	Health
+733	Attack
+734	Defense
+735	Speed · crit
+736	To squad
+737	Overview
+738	Gear
+739	Stars
+740	. Faction power «
+741	Zenith levels require Ascension Stones
+742	Not enough EXP or silver
+743	lv. · power +
+744	The squad is full: replace a hero in the «Squad» tab
+745	BASE
+746	<span class="tag">EQUIPPED</span>
+747	% to everything
+748	No bonus
+749	<span class="g">Obtained</span>
+750	Event of the week
+751	Might of the Throne
+752	+1.5% attack
+753	Heavenly Flesh
+754	+1.5% health
+755	Hawk Eye
+756	+0.2% crit
+757	Skins
+758	. Every 25 levels — a new star, at R1 — fusion (21★). The level cap grows with chapters.
+759	Class
+760	Looks
+761	A skin fully changes the look and gives a bonus to all stats: R +1%, UR +1.5%, SSR +2%, SSR+ +3%, USR +5%.
+762	points
+763	Talent points are given for every cleared stage.
+764	Change:
+765	First change is free
+766	per level
+767	Growth
+768	Talent +
+769	Requires a talent point and silver
+770	New class:
+771	Change class to «
+772	Level, skins and talents are kept.
+773	Cost: 500 gold.
+774	The first change is free.
+775	Change
+776	Skin «
+777	» equipped
+778	This skin drops from the Wheel of Heavens
+779	This skin is the grand prize of the event «
+780	Buy skin «
+781	» for
+782	Skin obtained and equipped
+783	Buy
+784	On
+785	Off
+786	Language · Язык
+787	Hero name
+788	Save
+789	Graphics
+790	Statistics
+791	Battles
+792	Campaign wins
+793	Summons
+794	USR heroes
+795	Strongest hit
+796	Days in game
+797	Save
+798	Progress is saved on the device automatically: every 15 seconds and when minimized. The code below moves it to another device.
+799	Paste a save code
+800	Show my code
+801	Copy
+802	Load code
+803	What's new
+804	Privacy
+805	Terms
+806	Switch character
+807	Delete character
+808	Celestial Throne · version
+809	Sound effects
+810	Music
+811	Vibration
+812	High
+813	Battery saver
+814	Error log (
+815	Graphics quality will change after a restart. Restart now?
+816	Restart
+817	Enter a name
+818	Code copied
+819	Select and copy the code manually
+820	Save loaded
+821	The code didn't work: make sure it was copied completely
+822	Delete this character and all their progress? This cannot be undone.
+823	Delete
+824	Chronicles of the Celestials
+825	The Throne is empty, and the Abyss rises to the stars. Choose your hero's path.
+826	Skill: «
+827	For example, Aelita
+828	Begin the journey
+829	To characters
+830	Wanderer
+831	Welcome,
+832	There are already three heroes in your squad. You have 10 scrolls: the first ×10 summon guarantees an SSR hero.
+833	To summon
+834	today
+835	yesterday
+836	days ago
+837	Choose a character
+838	No characters on this server yet
+839	New character
+840	Free slots:
+841	Enter the game
+842	The save was modified manually and failed the authenticity check. Restore your progress with a save code
+843	Could not load the character
+844	All slots are taken
+845	Delete character «
+846	» forever? Progress cannot be restored.
+847	Character deleted
+848	Server
+849	The game currently works offline: characters are stored on this device. Other regions will open together with online mode.
+850	Language · Язык
+851	Enemies
+852	· squad
+853	Per chapter
+854	Auto-progress
+855	Trials
+856	· Boss
+857	Enemies:
+858	· strong against them:
+859	Chronicle
+860	Chapter available:
+861	Read
+862	chapters
+863	· rating
+864	· tickets
+865	/30 · attempts
+866	/5 · grand prize — USR skin
+867	Guild Titan
+868	Level
+869	· attempts
+870	Join to unlock the Titan and the Clan War
+871	All chapters cleared. New chapters will arrive in an update
+872	Assemble a squad
+873	cleared!
+874	Reward
+875	Next stage
+876	Strengthen your squad: raise heroes' levels and stars or summon new ones. Squad order matters too.
+877	Again
+878	Upgrade squad
+879	Auto-progress on: the next stage will start by itself
+880	Auto-progress off
+881	League
+882	wins ·
+883	losses
+884	Tickets:
+885	+1 ticket
+886	Daily league reward
+887	Arena Shop
+888	Claimed
+889	Claim
+890	Rating
+891	· power
+892	Fight
+893	Buy a ticket
+894	League reward «
+895	» claimed
+896	No tickets left: new ones tomorrow
+897	Arena ·
+898	To the arena
+899	Rating −8 →
+900	All events
+901	Activities
+902	30 tiers of Abyss demons · USR skin
+903	Left:
+904	Paid events: roulette, puzzle, path
+905	Legend Shards:
+906	· LR hero —
+907	Week
+908	Hero of the week:
+909	USR guarantee:
+910	Grand prize — a USR hero
+911	Free spin available
+912	Tokens:
+913	Battles against rival squads
+914	Shared guild boss
+915	Unlocks after joining a guild
+916	Clan War
+917	Weekly battle for rating
+918	Place
+919	Mon–Sun
+920	Login rewards
+921	Log in every day: on the seventh day — a pack of Fate Coupons.
+922	Day
+923	<span style="color:var(--good);font-size:12px">Claimed</span>
+924	Claim reward of day
+925	Come back tomorrow
+926	Login reward claimed
+927	Daily tasks
+928	/120 points
+929	Chest opened
+930	Skin «Void Demon» USR
+931	Abyss demons are storming the Throne. Clear 30 tiers before the end of the week. Each tier is stronger than the last; progress resets on Monday.
+932	Attempts today:
+933	Tier rewards
+934	Reward for tier
+935	Fight ·
+936	<b style="color:var(--good)">All tiers cleared this week</b>
+937	· tier
+938	<p>You got the USR skin «Void Demon»! Equip it on the hero screen.</p>
+939	Next tier
+940	To the event
+941	<p class="mute">Attempt spent. Strengthen your squad and come back.</p>
+942	Join a guild to fight the Guild Titan, battle other clans and buy rare goods in the Guild Shop.
+943	Your own guild
+944	Guild name
+945	/40 members
+946	Join
+947	Guild · level
+948	Guild EXP
+949	· damage is shared by the whole guild
+950	· tickets
+951	Attack the defenders of enemy clans. The first win against a clan gives a 100-point bonus. Rewards at the end of the week.
+952	Members
+953	(you)
+954	Guild Shop
+955	Leave
+956	Checked in
+957	Check in
+958	Clan War results
+959	last week
+960	You joined the guild «
+961	Enter a name
+962	Guild «
+963	» founded
+964	Check-in: +150
+965	Leave the guild? Clan War and Titan progress will be lost.
+966	Guild Titan · lv.
+967	Titan defeated! +
+968	gold for all members
+969	Titan defeated
+970	Attack finished
+971	Damage dealt:
+972	To the guild
+973	Clan War ·
+974	Clan points:
+975	· place
+976	<p class="mute">The defenders held. Try a weaker clan.</p>
+977	Celestial
+978	Coupons
+979	Wheel
+980	You have:
+981	Summon history
+982	Only UR, SSR and SSR+
+983	Regular summon
+984	Guarantee
+985	<p class="mute" style="font-size:12.5px;margin:8px 0 0">The first ×10 summon guarantees an SSR hero.</p>
+986	Free
+987	Altar
+988	Last
+989	heroes. The odds of every summon are shown on its banner.
+990	<p class="mute">Empty so far.</p>
+991	Done
+992	Again ×
+993	NEW
+994	GOLD
+995	+10 SHARDS
+997	<button class="btn sec" data-act="sumAll">Show all</button>
+998	Spin ·
+999	Grand prize — a USR hero. Guaranteed within 100 spins.
+1000	To guarantee:
+1001	Odds
+1002	SKY
+1003	Tokens or gold needed
+1004	Wheel of Heavens ×
+1005	Great
+1006	10 spins (tokens
+1007	, the rest in gold)
+1008	Spin
+1009	Requires a token or 150 gold
+1010	Gold purchases will arrive in a future update. For now gold comes from campaign stages, loot, logins, daily tasks, achievements, mail and the daily gift in the «Goods» tab.
+1011	Test mode
+1012	Payments are not connected: the buttons grant gold for free, no money is charged. Before release in Google Play and the App Store, their in-app purchases are connected here.
+1013	Custom amount
+1014	From 10 to 100,000,000 gold. The more, the better the rate.
+1015	Daily gift
+1016	Tomorrow
+1017	<p class="mute">The shop opens after joining a guild.</p>
+1018	Goods
+1019	10 USR hero shards
+1020	Left this week:
+1021	A guild is required
+1022	Buy «
+1023	USR shards
+1024	Purchase complete
+1025	Daily gift claimed
+1026	Payment provider not connected
+1027	Test mode: +
+1028	gold without payment
+1029	From 10 to 100,000,000
+1030	Unlocks after chapter
+1031	» in the Chronicle.
+1032	The chapter is already available — read it.
+1033	First reach chapter
+1034	of the campaign.
+1035	Read
+1036	Highest cap reached: Zenith 100
+1037	R1 · 300 — Zenith unlocks
+1038	The level cap grows as you clear campaign chapters
+1039	Level cap
+1040	Cap
+1041	lv. The next star raises it to
+1042	Max
+1043	Level:
+1044	Shards
+1045	Ascend to
+1046	Level up
+1047	power
+1048	Fusion →
+1049	Required:
+1050	. Ascension Stones — in paid events, the Guild Shop, the Legend Path and from bosses after stage 300
+1051	Ascend to
+1052	? Levels will continue at the new tier, stats will grow.
+1053	Ascension:
+1054	Ascend
+1055	FUSION! The hero shines with the power of 21 stars
+1056	New star rank:
+1057	Star
+1058	★ · level cap
+1059	Maximum: 21★
+1060	Not enough shards: need
+1061	. A duplicate hero gives 10, Star Essence replaces the missing ones
+1062	21★ · hero glow, stats ×1.3, crit +5%, speed +5
+1063	Star power
+1064	Every duplicate hero from a summon is 10 shards. Star Essence replaces missing shards (Legend Roulette, Celestial Puzzle, Legend Path).
+1065	Next star
+1066	Fusion costs
+1067	sh.
+1068	LR hero shards — at the Altar of Legends.
+1069	crit
+1070	Quality ↑
+1071	<span class="g" style="font-size:12px">Maximum</span>
+1072	Unlocks from hero level
+1073	(R1 and Zenith count as above 500).
+1074	Requires chapter
+1075	» in the Chronicle and hero level
+1076	.
+1077	Main gear
+1078	Upgrade all main gear
+1079	Not enough ore or silver. Ore comes from campaign stages and loot
+1080	Not enough ore or silver, or everything is at the quality cap
+1081	Gear: +
+1082	Requires Divine Essence and silver
+1083	Requires Ancient Shards and silver
+1084	Equipped
+1085	Every level of any wings you own gives the whole squad +0.05% attack and health.
+1086	None
+1087	Main hero: attack, health, defense +
+1088	<span class="tag">EQUIPPED</span>
+1089	<span style="color:#ff9a7a">Paid events</span>
+1090	Equipped:
+1091	These wings come in paid event packs
+1092	Requires
+1093	feathers. Feathers — in the Legend Roulette, the Puzzle, the Abyss event and the shop
+1094	Create «
+1095	feathers?
+1096	Wings created and equipped
+1097	Create
+1098	Not enough feathers
+1099	Mount
+1100	Other pets give the squad 30% of their bonus.
+1101	Hatch
+1102	Not selected
+1103	Squad: attack and health +
+1104	, speed +3
+1105	<span class="tag">RIDING</span>
+1106	From an egg
+1107	Pet selected
+1108	The Star Dragon comes in paid event packs
+1109	Hatch eggs: they are in the Chronicle, the Legend Roulette, the Legend Path and the shop
+1110	Not enough food. Food — in loot, the Roulette and the shop
+1111	No eggs
+1112	Hatched from the egg
+1113	New pet!
+1114	Already owned — 200 food received
+1115	Squad slots ·
+1116	Squad now: attack +
+1117	, health +
+1118	, defense +
+1119	, crit +
+1120	(with pets and wings)
+1121	, speed +
+1122	· lv.
+1123	Unequip
+1124	Equip
+1125	<span style="color:#ff9a7a;font-size:12px">Paid events</span>
+1126	All 4 slots are taken: unequip an artifact first
+1127	Not enough artifact dust
+1128	dust. Dust — from bosses, the arena and the Legend Roulette
+1129	dust?
+1130	Artifact created
+1131	Roulette
+1132	Puzzle
+1133	Legend Path
+1134	Packs
+1135	Paid events · for gold
+1136	Legend Shards exist only here.
+1137	shards — an LR hero at the Altar. Gold:
+1138	Legend Shards
+1139	Essence
+1140	Feathers
+1141	Food
+1142	Dust
+1143	Div. ess.
+1144	Anc. shards
+1145	Egg
+1146	Asc. stones
+1147	Gold
+1148	Legend Roulette
+1149	Guarantee: 50 Legend Shards in
+1150	spins
+1151	Spin
+1152	LEG.
+1153	ESS.
+1154	FEATH.
+1155	FOOD
+1156	DUST
+1157	DIV.
+1158	ANC.
+1159	EGG
+1160	ASC.
+1161	Legend Roulette ×
+1162	Rewards
+1163	Celestial Puzzle #
+1164	Picture:
+1165	(LR). Tile —
+1166	and a reward. Row or column —
+1167	Whole picture —
+1168	Picture complete!
+1169	The next puzzle is a new LR hero.
+1170	Next puzzle
+1171	Open a tile
+1172	Tile:
+1173	· lines ×
+1174	· PICTURE COMPLETE!
+1175	left:
+1176	Path points:
+1177	Regular
+1178	Legendary
+1179	Weekly tasks
+1180	<span class="sp g">Legendary path unlocked</span>
+1181	Unlock
+1182	Unlock the Legendary path
+1183	Legendary path unlocked
+1184	Path reward claimed
+1185	Already owned
+1186	Pack received
+1187	The Primordials are LR heroes, the strongest in the game. Unlock a hero:
+1188	. Once you own the hero, Legend Shards turn into their shards 1:1 — for star fusion.
+1189	+10 sh.
+1190	Unlock hero «
+1191	Legend Shards?
+1192	joins the squad of legends!
+1193	+10 hero shards
+1194	Skip
+1195	· tap to continue
+1196	before battle
+1197	read
+1198	Next
+1199	Unlocked:
+1200	Chapter skipped. You can read it in the Chronicle — reading gives a reward, and the story unlocks new systems
+1201	The story can be skipped, but every chapter you read gives a reward, and chapters 2, 3, 4, 6 and 10 unlock pets, wings, artifacts, divine and ancient gear.
+1202	· unlocks:
+1203	Reread
+1204	Paid events
+1205	[Tutorial
+1206	Done! Tap to claim the reward
+1207	Tutorial: «
+1208	<span class="mute" style="font-size:12px">In progress</span>
+1209	Achievement «
+1210	» unlocked
+1211	Letters from the Throne: gifts, compensation and update news.
+1212	<button class="btn wide" style="margin-top:10px" data-act="mailAll">Claim all</button>
+1213	<p class="mute">No letters.</p>
+1214	Gift from the letter received
+1215	Letters claimed:
+1216	While you were away
+1217	min
+1218	Your squad fought at stage
+1219	. Storage is full — log in more often so nothing is lost
+1220	Weekend: silver and EXP ×1.5.
+1221	Version
+1222	The full list of changes is in the project's CHANGELOG file.
+1223	Got it
+1224	<button class="btn jade" data-act="mail">Open mail</button>
+1225	«Celestial Throne» does not collect, share or sell personal data. No account is needed.
+1226	What is stored.
+1227	Game progress (heroes, resources, settings) and the hero name you entered yourself are stored only on your device — in the app's local storage. A save code is created only on your command and copied manually.
+1228	Network.
+1229	The game works offline. There are no analytics, ads or third-party trackers.
+1230	Purchases.
+1231	In the current version gold purchases work in test mode, no money is charged. If real purchases appear later, Google Play or the App Store will process them under their own rules; card data is never passed to the game.
+1232	Children.
+1233	The game is not designed to collect children's data and does not collect it.
+1234	Data deletion.
+1236	The developer's contact is listed on the app's store page.
+1237	The game is provided «as is» for entertainment. In-game resources, heroes and skins have no monetary value and cannot be exchanged for money.
+1238	Summoning.
+1239	Heroes in summons drop at random. Odds by rarity are shown on every banner and in the Wheel of Heavens; guarantees are tracked by counters on the same screens. The history of the last 100 heroes is in the «Summon» section.
+1240	Rivals.
+1241	In this version the arena, guilds and clan wars are played against computer opponents.
+1242	Saving.
+1243	Progress is stored on the device. Make a copy with a save code before changing phones.
+1244	Error log
+1245	If the game behaved strangely, send this text to the developer.
+1246	Exit the game? Progress is saved.
+1247	Skip
+1248	<p class="mute" style="font-size:12px;text-align:center;margin:8px 0 0">Heroes at 21★ no longer collect shards: duplicates turn into gold.</p>
+1249	Settings → «Delete character» or uninstalling the app erases all data.
+1250	Leader
+1251	This code is older than this character's progress on the device — rolling progress back is not allowed
+1252	Server login: pick your character at launch, up to 4 characters on EU · Europe, Server 1
+1253	Autosave for each character separately, a backup copy and transfer by code
+1254	20 languages: English by default, Ukrainian, Polish, Russian and 16 more
+1255	Protection: encrypted and signed saves, no rolling back progress with an old code, protection against changing the clock
+1256	Interface fixes for long names in different languages
+1257	Update 2.3: Servers and Languages
+1258	You can now choose a server and a character at launch, and the game speaks 20 languages — change the language in Settings. Saves are more reliable and protected from tampering. Thank you for playing!
